@@ -1,0 +1,131 @@
+html, body {
+  height: 100v;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  font-family: sans-serif;
+
+}
+
+.date {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#app .vis-item.vis-box, #app .vis-item.vis-cluster {
+  box-shadow: #0000005c 2px 3px 1px 0px;
+  text-align: left;
+  background: white;
+  border-color: black;
+  border-radius: 12px;
+}
+
+#app .vis-item.vis-cluster {
+  max-width: 300px;
+  text-align: left;
+}
+
+#app .vis-item.vis-cluster ul {
+  margin: 0;
+  padding: 10px 30px;
+  display:flex;
+  flex-direction: column;
+  gap: 10px;
+}
+#app .vis-panel.vis-center {
+  overflow: visible;
+  z-index: 2;
+}
+
+#app .vis-timeline {
+  overflow: visible;
+}
+#app .vis-minor, #app .vis-major {
+  font-family: sans-serif;
+}
+#app .vis-item .vis-item-content {
+  white-space: wrap;
+}
+
+.vis-even {
+  background: #f2f2f2;
+}
+
+#app .vis-time-axis .vis-text {
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 7px 7px;
+}
+
+#app .vis-cluster-line, #app .vis-line, #app .vis-cluster-dot, #app .vis-dot {
+  border-color: black;
+}
+
+.external-link {
+  width: 13px;
+}
+
+.details-drawer {
+  font-family: sans-serif;
+}
+
+.timeline-tag:has(~ .selected), .selected ~ .timeline-tag {
+  opacity: .4;
+}
+
+.filters {
+  display: flex;
+  gap: 16px;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.timeline-item {
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.timeline-item.no-tags {
+  gap: 0px;
+}
+
+.timeline-tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 20px;
+}
+
+.timeline-tags-container.empty {
+  margin-top: 0px;
+
+}
+
+.timeline-tag {
+  font-size: 12px;
+  padding: 2px 6px;
+  background: rgb(231, 231, 231);
+  border: #bfbcbc solid 1px;
+  border-radius: 5px;
+
+}
+
+
+.timeline-item-title {
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif
+}

@@ -3,11 +3,13 @@ import "./style.css";
 import { max, parse } from "date-fns";
 import { parseToJson } from "./org";
 import { DataSet } from "vis-data";
+import { initializeAnalytics } from "./analytics.js";
 
 import { split } from "change-case";
 import timeline from "./timeline/timeline.js";
 
 (async () => {
+  initializeAnalytics();
   const orgFile = (await import(`../current-events.org?raw`)).default;
   const groupsRaw = [
     { id: 1, content: "Judicial" },

@@ -1,10 +1,1124 @@
+# -*- eval: (visual-line-mode 1); eval: (visual-fill-column-mode 1); visual-fill-column-center-text: 1 -*-
+#+PROPERTY: Branch_ALL Judicial Executive Legislative
+#+STARTUP: show2levels hidestars indent
 
 * 2018
+
 ** 2018-05 May
+
 *** 2018-05-04 Friday
+
 **** Trump Administration ends Temporary Protected Status for Hondurans :immigration:Honduras:Hondurans:TPS:deportation:
 :PROPERTIES:
 :Link:     https://web.archive.org/web/20250405071021/https://www.npr.org/sections/thetwo-way/2018/05/04/608654408/trump-administration-ends-temporary-protected-status-for-hondurans
 :Branch:   Executive
 :Subject:  Temporary Protected Status
+:ID:       7B7A1EA3-2549-4DDC-B2ED-69A768B43EAB
+:END:
+:RELATED:
+[[id:D42B8289-84A7-463D-83D0-383EFB87A585][Hundreds of thousands of Haitian immigrants lose temporary protection status under Kristi Noem]]
+:END:
+
+* 2023
+
+** 2023-09 September
+
+*** 2023-09-20 Wednesday
+
+**** Biden administration announces it will grant temporary legal status to hundres of thousands of Venezuelans who are already in the country :Biden:Venezuela:Venezuelans:immigration:DHS:
+:PROPERTIES:
+:Link:     https://apnews.com/article/biden-immigration-border-migrant-venezuela-b914be14aaeef14eb01bd10ee23067f4
+:Branch:   Executive
+:Subject:  Immigration
+:ID:       72198DE3-19B5-4FC2-9EB7-5DA9D649C06A
+:END:
+:RELATED:
+[[id:8F5ADEF4-72FE-427B-8D22-02C0EF923738][Biden administration announce they will resume deportation flights for Venezuelan migrants]]
+:END:
+A potential resolution to the growing numbers of people fleeing Venezuela and elsewhere at the U.S.-Mexico border.
+
+** 2023-10 October
+
+*** 2023-10-05 Thursday
+
+**** Biden administration announce they will resume deportation flights for Venezuelan migrants :Biden:Venezuela:Venezuelans:deportation:immigration:
+:PROPERTIES:
+:Link:     https://apnews.com/article/mexico-united-states-fentanyl-migration-3ea8f589019506d271906d83be432cdf
+:Branch:   Executive
+:Subject:  Immigration
+:ID:       8F5ADEF4-72FE-427B-8D22-02C0EF923738
+:END:
+:BACKLINKS:
+[2025-04-25 Fri 16:50] <- [[id:72198DE3-19B5-4FC2-9EB7-5DA9D649C06A][Biden administration announces it will grant temporary legal status to hundres of thousands of Venezuelans who are already in the country]]
+:END:
+:RELATED:
+[[id:D8ACAA9C-06D7-4BD0-A011-D9D9D97F9C4E][Supreme Court temporarily blocks Trump administration from deporting Venezuelans in district of Texas to El Salvador due to concerns that they were already preparing the detainees]]
+[[id:B7A18D67-B3A8-47A1-8644-17F84B0F8C7A][Venezuelan who was removed from the El Salvador plane went to his March 17 hearing where the government was unable to produce any evidence that he was a member of Tren de Aragua]]
+:END:
+Due to the growing border crossings from Venezuela and despite recent expansion of protected status for thousands of Venezuelans who previously arrived in the U.S.
+
+*** 2023-10-17 Tuesday
+
+**** Ex-Michigan gubernatorial candidate sentenced to 2 months behind bars for Capitol riot role
+:PROPERTIES:
+:Branch:
+:Subject: January 6
+:Link: https://apnews.com/article/ryan-kelley-sentence-michigan-governor-capitol-riot-613cbf4da92b90b4869c3c3af3762e73
+:END:
+- Note taken on [2025-04-26 Sat 11:57] \\
+  He mentioned he wanted to see trumps receipts for claiming the election was stolen, but that he was never shown the receipts
+
+* 2024
+
+** 2024-10 October
+
+*** 2024-10-02 Wednesday
+
+**** Trump tells NewsNation he would “absolutely” revoke the temporary protected status of the Haitian migrants in Springfield :deportation:immigration:Trump:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/phillewis.bsky.social/post/3l5l6fwqyc52y
+:Branch:   Executive
+:Subject:  Haitian Protected Status
+:END:
+
+These are the folks that Trump and JD Vance said were eating cats and dogs and that they are illegal
+They have TPS due to the earthquake in Haiti in 2008
+
+* 2025
+
+** 2025-01 January
+
+*** 2025-01-20 Monday
+
+**** Trump signs Executive Order for a hiring freeze for all federal agencies :federalAgency:staffing:executiveOrder:Trump:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250402081832/https://www.federalregister.gov/documents/2025/01/28/2025-01905/hiring-freeze
+:Branch:   Executive
+:Subject:  Federal Agency Staffing
+:END:
+
+*** 2025-01-21 Tuesday
+
+**** Trump signs executive order allowing ICE arrests inside schools and churches :executiveOrder:ICE:deportation:immigration:
+:PROPERTIES:
+:Subject:  Deportation
+:Link:     https://web.archive.org/web/20250417003120/https://apnews.com/article/immigration-enforcement-sensitive-locations-trump-ab0d2d2652e9df696f14410ebb52a1fc
+:Branch:   Executive
+:END:
+
+*** 2025-01-29 Wednesday
+
+**** Reporting says an 18-year-old woman from Nicaragua is held in ICE custody after fighting with her younger brother :ICE:Nicaragua:family:
+:PROPERTIES:
+:Link:     https://www.nbcboston.com/news/local/lynn-teen-in-ice-custody-after-fight-over-phone-with-younger-brother-family-says/3616907/
+:Branch:   Executive
+:Subject:  ICE
+:END:
+They had come from Nicaragua and claimed asylum. Woman was given ability to work while awaiting asylum hearing.
+Woman's mom was so afraid she said she wanted her daughter released or for her to be deported with her daughter.
+She was transferred out of state.
+Her brother said he wasn't hurt and he didn't have any visible injuries. The woman did not have a criminal record and worked while going to school.
+
+** 2025-02 February
+
+*** 2025-02-04 Tuesday
+
+**** Family with 10-year-old daughter with brain cancer deported on their way to an emergency medical checkup :immigration:deportation:family:
+:PROPERTIES:
+:Subject:  Deportation
+:Branch:   Executive
+:Link:     https://web.archive.org/web/20250409231518/https://www.nbcnews.com/news/latino/us-citizen-child-recovering-brain-cancer-deported-mexico-undocumented-rcna196049
+:END:
+
+*** 2025-02-06 Thursday
+
+**** Environmental justice EPA employees placed on leave :EPA:layoffs:environment:environmentalJustice:pollution:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250402102107/https://www.npr.org/2025/02/06/nx-s1-5289331/epa-environmental-justice-office
+:Branch:   Executive
+:Subject:  Mass Federal Worker Layoffs
+:ID:       3DEF0D98-C34E-4DC2-AC96-E2F2E31607B7
+:END:
+:BACKLINKS:
+[2025-04-22 Tue 21:01] <- [[id:25853F7D-FC9F-4D86-BCC8-3028782ADBF4][EPA begins layoffs of nearly 200 environmental justice employees]]
+:END:
+The EPA's Office of Environmental Justice and External Civil Rights focused primarily on efforts to reduce environmental harms to poor and minority communities that have faced disproportionate harm from environmental and climate pollution.
+
+*** 2025-02-20 Thursday
+
+**** Hundreds of thousands of Haitian immigrants lose temporary protection status under Kristi Noem :DHS:KristiNoem:immigration:deportation:
+:PROPERTIES:
+:Link:     https://ohiocapitaljournal.com/2025/02/20/repub/hundreds-of-thousands-of-haitian-immigrants-to-lose-protected-status-by-august/
+:Branch:   Executive
+:Subject:  Haitian Protected Status
+:ID:       D42B8289-84A7-463D-83D0-383EFB87A585
+:END:
+:BACKLINKS:
+[2025-04-25 Fri 16:31] <- [[id:7B7A1EA3-2549-4DDC-B2ED-69A768B43EAB][Trump Administration ends Temporary Protected Status for Hondurans]]
+:END:
+
+*** 2025-02-21 Friday
+
+**** Trump tells Maine Governor Janet Mills that Maine will not receive federal funding unless they stop trans girls from participating in girls sports :transRights:Maine:
+:PROPERTIES:
+:Subject:  Trans Rights
+:Branch:   Executive
+:Link:     https://web.archive.org/web/20250328015020/https://fortune.com/2025/02/21/trump-threatens-to-withhold-federal-funding-from-maine-governor-law-transgender-athletes-state/
+:END:
+
+** 2025-03 March
+
+*** 2025-03-03 Monday
+
+**** Canadian detained by ICE for two weeks over work visa problems :ICE:immigration:workVisa:Canada:deporation:
+:PROPERTIES:
+:Link: https://web.archive.org/web/20250412114936/https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney
+:Branch: Executive
+:Subject: ICE
+:END:
+
+*** 2025-03-07 Friday
+
+**** Tribal communities lost roughly $1.6 billion in infrastructure grants from EPA after funding freeze :tribalCommunity:funding:EPA:climateChange:
+:PROPERTIES:
+:Branch:   Executive
+:Subject:  Funding freeze
+:Link:     https://www.npr.org/2025/04/14/nx-s1-5342539/federal-funding-freeze-halts-native-american-projects
+:END:
+
+*** 2025-03-15 Saturday
+
+**** 300+ Venezualens sent to CECOT in El Salvador               :ElSalvador:
+:PROPERTIES:
+:Link:     TODO
+:Subject: CECOT
+:ID:       A94F9309-BB56-43CC-BE91-6116D0073C35
+:END:
+:RELATED:
+[[id:A8795AF3-FB65-4E11-8485-5453A83705A2][Judge orders Garcia be returned from CECOT by Monday April 7 at 11:59 PM]]
+:END:
+
+**** Pete Hegseth shares detailed information about forthcoming strikes in Yemen in a private Signal group chat that included his wife, brother (pentagon advisor), and personal lawyer (pentagon advisor) :Signalgate:Signal:PeteHegseth:Pentagon:classifiedInformation:malpractice:Yemen:
+:PROPERTIES:
+:Link:     https://www.nytimes.com/2025/04/20/us/politics/hegseth-yemen-attack-second-signal-chat.html?unlocked_article_code=1.BE8.Iakc.SUEQhzcc2uj0&smid=nytcore-ios-share&referringSource=articleShare
+:Branch:   Executive
+:Subject:  Signalgate
+:END:
+This chat was setup before he was sworn in to discuss non-confidential information, but then was used to share this confidential info.
+He used his personal phone for this chat, supposedly.
+
+*** 2025-03-17 Monday
+
+**** Venezuelan who was removed from the El Salvador plane went to his March 17 hearing where the government was unable to produce any evidence that he was a member of Tren de Aragua :CECOT:TrenDeAragua:ElSalvador:deportation:Venezuelans:immigration:ICE:Venezuela:
+:PROPERTIES:
+:Link:     https://storage.courtlistener.com/recap/gov.uscourts.dcd.278436/gov.uscourts.dcd.278436.44.11_5.pdf
+:Branch:   Executive
+:Subject:  CECOT
+:ID:       B7A18D67-B3A8-47A1-8644-17F84B0F8C7A
+:END:
+:BACKLINKS:
+[2025-04-25 Fri 16:43] <- [[id:8F5ADEF4-72FE-427B-8D22-02C0EF923738][Biden administration announce they will resume deportation flights for Venezuelan migrants]]
+:END:
+
+*** 2025-03-31 Monday
+
+** 2025-04 April
+
+*** 2025-04-01 Tuesday
+
+**** Cuts to two-thirds of NIOSH staff and MSHA office leases threaten coal miners and firefighters :MineSafetyAndHealthAdministration:NationalInstituteForOccupationalSafetyAndHealth:MSHA:NIOSH:DOGE:coalMining:coal:miners:workers:jobs:jobCuts:staffing:staffingCuts:federalAgency:federalFunding:healthAndSafety:firefighters:
+:PROPERTIES:
+:Link:     https://www.reuters.com/business/world-at-work/trump-eyes-coal-revival-his-job-cuts-hobble-black-lung-protections-miners-2025-04-21
+:Branch:   Executive
+:Subject:  Federal Agency Staffing
+:END:
+Cuts to NIOSH and MSHA cause stoppage of screening and testing for black lung. Such testing is often the only health checks miners use and are required to receive a job via the Part 90 program, led by NIOSH, that relocates miners with black lung to a desk job in the mining industry paying the same wage.
+Cuts removed team who investigated fatalities in firefighters
+
+***** Additional links
+- [[https://web.archive.org/web/20250411044316/https://www.cnn.com/2025/04/06/health/cdc-niosh-cuts-safety/index.html][‘A huge impact on worker safety’: Protection for miners, firefighters in jeopardy after CDC cuts]]
+- [[https://web.archive.org/web/20250422112424/https://wvpublic.org/umwas-roberts-trump-policies-could-harm-coal-miners-exports/][UMWA’s Roberts: Trump Policies Could Harm Coal Miners, Exports]]
+- [[https://web.archive.org/web/20250422112417/https://wvpublic.org/capito-i-have-strong-disagreements-with-trump-agency-cuts/][Capito: ‘I Have Strong Disagreements’ With Trump Agency Cuts]]
+- [[https://web.archive.org/web/20250422113523/https://wvpublic.org/niosh-cuts-a-matter-of-life-or-death-for-workers-scientist-says/][NIOSH Cuts A Matter Of Life Or Death For Workers, Scientist Says]]
+- [[https://web.archive.org/web/20250411144856/https://www.npr.org/sections/shots-health-news/2025/04/09/nx-s1-5356067/niosh-cdc-coal-miner-black-lung-trump-doge][Coal miners' health care hit hard in job cuts to CDC]]
+- [[https://web.archive.org/web/20250422203248/https://www.propublica.org/article/trump-cuts-firefighter-deaths][Trump Laid Off Nearly All the Federal Workers Who Investigate Firefighter Deaths]]
+
+**** U.S. citizen mistakenly detained by ICE outside Michigan courthouse :racism:Michigan:ICE:
+:PROPERTIES:
+:Link:     https://www.mlive.com/news/ann-arbor/2025/04/us-citizen-mistakenly-detained-by-ice-outside-michigan-courthouse-speaks-out.html
+:Branch:   Executive
+:Subject:  ICE
+:END:
+
+They had the wrong guy, which means they apprehended him based on the color of his skin
+
+*** 2025-04-02 Wednesday
+
+**** USDA issues letter to Maine stating their funding will be cut off
+
+*** 2025-04-03 Thursday
+
+**** Judge orders Garcia be returned from CECOT by Monday April 7 at 11:59 PM
+:PROPERTIES:
+:Branch:   Judicial
+:Subject:  Kilmar Abrego Garcia
+:Link:     TODO
+:ID:       A8795AF3-FB65-4E11-8485-5453A83705A2
+:END:
+:BACKLINKS:
+[2025-04-24 Thu 16:16] <- [[id:A94F9309-BB56-43CC-BE91-6116D0073C35][300+ Venezualens sent to CECOT in El Salvador]]
+:END:
+
+**** USDA withholds federal funding from Maine Department of Education's Child Nutrition Program, citing defiance of Title IX over transgender athletes playing on girls and women's teams
+:PROPERTIES:
+:Branch:   Executive
+:Subject:  Trans Rights
+:Link: https://web.archive.org/web/20250406084356/https://www.usda.gov/sites/default/files/documents/maine-letter.pdf
+:END:
+
+Funding was also inaccessible for their National School Lunch Program Equipment Assistance Grant and the Farm to School State Formula Grant
+
+*** 2025-04-08 Tuesday
+
+**** U.S. citizen in Arizona arrests by ICE; will be detained for 10 days :ICE:wrongfulDetention:immigration:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250420190143/https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/
+:Branch:   Executive
+:Subject:  ICE
+:END:
+The man didn't have ID on him. It required his family providing his birth certificate to the court.
+A judge dismissed the case on April 17.
+
+*** 2025-04-09 Wednesday
+
+**** Trump signs EO targeting Christopher Krebs, former head of CISA for denying election interference; Also targeting Miles Taylor :elections:revenge:authoritarian:
+:PROPERTIES:
+:Branch:   Executive
+:Subject:  2020 Election
+:Link:     https://web.archive.org/web/20250411215218/https://www.whitehouse.gov/presidential-actions/2025/04/addressing-risks-from-chris-krebs-and-government-censorship/
+:END:
+
+*** 2025-04-10 Thursday
+
+**** DOGE starts at FDIC
+:PROPERTIES:
+:Branch:   Executive
+:Subject:  DOGE
+:Link:     https://web.archive.org/web/20250410213020/https://www.thehandbasket.co/p/doge-fdic
+:END:
+
+**** House votes on budget resolution that cuts Medicaid funding      :house:
+:PROPERTIES:
+:Branch:   Legislative
+:Subject:  Medicaid
+:Link:     https://web.archive.org/web/20250410213559/https://www.pbs.org/newshour/politics/house-gop-approves-framework-for-trumps-big-budget-bill-after-intense-talks-win-over-gop-holdouts
+:END:
+
+**** House approves SAVE act, limiting voting rights     :votingRights:house:
+:PROPERTIES:
+:Branch:   Legislative
+:Subject:  SAVE act
+:Link:     https://web.archive.org/web/20250410214547/https://apnews.com/article/congress-save-act-citizenship-republicans-women-0c0ba9fd8e6a01cf144736490c71df21
+:END:
+
+https://aaronparnas.substack.com/p/breaking-house-passes-save-act-requiring?r=mwv7z&utm_campaign=post&utm_medium=web&triedRedirect=true
+
+**** Supreme Court upholds facilitation of return of Kilmar Abrego Garcia from El Salvador's CECOT :immigration:judicialSystem:deportation:supremeCourt:
+:PROPERTIES:
+:Branch:   Judicial
+:Subject:  CECOT
+:Link:     https://web.archive.org/web/20250410225629/https://bsky.app/profile/chrisgeidner.bsky.social/post/3lmildjwftc2b
+:END:
+
+- [[https://web.archive.org/web/20250410231150/https://www.supremecourt.gov/opinions/24pdf/24a949_lkhn.pdf][Supreme Court Ruling]]
+
+**** Education Department Inspector General begins probe into Trump's firing of 50% of the Department
+:PROPERTIES:
+:Branch:   Executive
+:Subject:  Department of Education
+:Link:     https://web.archive.org/web/20250411212907/https://www.nbcnews.com/news/education/drastic-staffing-cuts-education-department-reviewed-rcna200579?cid=sm_npd_nn_tw_ma&taid=67f842edfda153000133d0bd
+:END:
+
+*** 2025-04-11 Friday
+
+**** DOJ defies court order to update on steps to bring Garcia back from CECOT
+:PROPERTIES:
+:Subject:  Kilmar Abrego Garcia
+:Branch:   Judicial
+:Link:     https://www.axios.com/2025/04/11/trump-doj-maryland-man-el-salvador-prison
+:END:
+
+**** Court enjoins USDA in TRO ordering them to restore funding to Maine Department of Education's Child Nutrition Program until judicial review of possible non-compliance with the Administrative Procedure Act :trans:rights:federal:funding:APA:
+:PROPERTIES:
+:Branch:   Judicial
+:Subject:  Trans Rights
+:Link: https://web.archive.org/web/20250412000526/https://storage.courtlistener.com/recap/gov.uscourts.med.67828/gov.uscourts.med.67828.12.0.pdf
+:END:
+
+The federal government is required to submit a report to relevant house/senate committees and must wait 30 days for further action. They are also only able to withhold funding from the program under breach of Title IX, which no funding was withheld from the athletic program
+Funding mostly impacts the administration and oversight of feeding programs, not the food itself
+https://www.erininthemorning.com/p/judge-rules-trump-cannot-take-school
+
+**** Social Security Admin moves all comms to X               :ElonMusk:DOGE:
+:PROPERTIES:
+:Branch:   Executive
+:Subject:  Social Security
+:Link:     https://web.archive.org/web/20250411214125/https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/
+:END:
+
+**** North Carolina Supreme Court rules to count MOST ballots for NC election
+:PROPERTIES:
+:Subject:  Elections
+:Branch:   Judicial
+:Link:     https://web.archive.org/web/20250411214521/https://www.democracydocket.com/news-alerts/north-carolina-supreme-court-rules-to-count-some-ballots-reject-others/
+:END:
+
+**** Immigration Judge rules Mahmoud Khalil can be deported for his views on Palestine
+:PROPERTIES:
+:Subject:  Immigration
+:Branch:   Judicial
+:Link:     https://web.archive.org/web/20250411220048/https://www.theguardian.com/us-news/2025/apr/11/mahmoud-khalil-deportation-ruling-immigration
+:ID:       F603AD16-1AE1-4C5D-9EB0-2B7A4F1EE668
+:END:
+
+Will be appealed. Deportation won't happen right away as there is another suit open in another federal court
+
+#+BEGIN_QUOTE
+Before folks overreact to headlines about the judge’s ruling in the Khalil case, please note that (1) it was an immigration judge (IJ), not a federal district court; and (2) the IJ had no power to consider Khalil’s constitutional objections.
+
+This particular decision was a fait accompli.
+-- @stevevladeck.bsky.social
+[[https://bsky.app/profile/stevevladeck.bsky.social/post/3lmktwgd4tc2l][Bluesky Post]]
+#+END_QUOTE
+
+**** Military contracts pitch plan to send illegal immigrant "criminals" to CECOT in spaces designated as American territory to curtail legal challenges :ElSalvador:CECOT:Blackwater:immigration:deportation:dueProcess:unconstitutional:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250418013311/https://www.politico.com/news/2025/04/11/military-contractors-prison-plan-detained-immigrants-erik-prince-00287208
+:Branch:   Executive
+:Subject:  CECOT
+:END:
+
+*** 2025-04-12 Saturday
+
+**** Talks with Iran officially begin to agree that Iran will not obtain a nuclear weapon :Iran:nuclearDeals:diplomacy:
+:PROPERTIES:
+:Subject:  Nuclear Weapons
+:Branch:   Executive
+:END:
+
+Trump pulled us from the Iran Nuclear agreement during his first administration, but now says [[https://www.nytimes.com/2025/04/09/us/politics/trump-iran-nuclear-deal.html][he wants to have a better deal than Obama's]] (the one he pulled out from)
+
+**** An estimated 36,000 people attended the "Fighting Oligarchy" rally with Bernie Sanders and Ocasio-Cortez
+:PROPERTIES:
+:Subject:  rallies
+:Link:     https://web.archive.org/web/20250413003828/https://www.dailynews.com/2025/04/12/sen-bernie-sanders-and-rep-alexandria-ocasio-cortez-rally-thousands-in-la/
+:Branch:
+:END:
+
+**** Trump admin begins argument that people sent to CECOT are under the [[https://storage.courtlistener.com/recap/gov.uscourts.mdd.578815/gov.uscourts.mdd.578815.63.0_1.pdf]["sovereign, domestic authority"]] of El Salvador
+:PROPERTIES:
+:Subject:  Kilmar Abrego Garcia
+:Branch:   Executive
+:Link:     https://truthsocial.com/@realDonaldTrump/posts/114327375256344311
+:END:
+
+*** 2025-04-13 Sunday
+
+**** 10 more people sent to CECOT, accused of being members of MS-13 and Tren de Aragua, announced by Marco Rubio :immigration:el:salvador:CECOT:
+:PROPERTIES:
+:Subject:  CECOT
+:Branch:   Executive
+:Link:     https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lmph2fkjuc27
+:END:
+
+**** Rumeysa Ozturk, the Tuft's student detained by ICE for false claims of antisemitism due to an op-ed she wrote criticizing Israel, was ruled to not have exhibited any antisemitism PRIOR to detainment
+:PROPERTIES:
+:Subject+: Rumeysa Ozturk
+:Subject+: deportation
+:Subject+: immigration
+:Link:     https://www.washingtonpost.com/national-security/2025/04/13/tufts-student-rumeysa-ozturk-rubio-trump/
+:END:
+
+  https://www.washingtonpost.com/national-security/2025/04/13/tufts-student-rumeysa-ozturk-rubio-trump/
+
+**** 20,000 people attend the Fight Oligarchy rally in Salt Lake City Utah :theOpposition:
+:PROPERTIES:
+:Branch:
+:Subject:  Fight Oligarchy
+:Link:     https://bsky.app/profile/did:plc:rykdttqe5iqmoa33udmb2dp6/post/3lmqjrkz7qs2a
+:END:
+
+*** 2025-04-14 Monday
+
+**** Court hearing to release Ozturk while removal proceedings continue :Palastine:deportation:falseAntisemitism:immigration:
+:PROPERTIES:
+:Subject:  Rumeysa Ozturk
+:Branch:   Judicial
+:Link:     TODO
+:END:
+
+Judge seems to be siding with UCLA to keep habeas corpus jurisdiction in Vermont instead of Lousiana. A hearing regarding release will occur in May.
+
+**** El Salvador's Bukele says he will not release Kilmar Abrego Garcia. :salvador:CECOT:immigration:deportation:
+:PROPERTIES:
+:Branch:   Executive
+:Link:     https://web.archive.org/web/20250414165532/https://www.axios.com/2025/04/14/nayib-bukele-kilmar-abrego-garcia-trump-deportation-return
+:Subject:  Kilmar Abrego Garcia
+:END:
+
+#+BEGIN_QUOTE
+How can I smuggle a terrorist into the United States? Of course I'm not going to do it. The question is preposterous
+#+END_QUOTE
+
+**** Reports of one of the 300+ Venezualens sent to CECOT, Merwil Gutiérrez, was referred to as "not that one" by ICE, but they detained him anyways
+:PROPERTIES:
+:Subject:  CECOT
+:Branch:   Executive
+:Link:     https://web.archive.org/web/20250414172737/https://documentedny.com/2025/04/14/ice-bukele-cecot-tren-de-aragua-el-salvador-new-york-deported/
+:END:
+
+**** Harvard rejects demands and threats of withholding funds by Trump
+:PROPERTIES:
+:Branch:   Executive
+:Subject:  Threats on Universities
+:Link:     https://bsky.app/profile/nikobowie.bsky.social/post/3lms2v3kils2k
+:END:
+
+**** Trump is sued in US Court of International Trade over tariffs :tariffs:lawsuit:Trump:
+:PROPERTIES:
+:Subject:  tariffs
+:Branch:   Judicial
+:Link:     https://web.archive.org/web/20250414192628/https://www.reuters.com/business/trump-administration-sued-over-tariffs-us-court-international-trade-2025-04-14/
+:END:
+
+**** US Senator for Maryland Chris Van Hollen requests meeting with Bukele while in the US; plans to travel to El Salvador if Kilmar Abrego Garcio isn't returned this week.
+:PROPERTIES:
+:Subject:  Kilmar Abrego Garcia
+:Branch:   Legislative
+:Link:     https://www.documentcloud.org/documents/25895668-record-of-contract-termination-of-charting-my-path-for-future-success/
+:END:
+
+Kilmar Abrego Garcia lives in Maryland
+
+**** Trump insists again that Ukraine started war with Russia
+:PROPERTIES:
+:Subject:  Russian Invasion of Ukraine
+:Branch:   Executive
+:Link:     https://www.axios.com/2025/04/14/trump-blames-zelensky-russia-ukraine-war-ceasefire
+:END:
+
+**** Palestinian student activist, Mohsen Mahdawi, arrested by ICE :falseAntisemitism:
+:PROPERTIES:
+:Branch:   Executive
+:Subject:  Isreal Protests
+:Link:     https://web.archive.org/web/20250414234025/https://www.bbc.com/news/articles/cwy0332y7xzo
+:END:
+
+Mohsen was trying to attend an interview as part of his application for US citizenship
+
+**** $2.3 billion  in federal funds are frozen after Harvard fought back against trump :funding:
+:PROPERTIES:
+:Branch:   Executive
+:Subject:  Federal funding
+:Link:     https://www.reuters.com/world/us/harvard-will-fight-trump-administration-demands-over-funding-2025-04-14/
+:END:
+
+[[https://www.thecrimson.com/article/2025/4/4/funding-review-hospitals/][This will impact funding five hospitals]] which assist in biomedical research
+
+**** U.S. judge orders administration not to deport Mohsen Mahdawi :deportation:immigration:falseAntisemitism:
+:PROPERTIES:
+:Branch:   Judicial
+:Subject:  Deportation
+:Link:     https://www.reuters.com/world/us/another-columbia-student-arrested-by-us-immigration-officials-2025-04-15/
+:END:
+
+**** Ranking Member Shaheen Urges Secretary Rubio to Facilitate the Release of Unlawfully Detained U.S. Resident in El Salvador and Seeks Transparency on Deportation Deals :SenateCommittee:ElSalvador:CECOT:
+:PROPERTIES:
+:Branch:   Legislative
+:Subject:  CECOT
+:Link:     https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-urges-secretary-rubio-to-facilitate-the-release-of-unlawfully-detained-us-resident-in-el-salvador-and-seeks-transparency-on-deportation-deals
+:END:
+
+**** Colorado judge orders class TRO for all of Colorado to provide 30 days notice for removal of immigrants in custody there :deportation:immigration:
+:PROPERTIES:
+:Branch:   Judicial
+:Subject:  Immigration
+:Link:     https://storage.courtlistener.com/recap/gov.uscourts.cod.243061/gov.uscourts.cod.243061.2.0.pdf
+:END:
+
+**** At least three medical journals received letters from a U.S. Attorney asking about "competing viewpoints" :disinformation:pseudoscience:medical:independence:DOJ:intimidation:
+:PROPERTIES:
+:Link:     https://www.medpagetoday.com/special-reports/exclusives/115180
+:END:
+
+**** CBP states tariff revenue is $250 million per day, far under Trump's stated $2 billion per day :CPB:usCustomsAndBorderProtection:tariffs:lies:Trump:
+:PROPERTIES:
+:Link:     https://www.cnbc.com/2025/04/16/us-customs-tariffs-revenue-generated-since-april-5.html
+:Branch:   Executive
+:Subject:  tariffs
+:END:
+
+**** HHS launces "whistleblower" form to snitch on gender affirming care providers regardless if the care is legal or not :transRights:genderAffirmingCare:HHS:DepartmentOfHealthAndHumanServices:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250422234610/https://www.erininthemorning.com/p/hhs-launches-snitch-form-to-report
+:Branch:   Executive
+:Subject:  Trans Rights
+:END:
+
+***** Additional links
+- [[https://www.hhs.gov/protect-kids/index.html]["whistleblower" form]]
+
+*** 2025-04-15 Tuesday
+
+**** Whistleblower details how DOGE may have taken sensitive NLRB data
+:PROPERTIES:
+:Branch:   Executive
+:Subject:  Data Breach
+:Link:     https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security
+:END:
+
+**** Status update on Garcia case, available 15 minutes before hearing, threatens detainment or nullification of removal withholding to El Salvador if he enters a port of entry :DHS:deportation:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250415194807/https://www.courtlistener.com/docket/69777799/77/abrego-garcia-v-noem/
+:Branch:   Executive
+:Subject:  Kilmar Abrego Garcia
+:END:
+
+**** Judge blocks most of Trump executive order against law firm Susman Godfrey :lawFirms:
+:PROPERTIES:
+:Link:     https://www.reuters.com/legal/judge-blocks-most-trump-executive-order-against-law-firm-susman-godfrey-2025-04-15/
+:Branch:   Judicial
+:Subject:  Law firms
+:END:
+
+Via TRO
+
+**** Judge orders deposition and discovery over two weeks to learn what the Trump administration has (or has not) done to "facilitate" Garcia's return :CECOT:contempt:jurisdiction:DOJ:ElSalvador:
+:PROPERTIES:
+:Link:     https://www.reuters.com/legal/judge-consider-trumps-compliance-with-order-over-wrongly-deported-man-2025-04-15/
+:Branch:   Judicial
+:Subject:  Kilmar Abrego Garcia
+:END:
+
+Made a point of creating a space where the judge should play "referee" to deposition and cross-examination by lawyers.
+
+**** Anonymous leaks 10TB of data on corrupt Russians, Kremlin assets, and Donald Trump :anonymous:dataLeak:Russia:Kremlin:DonaldTrump:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/youranoncentral.bsky.social/post/3lmvbpc66qc2j
+:Branch:
+:Subject:  Data Leak
+:END:
+
+**** A top advisor to Pete Hegseth is placed on leave after discovering he leaked confidential pentagon information :Pentagon:DOD:security:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250416013827/https://apnews.com/article/caldwell-pentagon-investigation-leaks-hegseth-344d480e47cf4c04e0b2c510bd333b02
+:Branch:   Executive
+:Subject:  Information Security
+:END:
+
+**** Man who has been citizen for 10 years — and his wife — are detainedfor about five hours while returning by car to Vermont from Canada :immigration:usCustomsAndBorderProtection:CBP:detainment:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250416015802/https://www.nbcboston.com/news/politics/treated-like-a-criminal-us-citizen-says-he-was-detained-returning-from-canada/3686188/
+:Branch:   Executive
+:Subject:  Immigration
+:END:
+
+**** Republican House members visit CECOT and take photo ops in front of prisoners :propaganda:congress:CECOT:malpractice:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250418025032/https://www.thehandbasket.co/p/selfies-cecot-el-salvador-abu-ghraib
+:Branch:   Legislative
+:Subject:  CECOT
+:END:
+
+**** Students at Pentagon schools sue Pete Hegseth over book bans on race and gender :DEI:PeteHegseth:Pentagon:race:gender:school:bookBan:censorship:learning:
+:PROPERTIES:
+:Link:     https://www.theguardian.com/us-news/2025/apr/15/pentagon-school-students-sue-hegseth-book-bans
+:Branch:   Executive
+:Subject:  DEI
+:END:
+
+**** Judge blocks EPA from terminating $14 billion in clean energy funding :EPA:preliminaryInjunction:cleanEnergy:energy:tribes:NCIF:
+:PROPERTIES:
+:Link:     https://www.tribalbusinessnews.com/sections/energy/15095-federal-judge-blocks-epa-from-terminating-14b-in-clean-energy-funding
+:Branch:   Legislative
+:Subject:  Funding freeze
+:END:
+Programs receiving funding includes many tribal energy initiatives.
+Funding was originally awarded by the National Clean Investment Fund (NCIF)
+
+*** 2025-04-16 Wednesday
+
+**** WHO members reach deal on approach to future pandemics, but US is left out since pulling away from WHO during Trump's 2nd term :WHO:pandemic:globalism:nationalSecurity:publicHealth:pandemicResponse:
+:PROPERTIES:
+:Link:     https://www.reuters.com/business/healthcare-pharmaceuticals/countries-reach-historic-who-pandemic-agreement-afp-reports-2025-04-16/
+:Branch:   Executive
+:Subject:  Pandemic
+:END:
+
+Involves sharing vaccine resources, promises to assign vaccine manufacturers at 20% of their workload during pandemics, and provide a framework for sharing vaccines and encouraging vaccine development in poorer countries.
+
+**** DOJ files lawsuit against Maine claiming the state violated Title IX by "by failing to protect women in women's sports" :trans:transRights:DOJ:PamBondi:Maine:transAthletes:civilRights:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250416144903/https://www.cbsnews.com/news/maine-title-ix-transgender-athletes-trump-executive-order/
+:Branch:   Executive
+:Subject:  Trans Rights
+:END:
+
+Considering retroactively pulling all funding they have received while "not complying" to Title IX, according to Pam Bondi
+
+**** Judge Boasberg in J.G.G. v Trump case find probable cause of contempt of court regarding the planes taking Venezualans to CECOT :contempt:ElSalvador:CECOT:AEA:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250416144903/https://www.cbsnews.com/news/maine-title-ix-transgender-athletes-trump-executive-order/
+:Branch:   Judicial
+:Subject:  CECOT
+:END:
+Considered cautious given he is not yet holding them in contempt - PBS Newshour
+Trump admin can purge the contempt by bringing all Venezualans back
+
+**** California is suing the Trump admin over tariffs, arguing that congress ONLY has the authority to levy tariffs :tariffs:California:GavinNewsom:separationOfPowers:congress:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250416144903/https://www.cbsnews.com/news/maine-title-ix-transgender-athletes-trump-executive-order/
+:Branch:   Executive
+:Subject:  tariffs
+:END:
+
+**** DOJ appeals both orders from Judge Boasberg and Judge Xinis :CECOT:AEA:contempt:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/chrisgeidner.bsky.social/post/3lmxqb4dd722f
+:Branch:   Judicial
+:Subject:  CECOT
+:END:
+
+Judge Boasberg's order [[https://bsky.app/profile/stevevladeck.bsky.social/post/3lmxrowzmns2o][apparently cannot be appealed]]
+
+**** DOGE places entire staff of US Interagency Council on Homelessness on leave :DOGE:homelessness:federalAgency:executiveOrder:
+:PROPERTIES:
+:Link:     https://www.bloomberg.com/news/articles/2025-04-16/doge-places-entire-staff-of-federal-homelessness-agency-on-leave
+:Branch:   Executive
+:Subject:  DOGE
+:END:
+
+**** Maryland senator Van Hollen is rejected from visiting CECOT, but asks VP of El Salvador why they continue to hold Abrego Garcia and he is told "the Trump administration is paying the government of El Salvador to keep him at CECOT" :CECOT:AEA:deportation:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/annabower.bsky.social/post/3lmx7fzkxvk2j
+:Branch:   Legislative
+:Subject:  Kilmar Abrego Garcia
+:END:
+
+**** 37 death row inmates who were commuted to life in prison by Biden file suit against Trump, citing his executive order forced them into "oppressive" prison conditions :prison:deathRow:Biden:Trump:commutation:executiveOrder:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/kyledcheney.bsky.social/post/3lmxt4ciagv2z
+:Branch:   Executive
+:Subject:  Prison Conditions
+:END:
+
+**** US office that counters foreign disinformation is eliminated :disinformation:federalAgency:federalFunding:layoffs:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250416210005/https://www.technologyreview.com/2025/04/16/1115256/us-office-that-counters-foreign-disinformation-is-being-eliminated-say-officials/
+:Branch:   Executive
+:Subject:  Disinfromation
+:END:
+
+**** Deputy Assistant to the President and "Counterterrorism Czar" Sebastian Gorka says anyone advocating for due process for Kilmar Abrego Garcia could be viewed as "aiding and abetting a terrorist" :TrenDeAragua:deportation:ICE:SebastianGorka:dueProcess:disinformation:lies:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/meidastouch.com/post/3lmxzi56ms22j
+:Branch:   Executive
+:Subject:  Kilmar Abrego Garcia
+:END:
+
+**** NIH stops grant and contracts payments to Harvard,Brown, Northwestern, and Cornell universities due to false claims they don't do enough to combat antisemitism :college:antisemitism:NIH:DepartmentOfHealthAndHumanServices:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250420215608/https://www.science.org/content/article/nih-freezes-funds-harvard-and-four-other-universities-can-t-tell-them
+:Branch:   Executive
+:Subject:  Threats on Universities
+:END:
+Email from NIH to grant managers. Managers told not to inform the universities.
+This will impact payment for researchers and workers.
+
+**** DHS and Kristi Noem threaten to revoke Harvard's ability to enroll international students :KristiNoem:DHS:internationalStudents:intimidation:
+:PROPERTIES:
+:Link:     https://www.politico.com/news/2025/04/17/trump-administration-punish-harvard-00295445
+:Branch:   Executive
+:Subject:  Threats on Universities
+:END:
+DHS ordered the university to submit records on what she says is "illegal and violent activites" from international students by April 30 or else Harvard would lose their Student of Exchange Visitor Program certification.
+
+**** RFK Jr. refers to autism as an epidemic and does not support the idea that better diagnoses account for the increase in autism prevalence :autism:misinformation:disinformation:pseudoscience:RFKJr:HHS:DepartmentOfHealthAndHumanServices:
+:PROPERTIES:
+:Link:     https://abcnews.go.com/Health/rfk-jr-lays-new-studies-autism-shuts-diagnoses/story?id=120882735
+:Branch:   Executive
+:Subject:  Health Misinformation
+:END:
+
+*** 2025-04-17 Thursday
+
+**** The Fourth Circuit of Appeals denies DOJ's appeal to expedited discovery in Abrego Garcia case :CECOT:DOJ:AppealsCourt:ElSalvador:deportation:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/joshuajfriedman.com/post/3lmzrrsltjc2b
+:Branch:   Judicial
+:Subject:  Kilmar Abrego Garcia
+:END:
+
+**** Van Hollen successfully meets with Kilmer Abrego Garcia :CECOT:ElSalvador:
+:PROPERTIES:
+:Subject:  Kilmar Abrego Garcia
+:END:
+Bukele originally wanted the meeting to take place in front of a pool??
+They were given cocktails and a picture of it was shared by Bukele, despite them not touching the drinks. This is "clever" propaganda.
+Garcia revealed he had been moved 9 days prior to another facility, despite the Trump administration never communicating this.
+
+**** About 90% of Consumer Financial Protection Bureau cut by Trump and DOGE :DOGE:CFPB:federalAgency:layoffs:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250418005339/https://apnews.com/article/donald-trump-doge-cfpb-elon-musk-456b747c367fccbcf3b74d2893cd1a35
+:Branch:   Executive
+:Subject:  DOGE
+:END:
+
+CFPB was created after the Great Recession in 2008 with the goal of protecting Americans from fraud, abuse, and deceptive practices.
+
+**** ICE arrests US Citizen while he travels from Georgia to Florida :ICE:deportation:immigration:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250417194203/https://floridaphoenix.com/2025/04/17/u-s-born-man-held-for-ice-under-floridas-new-anti-immigration-law/
+:Branch:   Executive
+:Subject:  ICE
+:END:
+
+**** FDA suspends a quality control program for its food testing labs as a result of staff cuts at Department of Health and Human Services :HHS:FDA:DepartmentOfHealthAndHumanServices:federalFunding:federalAgency:Trump:
+:PROPERTIES:
+:Link:     https://www.reuters.com/world/us/us-fda-suspends-food-safety-quality-checks-after-staff-cuts-2025-04-17/?taid=68015a42e972bd0001dd8fc0&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+:Branch:   Executive
+:Subject:  Federal funding
+:END:
+
+Cuts to bird flu testing in food
+Trump aims to cut $40 billion from HHS budget
+Program is suspended through at least Sept. 30
+
+**** US military strikes Yemen's Ras Isa fuel port :Yemen:military:militaryStrike:war:Houthis:
+:PROPERTIES:
+:Link:     https://www.reuters.com/world/us-military-strikes-yemens-ras-isa-fuel-port-2025-04-17/?taid=68014fbee972bd0001dd8f8f&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+:Branch:   Executive
+:Subject:  Yemen
+:END:
+
+**** Spokesman announces Mack Trucks will lay off between 250 and 350 workers at its Lehigh Valley Operations center outside Allentown over the next three months, due to economic uncertainty caused by U.S. tariffs :tariffs:layoffs:economics:
+:PROPERTIES:
+:Branch:
+:Subject:  tariffs
+:Link:     https://penncapital-star.com/briefs/mack-trucks-announces-layoffs-at-lehigh-valley-plant-blames-tariffs/
+:END:
+
+**** CPJ issues safety advisory for journalists traveling to the United States :Journalism:Journalists:Safety:usCustomsAndBorderProtection:
+:PROPERTIES:
+:Branch:
+:Subject:  Journalism
+:Link:     https://cpj.org/2025/04/cpj-issues-safety-advisory-for-journalists-traveling-to-the-united-states/
+:END:
+
+**** NPR reports the Census Bureau employees are warning of quality of nation's statistics after layoffs and hiring freeze :CensusBureau:federalAgency:data:dataQuality:layoffs:hiringFreeze:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250418221630/https://www.npr.org/2025/04/17/nx-s1-5349435/us-census-bureau-data-decennial
+:Branch:   Executive
+:Subject:  Federal Agency Staffing
+:END:
+They are losing employees with institutional knowledge and experience
+
+**** Trump threatens chair of Federal Reserve, Jerome Powell, due to not lowering interest rates :threats:Trump:FederalReserve:economy:economics:interestRates:federalAgency:tariffs:tradeWar:
+:PROPERTIES:
+:Link:     https://www.reuters.com/world/us/trump-says-fed-chair-powells-termination-cant-come-fast-enough-2025-04-17/
+:Branch:   Executive
+:Subject:  Federal Reserve
+:END:
+The Federal Reserve has always worked independent of political pressure.
+Trump demands the interest rates be lowered, but they hesitate to do so due to the instability caused by tariffs and Trump's trade war.
+This led to [[https://www.reuters.com/business/us-stock-futures-drop-trump-takes-aim-powell-2025-04-21/?taid=6806185666e4b3000122e73a&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter][Wall Street closing with a sharp decline]]
+
+*** 2025-04-18 Friday
+
+**** Judge pauses Trump administration’s plans for mass layoffs at Consumer Financial Protection Bureau, accusing the Trump administration of "thumbing their nose" at the courts :DOGE:CFPB:TRO:RIF:layoffs:ignoringCourtOrders:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250419142319/https://apnews.com/article/trump-consumer-financial-protection-bureau-65c7953b6d79043fc2ac58b660c3847d
+:Branch:   Judicial
+:Subject:  DOGE
+:END:
+
+**** NPR reports of 2024 human rights report is being edited to remove many human rights details, only doing what's legally required :humanRights:MarcoRubio:SecretaryOfState:federalReports:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250420071201/https://www.npr.org/2025/04/18/nx-s1-5357511/state-department-human-rights-report-cuts
+:Branch:   Executive
+:Subject:  Human Rights
+:END:
+Previously supported and emphasized as important by Marco Rubio, he is now leading the effort to remove mentions of certain topics.
+The report was done in January of 2025 before Trump took office, but are now being revised and won't be released until May
+Some removed topics:
+  - serious restrictions to internet freedom
+  - DEI
+  - Violence against LGBTQ+
+  - Violence or threats of violence targeting people with disabilities
+
+**** Judge orders Trump administration to put in writing that mass layoffs were not due to performance issues :layoffs:Trump:federalAgency:jobs:jobCuts:lies:disinformation:
+:PROPERTIES:
+:Link:     https://www.reuters.com/legal/government/trump-administration-ordered-retract-sham-rationale-firing-workers-2025-04-21/?taid=68067bf466e4b3000122e8f1&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+:Branch:   Legislative
+:Subject:  Mass Federal Worker Layoffs
+:END:
+Important for these employees to find other jobs, as the official reasoning is now not related to "performance issues"
+
+*** 2025-04-19 Saturday
+
+**** Supreme Court temporarily blocks Trump administration from deporting Venezuelans in district of Texas to El Salvador due to concerns that they were already preparing the detainees :CECOT:Venezuelans:AEA:SupremeCourt:ignoringCourtOrders:Venezuela:
+:PROPERTIES:
+:Link:     https://www.reuters.com/world/us/us-supreme-court-temporarily-blocks-deportations-venezuelan-migrants-under-2025-04-19/
+:Branch:   Judicial
+:Subject:  CECOT
+:ID:       D8ACAA9C-06D7-4BD0-A011-D9D9D97F9C4E
+:END:
+:BACKLINKS:
+[2025-04-25 Fri 16:43] <- [[id:8F5ADEF4-72FE-427B-8D22-02C0EF923738][Biden administration announce they will resume deportation flights for Venezuelan migrants]]
+:END:
+The Venezuelans in this case were given under 24 hours notice of deportation only in English and not given information that they can fight by filing Habeas Corpus
+
+*** 2025-04-21 Monday
+
+**** Harvard sues Trump administration over funding freeze :school:university:Harvard:
+:PROPERTIES:
+:Link:     TODO
+:Branch:   Executive
+:Subject:  Threats on Universities
+:END:
+
+**** Four members of congress visit El Salvador to advocate for Garcia's release :CECOT:ElSalvador:congress:dueProcess:
+:PROPERTIES:
+:Link:     https://www.reuters.com/world/us/us-congress-members-visit-el-salvador-facilitate-release-deported-man-2025-04-21/?taid=6806610566e4b3000122e869&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+:Branch:   Legislative
+:Subject:  Kilmar Abrego Garcia
+:END:
+
+**** Attorneys in Abrego Garcia case allege the Trump administration as filed "nothing of substance" during expedited discovery :CECOT:ElSalvador:DOJ:contempt:deporation:detainment:dueProcess:immigration:ignoringCourtOrders:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/joshuajfriedman.com/post/3lnfovqakns2l
+:Branch:   Executive
+:Subject:  Kilmar Abrego Garcia
+:END:
+Trump administration claims client-attorney privelage and claim state secrets for many of their responses.
+They claim to have engaged in diplomatic discussion with El Salvador regarding Abrego Garcia, but claim privelege to revealing any more information.
+Attorneys for Abrego Garcia request a conference with the judge to discuss for April 22.
+The DOJ even states that it wasn't ordered to facilitate release from custody, despite that being the exact order from SCOTUS
+
+*** 2025-04-22 Tuesday
+
+**** Trump says he has "no intention" of firing chair of Federal Reserves :tariffs:Trump:flipFlop:inconsistency:economy:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250422225434/https://www.npr.org/2025/04/22/nx-s1-5369542/trump-federal-reserve-jerome-powell-tariffs
+:Branch:   Executive
+:Subject:  Federal Reserve
+:END:
+
+**** Pete Hegseth threatens criminal charges against leakers :PeteHegseth:Pentagon:DOD:threats:classifiedInformation:
+:PROPERTIES:
+:Link:     TODO
+:Branch:   Executive
+:Subject:  Signalgate
+:END:
+
+**** Trump admin scolded for being evasive and in bad faith when complying with Garcia expedited discovery :DOJ:contempt:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/kyledcheney.bsky.social/post/3lngp345rzm25
+:Branch:   Legislative
+:Subject:  Kilmar Abrego Garcia
+:END:
+Ordered to provide details to Interrogatories and Requests for Production of Documents.
+The judge objected to the use of privilege without providing the receipts.
+
+***** Additional links
+- [[https://web.archive.org/web/20250422232653/https://storage.courtlistener.com/recap/gov.uscourts.mdd.578815/gov.uscourts.mdd.578815.100.0_2.pdf][Judge Xinis' order in response to learning of the DOJ's avoidance in answering questions]]
+- [[https://web.archive.org/web/20250423000548/https://www.politico.com/news/2025/04/22/kilmar-abrego-garcia-judge-order-00305276][Politico article]]
+
+**** EPA begins layoffs of nearly 200 environmental justice employees :EPA:environment:environmentalJustice:
+:PROPERTIES:
+:Link:     https://www.reuters.com/business/world-at-work/epa-begins-layoffs-environmental-justice-staff-2025-04-22/?taid=6807a21666e4b3000122ee0e&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+:Branch:   Executive
+:Subject:  Mass Federal Worker Layoffs
+:ID:       25853F7D-FC9F-4D86-BCC8-3028782ADBF4
+:END:
+:RELATED:
+[[id:3DEF0D98-C34E-4DC2-AC96-E2F2E31607B7][Environmental justice EPA employees placed on leave]]
+:END:
+Take effect on July 31st.
+Employees were originally placed on leave in February, then reinstated pending legal challenges.
+
+**** NPR finds international students facing visa cancellations don't have criminal records
+:PROPERTIES:
+:Branch: Executive
+:Subject: Student Visas
+:Link: https://www.npr.org/2025/04/22/nx-s1-5366021/international-students-face-visa-cancellations-despite-no-criminal-records
+:END:
+
+**** 2 year old u.s. citizen deported with mother and sister
+:PROPERTIES:
+:Branch: Executive
+:Subject:Deportation
+:Link:https://www.courtlistener.com/docket/69940863/v-m-l-v-harper/
+:END:
+
+*** 2025-04-23 Wednesday
+
+**** Trump rhetoric towards environmentalists incite calls for arrest and violence
+:PROPERTIES:
+:Branch: Executive
+:Subject: Dangerous rhetoric
+:Link: https://www.propublica.org/article/earthjustice-abigail-dillen-q-a
+:END:
+
+**** Trumps approval on immigration drops below majority
+:PROPERTIES:
+:Branch: Executive
+:Subject: Immigration
+:Link: https://bsky.app/profile/did:plc:wovz3whdkughp6decczypkqq/post/3lnie6u2stk2w
+:END:
+
+**** Judge agrees that Trump appears to be retaliating against federal worker unions who have criticized him :retaliation:collectiveBargaining:unions:federalWorkers:
+:PROPERTIES:
+:Branch: Judicial
+:Subject: Unions
+:Link: https://www.reuters.com/legal/government/us-judge-questions-trumps-motives-curbing-union-bargaining-by-federal-workers-2025-04-23/
+:END:
+
+**** Illinois governor halting investments in the state with El Salvador :theOpposition:CECOT:democrat:
+:PROPERTIES:
+:Branch:
+:Subject: Kilmar Abrego Garcia
+:Link:https://www.mystateline.com/news/local-news/illinois-deportation-el-salvador/
+:END:
+
+**** Trump signs executive order threatening accreditors and the accreditation of universities :DEI:threats:university:education:
+:PROPERTIES:
+:Branch: Executive
+:Subject: Threats to Universities
+:Link:https://www.whitehouse.gov/presidential-actions/2025/04/reforming-accreditation-to-strengthen-higher-education/
+:END:
+
+**** Trump signs Executive Order rolling back civil rights :civilRights:executiveOrder:discrimination:
+:PROPERTIES:
+:Branch: Executive
+:Subject: Civil rights
+:Link:https://www.whitehouse.gov/presidential-actions/2025/04/restoring-equality-of-opportunity-and-meritocracy/
+:END:
+
+  Disparate impact is when schools or other programs aren't obviously discriminatory, but when evidence shows certain groups are negatively impacted more than others.
+
+*** 2025-04-24 Thursday
+
+**** Preliminary Injunction bars the Trump administration from pulling federal funds from places it deems “sanctuary cities” :immigration:sanctuaryCities:federalFunding:executiveOrder:preliminaryInjunction:unconstitutional:retaliation:
+:PROPERTIES:
+:Branch: Judicial
+:Subject: Sanctuary Cities
+:Link: https://bsky.app/profile/did:plc:euynv325eix7glyek377orak/post/3lnl25xpskk2j
+:END:
+
+**** Trump asks US Supreme Court to allow enforcement of transgender military ban :transRights:military:fifthAmendment:unconstitutional:SupremeCourt:
+:PROPERTIES:
+:Branch: Judicial
+:Subject: Trans Rights
+:Link: https://www.reuters.com/world/us/trump-asks-us-supreme-court-allow-enforcement-transgender-military-ban-2025-04-24/
+:END:
+
+**** ACLU sues the Trump administration for withholding Title X family planning program grants :TitleX:federalFunding:funding:
+:PROPERTIES:
+:Branch: Executive
+:Subject: Federal Funding
+:Link: https://bsky.app/profile/did:plc:bg5vuqejktlwjgcdsm3jyv73/post/3lnl727tsic2b
+:END:
+
+**** ICE contradicts DOJ, saying they will deport under AEA without much time after giving notice
+:PROPERTIES:
+:Branch: Executive
+:Subject: AEA
+:Link: https://bsky.app/profile/did:plc:36eqtmzysqf7wsslczw4uxcd/post/3lnlwylg37c2s
+:END:
+
+**** Trump directs DOJ to investigate Democrat primary fundraising platform ActBlue
+:PROPERTIES:
+:Branch: Executive
+:Subject:
+:Link: https://www.nytimes.com/2025/04/24/us/politics/trump-actblue-democrats.html
+:END:
+
+*** 2025-04-25 Friday
+
+**** [[https://www.propublica.org/article/inside-ice-air-deportation-flights?utm_source=bluesky&utm_medium=social&utm_campaign=propublica-bsky&utm_content=impact][Inside ICE Air: What It’s Like to Be a Deportation Flight Attendant — ProPublica]] :todo:
+
+:PROPERTIES:
+:Branch:
+:Subject:
+:Link:
+:END:
+
+**** ICE says it will restore status that was previously revoked from thousands of foreign students :university:foreignStudents:studentVisas:ICE:immigration:
+:PROPERTIES:
+:Branch: Executive
+:Subject: Foreign Students
+:Link: https://www.wusa9.com/article/news/politics/federal-fallout/ice-backs-down-says-it-will-restore-status-of-thousands-of-foreign-students-dhs-f-1-visa/65-82a2bd69-3cce-408f-91cd-f80f065b00dd
+:END:
+- Note taken on [2025-04-26 Sat 10:00] \\
+  The status refers to a database used to track foreign students, which was created after 9/11. The government had removed thousands of students from this database, affecting their ability to get jobs, transfer to schools, and some their ability to uphold their Visa
+
+***** Additional links
+
+****** [[https://bsky.app/profile/sethabramson.bsky.social/post/3lnnhgymozs2w][A breakdown of what this means re: separation of powers and pressure from Trump]]
+
+**** FBI arrests judge accused of helping man escape from ICE in her courtroom :ICE:FBI:separationOfPowers:judicialSystem:judicialVersusExecutive:immigration:
+:PROPERTIES:
+:Branch: Executive
+:Subject: Separation of Powers
+:Link: https://www.pbs.org/newshour/politics/fbi-arrests-judge-accused-of-helping-someone-evade-immigration-agents-agency-director-patel-says
+:ID:       432C7E45-B256-49DF-9B7F-B5B1DB739374
+:END:
+:BACKLINKS:
+[2025-04-25 Fri 16:30] <- [[id:79E2E8DC-6445-4483-8FF5-0BCA27AE1AC2][Pam Bondi calls the judiciary "deranged" and threatens to "come after" and prosecute them]]
+:END:
+
+Arrests of judges is rare; only once has this occurred since the late 1700s, and it was for a similar situation during Trump's first presidency. That judge was never convicted due to the case being thrown out once Biden became president and stopped ICE arrests in courts, but the judge [[https://www.boston.com/news/local-news/2024/12/04/judge-shelley-joseph-accused-misconduct-allegedly-allowing-suspect-escape-ice-agents/][is facing accusations in court from the Massachusetts Commission of Judicial Conduct]]
+
+**** Pam Bondi calls the judiciary "deranged" and threatens to "come after" and prosecute them :threats:judicialSystem:judicialVersusExecutive:PamBondi:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/atrupar.com/post/3lnnprevixu2y
+:Branch:   Executive
+:Subject:  Separation of Powers
+:ID:       79E2E8DC-6445-4483-8FF5-0BCA27AE1AC2
+:END:
+:RELATED:
+[[id:432C7E45-B256-49DF-9B7F-B5B1DB739374][FBI arrests judge accused of helping man escape from ICE in her courtroom]]
+:END:
+
+**** Judge expresses anger regarding ICE's hearsay and lack of evidence regarding couple arrested now THREE times as alleged "Tren De Aragua members" :AEA:TrenDeAragua:Venezuelans:Venezuela:lies:ICE:malpractice:deportation:
+:PROPERTIES:
+:Branch: Judicial
+:Subject: AEA
+:Link: https://bsky.app/profile/did:plc:2vtbmhmrwzbqcfv4we4uxzzt/post/3lnoksrsark26
+:END:
+
+*** 2025-04-26 Saturday
+
+* Undated
+
+** List of foreign nationals detained by ICE    :ICE:immigration:humanRights:
+:PROPERTIES:
+:Subject:  ICE
+:Link:     https://www.axios.com/2025/03/20/tourists-us-residents-detained-arrested-deported-ice-immigration-trump
+:Branch:   Executive
+:END:
+
+** Farmers saying they need another bailout due to tariffs and other changes from Trump admin
+:PROPERTIES:
+:Subject:  tariffs
+:Branch:   Executive
+:Link:     https://www.theguardian.com/us-news/2025/apr/15/farmers-trump-tariffs-bailout-extreme-weather
+:END:
+Trade wars are hurting farming outlooks as farmers struggle with weather patterns due to climate change (such as flooding), cancelled Biden-era policies funding conservation and response to weather as well as programs encouraging healthier eating that gave farmers more customers.
+
+** Trump Derails Manufacturing Boom on Day One :manufacturing:jobs:economy:Biden:Trump:
+:PROPERTIES:
+:Link: https://web.archive.org/web/20250418193538/https://cepr.net/publications/trump-derails-manufacturing-boom/
+:Subject: Manufacturing
 :END:

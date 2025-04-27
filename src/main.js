@@ -7,7 +7,7 @@ import { DataSet } from "vis-data";
 import { split } from "change-case";
 import timeline from "./timeline/timeline.js";
 
-const orgFile = (await import(`./current-events.org?raw`)).default;
+const orgFile = (await import(`../current-events.org?raw`)).default;
 const groupsRaw = [
   { id: 1, content: "Judicial" },
   { id: 2, content: "Legislative" },

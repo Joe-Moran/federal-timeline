@@ -85,6 +85,16 @@ Due to the growing border crossings from Venezuela and despite recent expansion 
 
 * 2024
 
+** 2024-05 May
+
+*** 2024-05-30 Thursday
+
+**** New York jury finds Trump guilty of 35 counts of felony charges for Stormy Daniel's hush money payment :Trump:felony:elections:electionInterference:2016Election:
+:PROPERTIES:
+:Link: https://www.npr.org/2024/05/30/g-s1-1848/trump-hush-money-trial-34-counts
+:Subject: Corruption
+:END:
+
 ** 2024-10 October
 
 *** 2024-10-02 Wednesday
@@ -1054,7 +1064,7 @@ Employees were originally placed on leave in February, then reinstated pending l
 
   Disparate impact is when schools or other programs aren't obviously discriminatory, but when evidence shows certain groups are negatively impacted more than others.
 
-**** Trump announces top 220 investors in his $TRUMP coin will be able to have dinner with him 
+**** Trump announces top 220 investors in his $TRUMP coin will be able to have dinner with him
 :PROPERTIES:
 :Link: https://www.cnbc.com/2025/04/25/trumps-memecoin-dinner-contest-earns-insiders-900000-in-two-days.html?utm_source=substack&utm_medium=email
 :Subject: Corruption
@@ -1161,6 +1171,34 @@ Arrests of judges is rare; only once has this occurred since the late 1700s, and
 
 This club costs half a million dollars to join, has strict invite policies, and will include direct access to Trumps team and cabinet members.
 
+*** 2025-04-28 Monday
+
+**** DC circuit court blocks CFPB firings pending appellate review in district court injunction :CFPB:layoffs:federalWorkers:
+:PROPERTIES:
+:Branch: Judicial
+:Subject: Mass Firings
+:Link: https://bsky.app/profile/did:plc:36eqtmzysqf7wsslczw4uxcd/post/3lnvmo7gjnk2v
+:END:
+
+DOJ tried claiming client-attorney privilege on several details, which the judges were not happy with.
+
+Motion to Compel:
+#+BEGIN_QUOTE
+The defendants claim that they did not violate the preliminary injunction because they
+"determined, after a particularized assessment," that the employees they RIFed were "unnecessary to the performance of [CFPB's] statutory duties." To support this assertion, they submitted a declaration from Mark Paoletta, the Chief Legal Officer of the CFPB, claiming to have conducted the required assessment-along with Victoria Dorfman and Daniel Shapiro. Paoletta Decl. 1 6.
+Yet now, the defendants seek to withhold information related to how they conducted that supposed assessment under the guise of privilege. They cannot have it both ways. The defendants cannot rely on Paoletta's testimony and then shield the documents that would enable the plaintiffs and the
+Court to assess that testimony. Given the centrality of Paoletta's purported assessment to the show-
+cause hearing, this Court should reject (or at least investigate in camera) the defendants' attempts
+to hide the discussions regarding this very assessment.
+#+END_QUOTE
+
+**** PBS Newshour review of Trump's first 100 days                    :video:
+:PROPERTIES:
+:Branch: Executive
+:Subject: Trump
+:Link: https://youtu.be/8vq9G1A3plk?si=-RHT_vUVPJAa68yC
+:END:
+
 * Undated
 
 ** List of foreign nationals detained by ICE    :ICE:immigration:humanRights:
@@ -1183,5 +1221,4 @@ Trade wars are hurting farming outlooks as farmers struggle with weather pattern
 :Link: https://web.archive.org/web/20250418193538/https://cepr.net/publications/trump-derails-manufacturing-boom/
 :Subject: Manufacturing
 :END:
-
-** 
+ d

@@ -1054,6 +1054,12 @@ Employees were originally placed on leave in February, then reinstated pending l
 
   Disparate impact is when schools or other programs aren't obviously discriminatory, but when evidence shows certain groups are negatively impacted more than others.
 
+**** Trump announces top 220 investors in his $TRUMP coin will be able to have dinner with him 
+:PROPERTIES:
+:Link: https://www.cnbc.com/2025/04/25/trumps-memecoin-dinner-contest-earns-insiders-900000-in-two-days.html?utm_source=substack&utm_medium=email
+:Subject: Corruption
+:END:
+
 *** 2025-04-24 Thursday
 
 **** Preliminary Injunction bars the Trump administration from pulling federal funds from places it deems “sanctuary cities” :immigration:sanctuaryCities:federalFunding:executiveOrder:preliminaryInjunction:unconstitutional:retaliation:
@@ -1147,6 +1153,14 @@ Arrests of judges is rare; only once has this occurred since the late 1700s, and
 
 *** 2025-04-26 Saturday
 
+**** Exclusive club "Executive Branch" in Washington opens
+:PROPERTIES:
+:Link: https://www.politico.com/news/2025/04/26/donald-trump-washington-club-00311720?utm_source=substack&utm_medium=email
+:Subject: Corruption
+:END:
+
+This club costs half a million dollars to join, has strict invite policies, and will include direct access to Trumps team and cabinet members.
+
 * Undated
 
 ** List of foreign nationals detained by ICE    :ICE:immigration:humanRights:
@@ -1169,3 +1183,4 @@ Trade wars are hurting farming outlooks as farmers struggle with weather pattern
 :Link: https://web.archive.org/web/20250418193538/https://cepr.net/publications/trump-derails-manufacturing-boom/
 :Subject: Manufacturing
 :END:
+

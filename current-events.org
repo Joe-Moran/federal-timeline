@@ -68,6 +68,21 @@ Due to the growing border crossings from Venezuela and despite recent expansion 
 - Note taken on [2025-04-26 Sat 11:57] \\
   He mentioned he wanted to see trumps receipts for claiming the election was stolen, but that he was never shown the receipts
 
+** 2023-12 December
+
+*** 2023-12-07 Thursday
+
+**** US House committee opens probe into Harvard, Penn, MIT after antisemitism hearing and Hamas attack in October :university:antisemitism:Israel:Hamas:Palestine:HouseCommittee:
+:PROPERTIES:
+:Link: https://www.reuters.com/world/us/us-house-committee-opens-investigation-into-harvard-penn-mit-after-antisemitism-2023-12-07/
+:Subject: Israel Palestine Conflict
+:Branch: Legislative
+:END:
+
+***** Additional links
+
+****** https://edworkforce.house.gov/uploadedfiles/1.9.24_foxx_letter_to_pritzker_and_garber.pdf
+
 * 2024
 
 ** 2024-10 October
@@ -105,6 +120,19 @@ They have TPS due to the earthquake in Haiti in 2008
 :Link:     https://web.archive.org/web/20250417003120/https://apnews.com/article/immigration-enforcement-sensitive-locations-trump-ab0d2d2652e9df696f14410ebb52a1fc
 :Branch:   Executive
 :END:
+
+*** 2025-01-24 Friday
+
+**** Trump fires 17 inspectors general       :federalWorkers:workers:layoffs:
+:PROPERTIES:
+:Link: https://apnews.com/article/trump-inspectors-general-fired-congress-unlawful-4e8bc57e132c3f9a7f1c2a3754359993
+:END:
+
+IGs were fired without providing congress thirty day notice as is required. Many consider this to be unconstitutional and that Trump will replace independent employees with loyalists.
+
+IGs are meant to be impartial and do long-term audits to find waste, fraud, and abuse. In fact, their websites coined the phrase "waste, fraud, and abuse" before it became a Trump and DOGE talking point. IGs would provide reports on their audits, which are publicly available, suggesting to congress to take action and the monetary/legal results of those actions.
+
+https://revealnews.org/podcast/trump-mass-firings-inspectors-general-labor-department-larry-turner/
 
 *** 2025-01-29 Wednesday
 
@@ -166,6 +194,17 @@ The EPA's Office of Environmental Justice and External Civil Rights focused prim
 :Link:     https://web.archive.org/web/20250328015020/https://fortune.com/2025/02/21/trump-threatens-to-withhold-federal-funding-from-maine-governor-law-transgender-athletes-state/
 :END:
 
+*** 2025-02-27 Thursday
+
+**** judge temporarily blocked the Trump administration from ordering the U.S. Department of Defense and other federal agencies to carry out mass firings :federalWorkers:staffingCuts:staffing:layoffs:DOD:OPM:DOGE:NOAA:IRS:
+:PROPERTIES:
+:Link: https://www.reuters.com/world/us/us-judge-halts-trump-administrations-calls-mass-firings-by-agencies-2025-02-27/
+:Subject: Mass Firings
+:Branch: Judicial
+:END:
+
+  Judge ruled that OPM likely doesn't have the power to order other agencies to fire workers. Trump admin argued that OPM simply asked the agencies to identify areas they could cut, not that they ordered agencies to fire workers.
+
 ** 2025-03 March
 
 *** 2025-03-03 Monday
@@ -184,6 +223,14 @@ The EPA's Office of Environmental Justice and External Civil Rights focused prim
 :Branch:   Executive
 :Subject:  Funding freeze
 :Link:     https://www.npr.org/2025/04/14/nx-s1-5342539/federal-funding-freeze-halts-native-american-projects
+:END:
+
+*** 2025-03-11 Tuesday
+
+**** Man in Krome immigration detention center secretly uploads a video pleading for help due to conditions and captivity :immigration:ICE:humanRights:
+:PROPERTIES:
+:Link: https://english.elpais.com/usa/2025-04-01/inhumane-conditions-and-death-at-miamis-krome-migrant-detention-center.html?outputType=amp
+:Subject: Immigration
 :END:
 
 *** 2025-03-15 Saturday

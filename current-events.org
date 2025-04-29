@@ -19,6 +19,19 @@
 [[id:D42B8289-84A7-463D-83D0-383EFB87A585][Hundreds of thousands of Haitian immigrants lose temporary protection status under Kristi Noem]]
 :END:
 
+* 2020
+
+** 2020-11 November
+
+*** 2020-11-17 Tuesday
+
+**** Christopher Krebs, who led the federal government's election cybersecurity efforts, has been fired by President Donald Trump via Twitter :CISA:ChristopherKrebs:cybersecurity:hacking:nationalSecurity:2020Election:elections:politicalRetaliation:retaliation:politicization:
+:PROPERTIES:
+:Link: https://www.nbcnews.com/tech/security/trump-fires-head-u-s-election-cybersecurity-after-he-debunked-n1248063
+:Subject: Election Disinformation
+:Branch: Executive
+:END:
+
 * 2023
 
 ** 2023-09 September
@@ -277,15 +290,6 @@ He used his personal phone for this chat, supposedly.
 [2025-04-25 Fri 16:43] <- [[id:8F5ADEF4-72FE-427B-8D22-02C0EF923738][Biden administration announce they will resume deportation flights for Venezuelan migrants]]
 :END:
 
-*** 2025-03-24 Monday
-**** DOE reissues $900 million in funding for nuclear reactor rollout :nuclearEnergy:cleanEnergy:federalFunding:DOE:
-:PROPERTIES:
-:Link:     https://www.reuters.com/business/energy/federal-funding-first-small-reactors-survives-cuts-2025-04-28/?link_source=ta_bluesky_link&taid=680fad1e0a54ef000103daa5&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky
-:Branch:   Executive
-:Subject:  Federal Funding
-:END:
-Specifically this funding is for small modular reactor projects, of which the US has none, whereas other countries have them or are further along in the process of building them.
-Regulations requiring community benefit plans have been dropped, much like the administration's other energy regulation rollbacks, but programs will likely still work with their communities to ensure longevity of such projects.
 *** 2025-03-31 Monday
 
 ** 2025-04 April
@@ -1201,38 +1205,21 @@ cause hearing, this Court should reject (or at least investigate in camera) the 
 to hide the discussions regarding this very assessment.
 #+END_QUOTE
 
+*** 2025-04-29 Tuesday
+
+**** Companies withdraw annual forecast over demand uncertainty due to tariffs :tariffs:economy:economics:tradeWar:
+:PROPERTIES:
+:Branch:
+:Subject: Trade War
+:Link: https://www.reuters.com/business/jetblue-withdraws-annual-forecast-over-demand-uncertainty-2025-04-29/
+:END:
+
 ***** Additional links
-- https://www.reuters.com/sustainability/boards-policy-regulation/us-appeals-court-revives-temporary-ban-cfpb-mass-firings-2025-04-29/
 
+****** https://ground.news/article/ups-to-cut-20-000-jobs-close-dozens-of-buildings-due-to-lower-amazon-volumes?utm_source=mobile-app&utm_medium=article-share
 
-**** PBS Newshour review of Trump's first 100 days                    :video:
-:PROPERTIES:
-:Branch: Executive
-:Subject: Trump
-:Link: https://youtu.be/8vq9G1A3plk?si=-RHT_vUVPJAa68yC
-:END:
-**** Trump admin allows summer sales of higher-ethanol fuel :energy:fuel:gasPrices:regulations:EPA:
-:PROPERTIES:
-:Link:     https://www.reuters.com/sustainability/climate-energy/trump-administration-allows-temporary-sales-summertime-higher-ethanol-fuel-2025-04-28/?link_source=ta_bluesky_link&taid=680fa9900a54ef000103da8b&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky
-:Branch:   Executive
-:Subject:  Gas Prices
-:END:
-This will most likely benefit corn farmers and biofuel companies. The EPA has issued waivers allowing for the sale of E15 gas during the summer in past years as well.
-This might have significant importance due to tariffs raising prices and reducing supply.
-**** Democratic credit union officials sue Trump and others over firings :NCUA:lawsuit:layoffs:federalWorkers:
-:PROPERTIES:
-:Link:     https://www.reuters.com/world/us/democratic-credit-union-officials-sue-trump-over-firings-2025-04-28/?link_source=ta_bluesky_link&taid=680fa15f0a54ef000103da4d&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky
-:Branch:   Legislative
-:Subject:  Mass Firings
-:END:
-The NCUA (National Credit Union Administration) had 3 members. It is an independent, non-partisan agency overseeing the nation's $2.3 trillion credit union sector.
-The two employees were fired without cause and they argue they cannot be fired by Trump since they've been congressionally approved.
-**** National Security Advisor Mike Waltz says Ukraine "was and is one of the most corrupt countries in the world" :Ukraine:RussiaUkraineWar:MikeWaltz:NSC:NSA:
-:PROPERTIES:
-:Link:     https://bsky.app/profile/thebulwark.com/post/3lnvfbhhmlk22
-:Branch:   Executive
-:Subject:  Russian Invasion of Ukraine
-:END:
+****** https://ground.news/article/general-motors-beats-wall-street-estimates-reassesses-full-year-guidance-amid-auto-tariffs?utm_source=mobile-app&utm_medium=article-share
+
 * Undated
 
 ** List of foreign nationals detained by ICE    :ICE:immigration:humanRights:
@@ -1255,3 +1242,4 @@ Trade wars are hurting farming outlooks as farmers struggle with weather pattern
 :Link: https://web.archive.org/web/20250418193538/https://cepr.net/publications/trump-derails-manufacturing-boom/
 :Subject: Manufacturing
 :END:
+ d

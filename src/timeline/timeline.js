@@ -5,7 +5,7 @@ import { format } from "date-fns";
 
 const timeline = (entries) => {
   const resetOtherProperties = (object, property) => {
-    Object.entries(object).forEach(([key, value]) => {
+    Object.entries(object).forEach(([key]) => {
       if (key !== property) {
         object[key] = "";
       }
@@ -174,8 +174,9 @@ const timeline = (entries) => {
     zoomable: true,
     horizontalScroll: true,
     selectable: false,
-    zoomKey: "metaKey",
-    orientation: "top",
+    zoomKey: 'metaKey',
+    orientation: 'top',
+    verticalScroll: true,
     showCurrentTime: false,
     // groupOrder: "content",
     // groups: groups,
@@ -184,11 +185,10 @@ const timeline = (entries) => {
     zoomMin: (1000 * 60 * 60 * 24 * 30) / 9, // 1 month
     zoomMax: 1000 * 60 * 60 * 24 * 30 * 12 * 3, // 3 year
     moveable: true,
-    height: "400px",
-    template: function (item, element, data) {
-      element.innerHTML = item.isCluster
-        ? buildClusterTemplate(item)
-        : buildCardTemplate(item);
+    height: '100%',
+    // maxHeight: 500,
+    template: function (item, element) {
+      element.innerHTML = item.isCluster ? buildClusterTemplate(item) : buildCardTemplate(item)
     },
     margin: {
       item: 30,

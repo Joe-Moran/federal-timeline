@@ -1,0 +1,5 @@
+'*.{js,html}':
+  - 'npm run lint:eslint:file'
+  - 'npm run format:prettier:file'
+'*.css':
+  - 'npm run lint:style:file'

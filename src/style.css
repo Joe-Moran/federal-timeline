@@ -1,10 +1,10 @@
-html, body {
+html,
+body {
   height: 100v;
 }
 
 body {
   display: flex;
-  width: 100%;
   flex-direction: column;
   gap: 20px;
   justify-content: center;
@@ -12,7 +12,6 @@ body {
   height: 100vh;
   overflow: hidden;
   font-family: sans-serif;
-
 }
 
 .date {
@@ -23,12 +22,13 @@ body {
   flex: 1;
 }
 
-#app .vis-item.vis-box, #app .vis-item.vis-cluster {
-  box-shadow: #0000005c 2px 3px 1px 0px;
+#app .vis-item.vis-box,
+#app .vis-item.vis-cluster {
   text-align: left;
   background: white;
   border-color: black;
   border-radius: 12px;
+  box-shadow: #0000005c 2px 3px 1px 0;
 }
 
 #app .vis-item.vis-cluster {
@@ -37,12 +37,13 @@ body {
 }
 
 #app .vis-item.vis-cluster ul {
-  margin: 0;
-  padding: 10px 30px;
-  display:flex;
+  display: flex;
   flex-direction: column;
   gap: 10px;
+  padding: 10px 30px;
+  margin: 0;
 }
+
 #app .vis-panel.vis-center {
   z-index: 2;
 }
@@ -50,7 +51,8 @@ body {
 #app .vis-timeline {
   overflow: visible;
 }
-#app .vis-minor, #app .vis-major {
+#app .vis-minor,
+#app .vis-major {
   font-family: sans-serif;
 }
 #app .vis-item .vis-item-content {
@@ -62,12 +64,15 @@ body {
 }
 
 #app .vis-time-axis .vis-text {
+  padding: 7px 7px;
   font-size: 2rem;
   font-weight: bold;
-  padding: 7px 7px;
 }
 
-#app .vis-cluster-line, #app .vis-line, #app .vis-cluster-dot, #app .vis-dot {
+#app .vis-cluster-line,
+#app .vis-line,
+#app .vis-cluster-dot,
+#app .vis-dot {
   border-color: black;
 }
 
@@ -79,8 +84,9 @@ body {
   font-family: sans-serif;
 }
 
-.timeline-tag:has(~ .selected), .selected ~ .timeline-tag {
-  opacity: .4;
+.timeline-tag:has(~ .selected),
+.selected ~ .timeline-tag {
+  opacity: 0.4;
 }
 
 .filters {
@@ -95,14 +101,14 @@ label {
 }
 
 .timeline-item {
-  padding: 8px;
   display: flex;
   flex-direction: column;
   gap: 10px;
+  padding: 8px;
 }
 
 .timeline-item.no-tags {
-  gap: 0px;
+  gap: 0;
 }
 
 .timeline-tags-container {
@@ -113,24 +119,21 @@ label {
 }
 
 .timeline-tags-container.empty {
-  margin-top: 0px;
-
+  margin-top: 0;
 }
 
 .timeline-tag {
-  font-size: 12px;
   padding: 2px 6px;
+  font-size: 12px;
   background: rgb(231, 231, 231);
   border: #bfbcbc solid 1px;
   border-radius: 5px;
-
 }
 
-
 .timeline-item-title {
-  margin: 0;
   padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 1rem;
   font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif
 }

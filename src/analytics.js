@@ -1,5 +1,5 @@
-import { inject } from "@vercel/analytics";
+import { inject } from '@vercel/analytics'
 
 export function initializeAnalytics() {
-  inject();
+  inject()
 }

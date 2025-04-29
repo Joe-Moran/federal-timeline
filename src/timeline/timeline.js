@@ -1,9 +1,8 @@
 import { format } from 'date-fns'
-
 import { DataSet } from 'vis-data'
 import { Timeline } from 'vis-timeline/standalone'
-
-import externalLink from '../external-link.svg'
+import { createLink } from './Link'
+import { buildCardTemplate } from './TimelineCard'
 
 const timeline = (entries) => {
   const resetOtherProperties = (object, property) => {
@@ -77,143 +76,11 @@ const timeline = (entries) => {
   createSubjectFilter()
   createTagFilter()
 
-  function createLink({ text = '', href = '', target = '_blank' }) {
-    const openInNewTab = target === '_blank'
-    const link = document.createElement('a')
-    link.setAttribute('target', target)
-    link.setAttribute('href', href)
-
-    if (openInNewTab) {
-      const externalLinkIcon = document.createElement('img')
-      externalLinkIcon.setAttribute('src', externalLink)
-      externalLinkIcon.setAttribute('alt', '')
-      externalLinkIcon.className = 'external-link'
-      link.appendChild(externalLinkIcon)
-    }
-    link.appendChild(document.createTextNode(text))
-    return link
-  }
-
-  const buildCardTitle = ({ text = '', href = '' }) => {
-    const hasLink = !!href.length
-
-    const title = hasLink ? createLink({ text: text, href: href }) : document.createTextNode(text)
-
-    const heading = document.createElement('h3')
-    heading.className = 'timeline-item-title'
-    heading.appendChild(title)
-
-    return heading
-  }
-
   const buildListItem = ({ text, href }) => {
     const clusterItem = document.createElement('li')
     clusterItem.className = 'timeline-cluster-item'
     clusterItem.appendChild(createLink({ text, href }))
     return clusterItem
-  }
-
-  const buildDetailsDrawer = ({ text }) => {
-    const hasText = !!text.length
-    let paragraph = document.createElement('p')
-    paragraph.className = 'item-text'
-    paragraph.textContent = text
-
-    let summary = document.createElement('summary')
-    summary.className = 'details-drawer'
-    summary.textContent = 'Details'
-
-    let details = document.createElement('details')
-    details.appendChild(summary)
-    details.appendChild(paragraph)
-
-    return hasText ? details : document.createElement('div') // return empty div if no text
-  }
-
-  const buildTagButton = ({ text = '', onClick = () => {} }) => {
-    const isSelected = text === filter.tag
-    let button = document.createElement('button')
-
-    let classList = ['timeline-tag']
-    if (isSelected) {
-      classList.push('selected')
-    }
-    button.setAttribute('type', 'button')
-    button.setAttribute('aria-pressed', isSelected)
-    button.classList = classList
-    button.innerText = text
-    button.addEventListener('click', (event) => {
-      onClick(event)
-    })
-    return button
-  }
-
-  const buildTags = ({ tags = [], selected = '' }) => {
-    const isEmpty = tags.length === 0
-    const hasFiltered = !!tags.find((tag) => tag === selected)
-
-    const truncatedTags = new Set(tags.slice(0, 3))
-    if (hasFiltered) {
-      truncatedTags.add(selected)
-    }
-
-    let tagBar = document.createElement('div')
-    let classList = ['timeline-tags-container']
-    if (isEmpty) {
-      classList.push('empty')
-    }
-
-    tagBar.classList = classList
-
-    const tagButtons = Array.from(truncatedTags).map((tag) =>
-      buildTagButton({
-        text: tag,
-        onClick: (e) => {
-          //   filterItem({ tag: e.target.innerText });
-          filter.tag = e.target.innerText
-        },
-      })
-    )
-
-    tagButtons.forEach((button) => tagBar.appendChild(button))
-    return tagBar
-  }
-
-  const buildDate = ({ startDate }) => {
-    let date = document.createElement('span')
-    date.className = 'date'
-    date.textContent = format(startDate, 'MMM d, yyyy')
-    return date
-  }
-
-  const buildCardTemplate = (item) => {
-    const hasTags = !!item.content.tags.length
-    let cardTemplate = document.createElement('div')
-    let classes = ['timeline-item']
-
-    if (!hasTags) {
-      classes.push('no-tags')
-    }
-
-    const elements = [
-      buildDate({
-        startDate: item.start,
-      }),
-
-      buildCardTitle({
-        text: item.content.title,
-        href: item.content.properties.link,
-      }),
-      buildDetailsDrawer({ text: item.content.text }),
-      buildTags({
-        tags: item.content.tags,
-        selected: filter.tag,
-      }),
-    ]
-    elements.forEach((element) => cardTemplate.appendChild(element))
-    cardTemplate.classList = classes
-
-    return cardTemplate
   }
 
   const selectTagOption = (tag) => {
@@ -269,7 +136,19 @@ const timeline = (entries) => {
       if (item.isCluster) {
         return element.appendChild(buildClusterTemplate(item))
       }
-      return element.appendChild(buildCardTemplate(item))
+      return element.appendChild(
+        buildCardTemplate({
+          title: item.content.title,
+          date: item.start,
+          sourceHref: item.content.properties.link,
+          details: item.content.properties.details,
+          tags: item.content.tags,
+          filter: filter,
+          onFilterChange: (options) => {
+            filter = options
+          },
+        })
+      )
     },
     margin: {
       item: 30,

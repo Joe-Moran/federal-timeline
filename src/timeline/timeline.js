@@ -2,6 +2,7 @@ import { DataSet } from 'vis-data'
 import { Timeline } from 'vis-timeline/standalone'
 import { buildCardTemplate } from './timeline-item-card'
 import { buildClusterTemplate } from './timeline-item-cluster'
+import { buildFilterToolbar } from './timeline-filter-toolbar'
 
 const timeline = (entries) => {
   const resetOtherProperties = (object, property) => {
@@ -39,41 +40,17 @@ const timeline = (entries) => {
       .sort((a, b) => a.localeCompare(b))
   )
 
-  function createFilter({ values = [] }) {
-    return values.map((value) => {
-      let filterOption = document.createElement('option')
-      filterOption.value = value
-      filterOption.innerText = value
-      return filterOption
-    })
-  }
-
-  function createSubjectFilter() {
-    let filterInput = document.getElementById('filter-subject')
-    let filterOptions = createFilter({ values: Array.from(subjectsUnique) })
-    filterOptions.forEach((option) => {
-      filterInput.appendChild(option)
-    })
-    filterInput.addEventListener('change', (e) => {
-      filter.subject = e.target.value
-    })
-    return filterInput
-  }
-
-  function createTagFilter() {
-    let filterInput = document.getElementById('filter-tag')
-    let filterOptions = createFilter({ values: Array.from(tagsUnique) })
-    filterOptions.forEach((option) => {
-      filterInput.appendChild(option)
-    })
-    filterInput.addEventListener('change', (e) => {
-      filter.tag = e.target.value
-    })
-    return filterInput
-  }
-
-  createSubjectFilter()
-  createTagFilter()
+  const filterToolbar = buildFilterToolbar({
+    subjectOptions: Array.from(subjectsUnique),
+    tagOptions: Array.from(tagsUnique),
+    onTagChange: (event) => {
+      filter.tag = event.target.value
+    },
+    onSubjectChange: (event) => {
+      filter.subject = event.target.value
+    },
+  })
+  document.body.prepend(filterToolbar)
 
   const selectTagOption = (tag) => {
     let selectElement = document.getElementById('filter-tag')
@@ -104,20 +81,20 @@ const timeline = (entries) => {
     moveable: true,
     height: '100%',
     template: function (item, element) {
-      if (item.isCluster) {
-        return (element = buildClusterTemplate({ items: item.items, date: item.start }))
-      }
-      element = buildCardTemplate({
-        title: item.content.title,
-        date: item.start,
-        sourceHref: item.content.properties.link,
-        details: item.content.properties.details,
-        tags: item.content.tags,
-        filter: filter,
-        onFilterChange: (options) => {
-          filter = options
-        },
-      })
+      element = item.isCluster
+        ? buildClusterTemplate({ items: item.items, date: item.start })
+        : buildCardTemplate({
+            title: item.content.title,
+            date: item.start,
+            sourceHref: item.content.properties.link,
+            details: item.content.properties.details,
+            tags: item.content.tags,
+            filter: filter,
+            onFilterChange: (options) => {
+              filter = options
+            },
+          })
+
       return element
     },
     margin: {

@@ -1,4 +1,5 @@
 import externalLink from '../external-link.svg'
+import './link.css'
 
 export const createLink = ({ text = '', href = '', target = '_blank' }) => {
   const openInNewTab = target === '_blank'

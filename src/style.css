@@ -14,9 +14,7 @@ body {
   font-family: sans-serif;
 }
 
-.date {
-  font-family: 'Courier New', Courier, monospace;
-}
+
 
 #app {
   flex: 1;
@@ -76,18 +74,6 @@ body {
   border-color: black;
 }
 
-.external-link {
-  width: 13px;
-}
-
-.details-drawer {
-  font-family: sans-serif;
-}
-
-.timeline-tag:has(~ .selected),
-.selected ~ .timeline-tag {
-  opacity: 0.4;
-}
 
 .filters {
   display: flex;
@@ -98,42 +84,4 @@ label {
   display: flex;
   flex-direction: column;
   gap: 5px;
-}
-
-.timeline-item {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  padding: 8px;
-}
-
-.timeline-item.no-tags {
-  gap: 0;
-}
-
-.timeline-tags-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-  margin-top: 20px;
-}
-
-.timeline-tags-container.empty {
-  margin-top: 0;
-}
-
-.timeline-tag {
-  padding: 2px 6px;
-  font-size: 12px;
-  background: rgb(231, 231, 231);
-  border: #bfbcbc solid 1px;
-  border-radius: 5px;
-}
-
-.timeline-item-title {
-  padding: 0;
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 1rem;
-  font-weight: bold;
 }

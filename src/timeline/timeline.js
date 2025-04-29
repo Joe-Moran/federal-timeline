@@ -1,8 +1,7 @@
-import { format } from 'date-fns'
 import { DataSet } from 'vis-data'
 import { Timeline } from 'vis-timeline/standalone'
-import { createLink } from './Link'
-import { buildCardTemplate } from './TimelineCard'
+import { buildCardTemplate } from './timeline-item-card'
+import { buildClusterTemplate } from './timeline-item-cluster'
 
 const timeline = (entries) => {
   const resetOtherProperties = (object, property) => {
@@ -76,13 +75,6 @@ const timeline = (entries) => {
   createSubjectFilter()
   createTagFilter()
 
-  const buildListItem = ({ text, href }) => {
-    const clusterItem = document.createElement('li')
-    clusterItem.className = 'timeline-cluster-item'
-    clusterItem.appendChild(createLink({ text, href }))
-    return clusterItem
-  }
-
   const selectTagOption = (tag) => {
     let selectElement = document.getElementById('filter-tag')
     selectElement.value = tag
@@ -91,26 +83,6 @@ const timeline = (entries) => {
   const selectSubjectOption = (subject) => {
     let selectElement = document.getElementById('filter-subject')
     selectElement.value = subject
-  }
-
-  const buildClusterTemplate = (item) => {
-    let clusterItems = item.items.map((item) =>
-      buildListItem({ text: item.content.title, href: item.content.properties.link })
-    )
-    let date = document.createElement('span')
-    date.className = 'date'
-    date.textContent = format(item.start, 'MMM d, yyyy')
-    let list = document.createElement('ul')
-    clusterItems.forEach((item) => list.appendChild(item))
-    let cluster = document.createElement('div')
-    cluster.className = 'timeline-item'
-    cluster.appendChild(date)
-    cluster.appendChild(list)
-
-    let count = document.createElement('div')
-    count.textContent = item.items.length
-
-    return item.items.length > 4 ? count : cluster
   }
 
   let options = {
@@ -134,7 +106,7 @@ const timeline = (entries) => {
     template: function (item, element) {
       element.replaceChildren() // clear element because timeline redraw will keep appending nodes
       if (item.isCluster) {
-        return element.appendChild(buildClusterTemplate(item))
+        return element.appendChild(buildClusterTemplate({ items: item.items, date: item.start }))
       }
       return element.appendChild(
         buildCardTemplate({

@@ -1,5 +1,7 @@
 import { format } from 'date-fns'
-import { createLink } from './Link'
+import { createLink } from './link'
+import { buildTagButton } from './tag-button'
+import './timeline-item-card.css'
 
 export const buildCardTemplate = ({
   title = '',
@@ -93,7 +95,7 @@ const buildTags = ({ tags = [], selected = '', onClick = () => {} }) => {
     classList.push('empty')
   }
 
-  tagBar.classList = classList
+  tagBar.classList = classList.join(' ')
 
   const tagButtons = Array.from(truncatedTags).map((tag) =>
     buildTagButton({
@@ -105,24 +107,6 @@ const buildTags = ({ tags = [], selected = '', onClick = () => {} }) => {
 
   tagButtons.forEach((button) => tagBar.appendChild(button))
   return tagBar
-}
-
-const buildTagButton = ({ text = '', selected = '', onClick = () => {} }) => {
-  const isSelected = text === selected
-  let button = document.createElement('button')
-
-  let classList = ['timeline-tag']
-  if (isSelected) {
-    classList.push('selected')
-  }
-  button.setAttribute('type', 'button')
-  button.setAttribute('aria-pressed', isSelected)
-  button.classList = classList
-  button.innerText = text
-  button.addEventListener('click', (event) => {
-    onClick(event)
-  })
-  return button
 }
 
 const buildDate = ({ startDate }) => {

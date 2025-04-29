@@ -1,0 +1,21 @@
+@import url('./timeline-item.css');
+
+.details-drawer {
+  font-family: sans-serif;
+}
+
+.timeline-tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 20px;
+}
+
+.timeline-tags-container.empty {
+  margin-top: 0;
+}
+
+.timeline-tag:has(~ .selected),
+.selected ~ .timeline-tag {
+  opacity: 0.4;
+}

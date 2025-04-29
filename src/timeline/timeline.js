@@ -5,25 +5,9 @@ import { buildClusterTemplate } from './timeline-item-cluster'
 import { buildFilterToolbar } from './timeline-filter-toolbar'
 
 const timeline = (entries) => {
-  const resetOtherProperties = (object, property) => {
-    Object.entries(object).forEach(([key]) => {
-      if (key !== property) {
-        object[key] = ''
-      }
-    })
-  }
   let items = new DataSet(entries)
-  let filter = new Proxy(
-    { tag: '', subject: '' },
-    {
-      set(object, property, newValue) {
-        object[property] = newValue
-        resetOtherProperties(object, property)
-        filterItem(object)
-        return true
-      },
-    }
-  )
+  let filter = { tag: '', subject: '' }
+
   let container = document.getElementById('app')
 
   const tagsUnique = new Set(
@@ -40,27 +24,15 @@ const timeline = (entries) => {
       .sort((a, b) => a.localeCompare(b))
   )
 
-  const filterToolbar = buildFilterToolbar({
+  const { filterToolbar, updateFilter } = buildFilterToolbar({
     subjectOptions: Array.from(subjectsUnique),
     tagOptions: Array.from(tagsUnique),
-    onTagChange: (event) => {
-      filter.tag = event.target.value
-    },
-    onSubjectChange: (event) => {
-      filter.subject = event.target.value
+    onFilterChange: (updatedFilters) => {
+      filterItem(updatedFilters)
     },
   })
+
   document.body.prepend(filterToolbar)
-
-  const selectTagOption = (tag) => {
-    let selectElement = document.getElementById('filter-tag')
-    selectElement.value = tag
-  }
-
-  const selectSubjectOption = (subject) => {
-    let selectElement = document.getElementById('filter-subject')
-    selectElement.value = subject
-  }
 
   let options = {
     min: '2016-01-01',
@@ -91,7 +63,7 @@ const timeline = (entries) => {
             tags: item.content.tags,
             filter: filter,
             onFilterChange: (options) => {
-              filter = options
+              updateFilter(options)
             },
           })
 
@@ -106,9 +78,6 @@ const timeline = (entries) => {
   let timeline = new Timeline(container, items, options)
 
   const filterItem = (options) => {
-    // filter = options;
-    selectTagOption(options.tag)
-    selectSubjectOption(options.subject)
     let filteredItems = items.get({
       filter: function (item) {
         if (options.tag != '') {
@@ -123,6 +92,7 @@ const timeline = (entries) => {
     })
     timeline.setItems(filteredItems)
     timeline.fit()
+    // filter = options
   }
 }
 

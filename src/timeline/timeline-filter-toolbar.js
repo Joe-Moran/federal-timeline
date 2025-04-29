@@ -1,23 +1,62 @@
-function createFilterOptions({ values = [] }) {
-  return ['', ...values].map((value) => {
-    let filterOption = document.createElement('option')
-    filterOption.value = value
-    filterOption.innerText = value
-    return filterOption
+function resetOtherProperties(object, property) {
+  Object.entries(object).forEach(([key]) => {
+    if (key !== property) {
+      object[key] = ''
+    }
   })
 }
 
 export function buildFilterToolbar({
   subjectOptions = [],
   tagOptions = [],
-  onTagChange = () => {},
-  onSubjectChange = () => {},
+  onFilterChange = () => {},
 }) {
   let filterToolbar = document.createElement('div')
   filterToolbar.className = 'filters'
-  filterToolbar.appendChild(createSubjectFilter({ onChange: onSubjectChange, subjectOptions }))
-  filterToolbar.appendChild(createTagFilter({ onChange: onTagChange, tagOptions }))
-  return filterToolbar
+
+  filterToolbar.appendChild(
+    createTagFilter({
+      onChange: (event) => (filter.tag = event.target.value),
+      tagOptions,
+    })
+  )
+  filterToolbar.appendChild(
+    createSubjectFilter({
+      onChange: (event) => (filter.subject = event.target.value),
+      subjectOptions,
+    })
+  )
+
+  let filter = new Proxy(
+    { tag: '', subject: '' },
+    {
+      set(object, property, newValue) {
+        object[property] = newValue
+        resetOtherProperties(object, property)
+        onFilterChange(object)
+        selectTagOption(object.tag)
+        selectSubjectOption(object.subject)
+        return true
+      },
+    }
+  )
+
+  function updateFilter(updatedFilter) {
+    // filter
+    onFilterChange(updatedFilter)
+  }
+
+  return { filterToolbar, updateFilter }
+}
+
+const selectTagOption = (tag) => {
+  let selectElement = document.getElementById('filter-tag')
+  selectElement.value = tag
+}
+
+const selectSubjectOption = (subject) => {
+  let selectElement = document.getElementById('filter-subject')
+  selectElement.value = subject
 }
 
 function createSubjectFilter({ subjectOptions = [], onChange = () => {} }) {
@@ -40,6 +79,15 @@ function createTagFilter({ tagOptions = [], onChange = () => {} }) {
   })
 
   return filterInput
+}
+
+function createFilterOptions({ values = [] }) {
+  return ['', ...values].map((value) => {
+    let filterOption = document.createElement('option')
+    filterOption.value = value
+    filterOption.innerText = value
+    return filterOption
+  })
 }
 
 function createFilterSelect({ id = '', label = '', optionsElements = [], onChange = () => {} }) {

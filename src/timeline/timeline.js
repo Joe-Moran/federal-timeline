@@ -41,103 +41,179 @@ const timeline = (entries) => {
       .sort((a, b) => a.localeCompare(b))
   )
 
-  subjectsUnique.forEach((subject) => {
-    let subjectOptionElement = document.createElement('option')
-    subjectOptionElement.value = subject
-    subjectOptionElement.innerText = subject
-    document.getElementById('filter-subject').appendChild(subjectOptionElement)
-  })
-
-  tagsUnique.forEach((tag) => {
-    let tagOptionElement = document.createElement('option')
-    tagOptionElement.value = tag
-    tagOptionElement.innerText = tag
-
-    document.getElementById('filter-tag').appendChild(tagOptionElement)
-  })
-
-  document.getElementById('filter-tag').addEventListener('change', (e) => {
-    // filterItem({ tag: e.target.value });
-    filter.tag = e.target.value
-  })
-
-  document.getElementById('filter-subject').addEventListener('change', (e) => {
-    // filterItem({ tag: "", subject: e.target.value });
-    filter.subject = e.target.value
-  })
-
-  const setupListeners = () => {
-    Object.values(document.getElementsByClassName('timeline-tag')).forEach((element) => {
-      element.addEventListener('click', (e) => {
-        //   filterItem({ tag: e.target.innerText });
-        filter.tag = e.target.innerText
-      })
+  function createFilter({ values = [] }) {
+    return values.map((value) => {
+      let filterOption = document.createElement('option')
+      filterOption.value = value
+      filterOption.innerText = value
+      return filterOption
     })
   }
 
-  const buildCardTitle = (item) => {
-    return `
-  <h3 class="timeline-item-title">
-      ${
-        item.content.properties.link
-          ? `<a target="_blank" href="${item.content.properties.link}">
-        ${item.content.title}<img alt="" src="${externalLink}" class="external-link" />
-        </a>`
-          : item.content.title
-      }
-
-      </h3>`
+  function createSubjectFilter() {
+    let filterInput = document.getElementById('filter-subject')
+    let filterOptions = createFilter({ values: Array.from(subjectsUnique) })
+    filterOptions.forEach((option) => {
+      filterInput.appendChild(option)
+    })
+    filterInput.addEventListener('change', (e) => {
+      filter.subject = e.target.value
+    })
+    return filterInput
   }
 
-  const buildListItem = (item) => {
-    return `
-  	  <li class="timeline-cluster-item">
-
-      ${
-        item.content.properties.link
-          ? `<a target="_blank" href="${item.content.properties.link}">
-        ${item.content.title}<img alt="" src="${externalLink}" class="external-link" />
-        </a>`
-          : item.content.title
-      }
-
-      </li>`
+  function createTagFilter() {
+    let filterInput = document.getElementById('filter-tag')
+    let filterOptions = createFilter({ values: Array.from(tagsUnique) })
+    filterOptions.forEach((option) => {
+      filterInput.appendChild(option)
+    })
+    filterInput.addEventListener('change', (e) => {
+      filter.tag = e.target.value
+    })
+    return filterInput
   }
 
-  const buildDetailsDrawer = (item) => {
-    return item.content.text.length > 0
-      ? `
-<details>
-  <summary class="details-drawer">Details</summary>
-  <p class="item-text">${item.content.text}</p>
-</details>`
-      : ''
-  }
+  createSubjectFilter()
+  createTagFilter()
 
-  const buildTags = (item) => {
-    let hasFiltered = !!item.content.tags.find((tag) => tag === filter.tag)
-    const truncatedTags = new Set(item.content.tags.slice(0, 3))
-    if (hasFiltered) {
-      truncatedTags.add(filter.tag)
+  function createLink({ text = '', href = '', target = '_blank' }) {
+    const openInNewTab = target === '_blank'
+    const link = document.createElement('a')
+    link.setAttribute('target', target)
+    link.setAttribute('href', href)
+
+    if (openInNewTab) {
+      const externalLinkIcon = document.createElement('img')
+      externalLinkIcon.setAttribute('src', externalLink)
+      externalLinkIcon.setAttribute('alt', '')
+      externalLinkIcon.className = 'external-link'
+      link.appendChild(externalLinkIcon)
     }
-    const tagButtons = Array.from(truncatedTags).map(
-      (tag) =>
-        `<button class="timeline-tag ${tag === filter.tag ? 'selected' : ''}">${tag}</button>`
+    link.appendChild(document.createTextNode(text))
+    return link
+  }
+
+  const buildCardTitle = ({ text = '', href = '' }) => {
+    const hasLink = !!href.length
+
+    const title = hasLink ? createLink({ text: text, href: href }) : document.createTextNode(text)
+
+    const heading = document.createElement('h3')
+    heading.className = 'timeline-item-title'
+    heading.appendChild(title)
+
+    return heading
+  }
+
+  const buildListItem = ({ text, href }) => {
+    const clusterItem = document.createElement('li')
+    clusterItem.className = 'timeline-cluster-item'
+    clusterItem.appendChild(createLink({ text, href }))
+    return clusterItem
+  }
+
+  const buildDetailsDrawer = ({ text }) => {
+    const hasText = !!text.length
+    let paragraph = document.createElement('p')
+    paragraph.className = 'item-text'
+    paragraph.textContent = text
+
+    let summary = document.createElement('summary')
+    summary.className = 'details-drawer'
+    summary.textContent = 'Details'
+
+    let details = document.createElement('details')
+    details.appendChild(summary)
+    details.appendChild(paragraph)
+
+    return hasText ? details : document.createElement('div') // return empty div if no text
+  }
+
+  const buildTagButton = ({ text = '', onClick = () => {} }) => {
+    const isSelected = text === filter.tag
+    let button = document.createElement('button')
+
+    let classList = ['timeline-tag']
+    if (isSelected) {
+      classList.push('selected')
+    }
+    button.setAttribute('type', 'button')
+    button.setAttribute('aria-pressed', isSelected)
+    button.classList = classList
+    button.innerText = text
+    button.addEventListener('click', (event) => {
+      onClick(event)
+    })
+    return button
+  }
+
+  const buildTags = ({ tags = [], selected = '' }) => {
+    const isEmpty = tags.length === 0
+    const hasFiltered = !!tags.find((tag) => tag === selected)
+
+    const truncatedTags = new Set(tags.slice(0, 3))
+    if (hasFiltered) {
+      truncatedTags.add(selected)
+    }
+
+    let tagBar = document.createElement('div')
+    let classList = ['timeline-tags-container']
+    if (isEmpty) {
+      classList.push('empty')
+    }
+
+    tagBar.classList = classList
+
+    const tagButtons = Array.from(truncatedTags).map((tag) =>
+      buildTagButton({
+        text: tag,
+        onClick: (e) => {
+          //   filterItem({ tag: e.target.innerText });
+          filter.tag = e.target.innerText
+        },
+      })
     )
 
-    return `<div class="timeline-tags-container ${item.content.tags.length > 0 ? '' : 'empty'}">
-    ${tagButtons.join('')}
-      </div>`
+    tagButtons.forEach((button) => tagBar.appendChild(button))
+    return tagBar
+  }
+
+  const buildDate = ({ startDate }) => {
+    let date = document.createElement('span')
+    date.className = 'date'
+    date.textContent = format(startDate, 'MMM d, yyyy')
+    return date
   }
 
   const buildCardTemplate = (item) => {
-    return `
-  <div class='timeline-item ${item.content.tags.length > 0 ? '' : 'no-tags'}'>
-    <span class="date">${format(item.start, 'MMM d, yyyy')}</span>
-    ${buildCardTitle(item)}
-    ${buildDetailsDrawer(item)}
-    ${buildTags(item)}
-  </div>`
+    const hasTags = !!item.content.tags.length
+    let cardTemplate = document.createElement('div')
+    let classes = ['timeline-item']
+
+    if (!hasTags) {
+      classes.push('no-tags')
+    }
+
+    const elements = [
+      buildDate({
+        startDate: item.start,
+      }),
+
+      buildCardTitle({
+        text: item.content.title,
+        href: item.content.properties.link,
+      }),
+      buildDetailsDrawer({ text: item.content.text }),
+      buildTags({
+        tags: item.content.tags,
+        selected: filter.tag,
+      }),
+    ]
+    elements.forEach((element) => cardTemplate.appendChild(element))
+    cardTemplate.classList = classes
+
+    return cardTemplate
   }
 
   const selectTagOption = (tag) => {
@@ -151,15 +227,23 @@ const timeline = (entries) => {
   }
 
   const buildClusterTemplate = (item) => {
-    let clusterItems = item.items.map((item) => buildListItem(item))
+    let clusterItems = item.items.map((item) =>
+      buildListItem({ text: item.content.title, href: item.content.properties.link })
+    )
+    let date = document.createElement('span')
+    date.className = 'date'
+    date.textContent = format(item.start, 'MMM d, yyyy')
+    let list = document.createElement('ul')
+    clusterItems.forEach((item) => list.appendChild(item))
+    let cluster = document.createElement('div')
+    cluster.className = 'timeline-item'
+    cluster.appendChild(date)
+    cluster.appendChild(list)
 
-    return item.items.length > 4
-      ? item.content
-      : `<div class='timeline-item'>
-          <span class="date">${format(item.start, 'MMM d, yyyy')}</span>
-          <ul>${clusterItems.join('')}</ul>
-        </div>
-        `
+    let count = document.createElement('div')
+    count.textContent = item.items.length
+
+    return item.items.length > 4 ? count : cluster
   }
 
   let options = {
@@ -174,30 +258,26 @@ const timeline = (entries) => {
     orientation: 'top',
     verticalScroll: true,
     showCurrentTime: false,
-    // groupOrder: "content",
-    // groups: groups,
     align: 'auto',
     cluster: { showStipes: true, maxItems: 2 },
     zoomMin: (1000 * 60 * 60 * 24 * 30) / 9, // 1 month
     zoomMax: 1000 * 60 * 60 * 24 * 30 * 12 * 3, // 3 year
     moveable: true,
     height: '100%',
-    // maxHeight: 500,
     template: function (item, element) {
-      element.innerHTML = item.isCluster ? buildClusterTemplate(item) : buildCardTemplate(item)
+      element.replaceChildren() // clear element because timeline redraw will keep appending nodes
+      if (item.isCluster) {
+        return element.appendChild(buildClusterTemplate(item))
+      }
+      return element.appendChild(buildCardTemplate(item))
     },
     margin: {
       item: 30,
       axis: 50,
     },
-    // timeAxis: { scale: "day", step: 1 },
-    onInitialDrawComplete: setupListeners,
   }
 
   let timeline = new Timeline(container, items, options)
-  timeline.on('changed', setupListeners)
-  // timeline.setGroups(groups);
-  // timeline.redraw();
 
   const filterItem = (options) => {
     // filter = options;

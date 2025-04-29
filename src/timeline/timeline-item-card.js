@@ -46,7 +46,7 @@ export const buildCardTemplate = ({
     }),
   ]
   elements.forEach((element) => cardTemplate.appendChild(element))
-  cardTemplate.classList = classes
+  cardTemplate.classList = classes.join(' ')
 
   return cardTemplate
 }

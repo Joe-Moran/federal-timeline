@@ -1,0 +1,26 @@
+** Federal Timeline
+An intersection of my daily interests:
+  - [[https://www.gnu.org/software/emacs/][emacs]] / [[https://orgmode.org/][org mode]]
+  - web development
+  - tracking current events and the fall of democracy in the U.S.
+  - trying to remember any of the relevant events that led to today's
+
+
+
+*** The data
+The data is sourced from my own capturing of news that I consume. Rather than scraping news sites or APIs, a manual approach allows me to learn and fine-tune org mode usage, focus on the content of each news story, and identify the exact dates that events occurred instead of the dates they were reported. I hope this data proves useful to you as well!
+
+**** Properties
+  - Subject :: A high-level topic to categorize news. Some overlap with org mode tags until data can be cleaned.
+  - Link :: A link to an archived copy of some news or the site itself if I can't archive it with Archive.org (i.e. Reuters)
+  - Branch :: Executive, Judicial, or Legislative. This might be useful or it might not. Only  time will tell
+
+**** Notes
+For some stories that I research more in-depth, I add additional notes. These 
+
+*** The development
+The main goal is to stick to vanilla javascript as much as possible. This provides a greater challenge for me and gives me better practice at the underlying javascript API that all our favorite frameworks abstract over. I have primarily developed with Vue during my career.
+
+*** Related projects
+  - [[https://www.project2025.observer]]
+  - [[https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/][Litigation Tracker: Legal Challenges to Trump Administration Actions]]

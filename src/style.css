@@ -14,19 +14,17 @@ body {
   font-family: sans-serif;
 }
 
-
-
 #app {
   flex: 1;
 }
 
 #app .vis-item.vis-box,
-#app .vis-item.vis-cluster {
-  text-align: left;
-  background: white;
-  border-color: black;
-  border-radius: 12px;
-  box-shadow: #0000005c 2px 3px 1px 0;
+#app .vis-item.vis-cluster,
+#app .vis-item-content {
+  margin: unset;
+  color: unset;
+  background: unset;
+  border: unset;
 }
 
 #app .vis-item.vis-cluster {
@@ -73,7 +71,6 @@ body {
 #app .vis-dot {
   border-color: black;
 }
-
 
 .filters {
   display: flex;

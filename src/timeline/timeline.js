@@ -104,23 +104,21 @@ const timeline = (entries) => {
     moveable: true,
     height: '100%',
     template: function (item, element) {
-      element.replaceChildren() // clear element because timeline redraw will keep appending nodes
       if (item.isCluster) {
-        return element.appendChild(buildClusterTemplate({ items: item.items, date: item.start }))
+        return (element = buildClusterTemplate({ items: item.items, date: item.start }))
       }
-      return element.appendChild(
-        buildCardTemplate({
-          title: item.content.title,
-          date: item.start,
-          sourceHref: item.content.properties.link,
-          details: item.content.properties.details,
-          tags: item.content.tags,
-          filter: filter,
-          onFilterChange: (options) => {
-            filter = options
-          },
-        })
-      )
+      element = buildCardTemplate({
+        title: item.content.title,
+        date: item.start,
+        sourceHref: item.content.properties.link,
+        details: item.content.properties.details,
+        tags: item.content.tags,
+        filter: filter,
+        onFilterChange: (options) => {
+          filter = options
+        },
+      })
+      return element
     },
     margin: {
       item: 30,

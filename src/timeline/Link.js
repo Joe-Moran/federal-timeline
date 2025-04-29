@@ -7,13 +7,17 @@ export const createLink = ({ text = '', href = '', target = '_blank' }) => {
   link.setAttribute('target', target)
   link.setAttribute('href', href)
 
-  if (openInNewTab) {
-    const externalLinkIcon = document.createElement('img')
-    externalLinkIcon.setAttribute('src', externalLink)
-    externalLinkIcon.setAttribute('alt', '')
-    externalLinkIcon.className = 'external-link'
-    link.appendChild(externalLinkIcon)
-  }
   link.appendChild(document.createTextNode(text))
+  if (openInNewTab) {
+    link.appendChild(buildExternalLinkIcon())
+  }
   return link
+}
+
+const buildExternalLinkIcon = () => {
+  const externalLinkIcon = document.createElement('img')
+  externalLinkIcon.setAttribute('src', externalLink)
+  externalLinkIcon.setAttribute('alt', '')
+  externalLinkIcon.className = 'external-link'
+  return externalLinkIcon
 }

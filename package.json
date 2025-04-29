@@ -16,21 +16,32 @@
     "lint:style": "stylelint \"**/*.(css)\" --fix",
     "lint:style:file": "stylelint --allow-empty-input --fix",
     "lint:style:ci": "stylelint \"**/*.(css)\"",
-    "prepare": "husky"
+    "prepare": "husky",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.8.0",
     "@commitlint/config-conventional": "^19.8.0",
     "@dword-design/eslint-plugin-import-alias": "^5.1.1",
     "@eslint/js": "^9.25.1",
+    "@storybook/addon-a11y": "^8.6.12",
+    "@storybook/addon-essentials": "^8.6.12",
+    "@storybook/addon-interactions": "^8.6.12",
+    "@storybook/blocks": "^8.6.12",
+    "@storybook/html": "^8.6.12",
+    "@storybook/html-vite": "^8.6.12",
+    "@storybook/test": "^8.6.12",
     "change-case": "^5.4.4",
     "date-fns": "^2.30.0",
     "eslint": "^9.25.1",
     "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-storybook": "^0.12.0",
     "globals": "^16.0.0",
     "husky": "^9.1.7",
     "lint-staged": "^15.5.1",
     "prettier": "^3.5.3",
+    "storybook": "^8.6.12",
     "stylelint": "^16.19.1",
     "stylelint-config-recess-order": "^6.0.0",
     "uniorg-parse": "^3.2.0",
@@ -40,5 +51,10 @@
   },
   "dependencies": {
     "@vercel/analytics": "^1.5.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "plugin:storybook/recommended"
+    ]
   }
 }

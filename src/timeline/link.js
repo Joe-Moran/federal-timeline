@@ -19,5 +19,6 @@ const buildExternalLinkIcon = () => {
   externalLinkIcon.setAttribute('src', externalLink)
   externalLinkIcon.setAttribute('alt', '')
   externalLinkIcon.className = 'external-link'
+  externalLinkIcon.setAttribute('width', '13')
   return externalLinkIcon
 }

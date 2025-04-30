@@ -22,6 +22,11 @@
   font-weight: bold;
 }
 
+.timeline-item-title a {
+  color: black;
+  text-decoration-color: #f3aeae;
+}
+
 .date {
   font-family: 'Courier New', Courier, monospace;
 }

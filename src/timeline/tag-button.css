@@ -1,7 +1,16 @@
 .timeline-tag {
-  padding: 2px 6px;
-  font-size: 12px;
-  background: rgb(231, 231, 231);
-  border: #bfbcbc solid 1px;
-  border-radius: 5px;
+  padding: 2px 7px;
+
+  font-family: monospace;
+  font-size: 0.75rem;
+  cursor: pointer;
+  background: #f3aeae;
+  border: 1px solid #ff151533;
+  border-radius: 90px;
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+  transition: 100ms ease-in-out all;
+}
+
+#app .timeline-tag:hover {
+  box-shadow: 0 1px 1px rgba(237, 129, 129, 0.306);
 }

@@ -1,3 +1,13 @@
 .external-link {
   width: 13px;
 }
+
+a {
+  text-decoration-thickness: 8%;
+  transition: 200ms ease-out all;
+}
+
+a:hover,
+a:focus-visible {
+  text-decoration-thickness: 30%;
+}

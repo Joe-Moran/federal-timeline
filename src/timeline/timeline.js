@@ -3,7 +3,7 @@ import { Timeline } from 'vis-timeline/standalone'
 import { buildCardTemplate } from './timeline-item-card'
 import { buildClusterTemplate } from './timeline-item-cluster'
 import { buildFilterToolbar } from './timeline-filter-toolbar'
-
+import { addMonths } from 'date-fns'
 const timeline = (entries) => {
   let items = new DataSet(entries)
   let filter = { tag: '', subject: '' }
@@ -37,6 +37,7 @@ const timeline = (entries) => {
   let options = {
     min: '2016-01-01',
     start: '2025-01-01',
+    max: addMonths(Date.now(), 3),
     editable: false,
     stack: true,
     zoomable: true,

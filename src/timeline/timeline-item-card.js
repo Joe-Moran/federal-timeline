@@ -71,7 +71,7 @@ const buildDetailsDrawer = ({ text }) => {
 
   let summary = document.createElement('summary')
   summary.className = 'details-drawer'
-  summary.textContent = 'Details'
+  summary.appendChild(document.createTextNode('Details'))
 
   let details = document.createElement('details')
   details.appendChild(summary)
@@ -110,8 +110,9 @@ const buildTags = ({ tags = [], selected = '', onClick = () => {} }) => {
 }
 
 const buildDate = ({ startDate }) => {
-  let date = document.createElement('span')
+  let date = document.createElement('time')
   date.className = 'date'
+  date.setAttribute('datetime', format(startDate, 'yyyy-MM-dd'))
   date.textContent = format(startDate, 'MMM d, yyyy')
   return date
 }

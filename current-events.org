@@ -336,6 +336,7 @@ They had the wrong guy, which means they apprehended him based on the color of h
 :ID:       A8795AF3-FB65-4E11-8485-5453A83705A2
 :END:
 :BACKLINKS:
+[2025-04-30 Wed 11:28] <- [[id:6D60AAE3-2805-4B1E-8210-76826477D64B][Trump states in an interview with ABC that he could order Garcia home but his lawyers don't want him to]]
 [2025-04-24 Thu 16:16] <- [[id:A94F9309-BB56-43CC-BE91-6116D0073C35][300+ Venezualens sent to CECOT in El Salvador]]
 :END:
 
@@ -1082,7 +1083,17 @@ Employees were originally placed on leave in February, then reinstated pending l
 :Link: https://www.cnbc.com/2025/04/25/trumps-memecoin-dinner-contest-earns-insiders-900000-in-two-days.html?utm_source=substack&utm_medium=email
 :Subject: Corruption
 :END:
-
+**** Parties agree to stay discovery for 7 days for reasons under seal :motionToStay:sealed:courtCase:immigration:CECOT:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250430144851/https://www.courtlistener.com/docket/69777799/103/abrego-garcia-v-noem/
+:Branch:   Judicial
+:Subject:  Kilmar Abrego Garcia
+:ID:       AE07B7AD-9FA6-40FD-972E-9DC40A4BFFEE
+:END:
+:RELATED:
+[[id:FBE134A8-6F43-48C4-BD4F-E741CC18E389][DOJ is denied another request for a stay on discovery in Garcia case]]
+:END:
+Due to being agreed upon and the details being under seal, I am hoping this means they are finally facilitating Garcia's return
 *** 2025-04-24 Thursday
 
 **** Preliminary Injunction bars the Trump administration from pulling federal funds from places it deems “sanctuary cities” :immigration:sanctuaryCities:federalFunding:executiveOrder:preliminaryInjunction:unconstitutional:retaliation:
@@ -1220,6 +1231,63 @@ to hide the discussions regarding this very assessment.
 
 ****** https://ground.news/article/general-motors-beats-wall-street-estimates-reassesses-full-year-guidance-amid-auto-tariffs?utm_source=mobile-app&utm_medium=article-share
 
+****** https://www.reuters.com/markets/asia/stanley-black-decker-cuts-2025-profit-forecast-tariff-uncertainties-2025-04-30/
+
+**** Trump softens tariffs on auto manufacturing for vehicles assembled domestically :tariffs:automotiveIndustry:
+:PROPERTIES:
+:Branch: Executive
+:Subject: Tarrifs
+:Link: Trump set to soften auto tariffs after industry pushback - https://www.reuters.com/business/autos-transportation/trump-reduce-impact-auto-tariffs-officials-say-2025-04-28/
+:END:
+
+**** Corporation for Public Broadcasting sues to block Trump from firing three board members :layoffs:lawsuit:
+:PROPERTIES:
+:Branch: Judicial
+:Subject: Mass Firings
+:Link: Corporation for Public Broadcasting sues to block Trump from firing 3 board members - https://www.reuters.com/world/us/corporation-public-broadcasting-sues-block-trump-firing-three-board-members-2025-04-29/
+:END:
+- Note taken on [2025-04-29 Tue 20:22] \\
+  CPB argues it's illegal and ignores Congressional power to handle such firings
+
+**** US states sue to block Trump from dismantling AmeriCorps :lawsuit:AmeriCorp:federalFunding:federalAgency:federalWorkers:layoffs:massFirings:DOGE:
+:PROPERTIES:
+:Branch: Legislative
+:Subject: Federal Funding
+:Link: https://www.reuters.com/world/us/us-states-sue-block-trump-dismantling-americorps-2025-04-29/
+:END:
+- Note taken on [2025-04-29 Tue 20:29] \\
+  Arguing it was unconstitutional for Trump to essentially shutter AmeriCorp by gutting employees and funding
+
+**** Federal judge blocks the Trump administration from cutting off funds for "direct legal representation services to unaccompanied children." :immigration:deportation:federalFunding:
+:PROPERTIES:
+:Branch: Judicial
+:Subject: Deportation
+:Link: https://bsky.app/profile/did:plc:36eqtmzysqf7wsslczw4uxcd/post/3lnymxbgems25
+:END:
+**** Trump states in an interview with ABC that he could order Garcia home but his lawyers don't want him to :Trump:contempt:unconstitutional:interview:immigration:deporation:CECOT:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250430144619/https://abcnews.go.com/US/full-transcript-trumps-exclusive-100-days-broadcast-interview/story?id=121291672
+:Branch:   Executive
+:Subject:  Kilmar Abrego Garcia
+:ID:       6D60AAE3-2805-4B1E-8210-76826477D64B
+:END:
+:RELATED:
+[[id:A8795AF3-FB65-4E11-8485-5453A83705A2][Judge orders Garcia be returned from CECOT by Monday April 7 at 11:59 PM]]
+:END:
+*** 2025-04-30 Wednesday
+**** DOJ is denied another request for a stay on discovery in Garcia case :requestForStay:DOJ:contempt:
+:PROPERTIES:
+:Link:     https://www.courtlistener.com/docket/69777799/abrego-garcia-v-noem/?order_by=desc#entry-106
+:Branch:   Legislative
+:Subject:  Kilmar Abrego Garcia
+:ID:       FBE134A8-6F43-48C4-BD4F-E741CC18E389
+:END:
+:BACKLINKS:
+[2025-04-30 Wed 10:53] <- [[id:AE07B7AD-9FA6-40FD-972E-9DC40A4BFFEE][Parties agree to stay discovery for 7 days for reasons under seal]]
+:END:
+After sealed agreements between parties for a stay on April 23 (which I was hoping meant good news of Garcia's return) the government continues to attempt to avoid the court's orders.
+***** Additional links
+- https://web.archive.org/web/20250430151151/https://www.courtlistener.com/docket/69777799/107/abrego-garcia-v-noem/
 * Undated
 
 ** List of foreign nationals detained by ICE    :ICE:immigration:humanRights:

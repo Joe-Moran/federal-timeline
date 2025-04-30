@@ -1,0 +1,13 @@
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+label {
+  display: flex;
+  flex: 1 0 100px;
+  flex-direction: column;
+  gap: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}

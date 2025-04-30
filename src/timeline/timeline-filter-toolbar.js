@@ -1,10 +1,4 @@
-function resetOtherProperties(object, property) {
-  Object.entries(object).forEach(([key]) => {
-    if (key !== property) {
-      object[key] = ''
-    }
-  })
-}
+import './timeline-filter-toolbar.css'
 
 export function buildFilterToolbar({
   subjectOptions = [],
@@ -105,4 +99,12 @@ function createFilterSelect({ id = '', label = '', optionsElements = [], onChang
   filterSelect.addEventListener('change', onChange)
 
   return filterLabel
+}
+
+function resetOtherProperties(object, property) {
+  Object.entries(object).forEach(([key]) => {
+    if (key !== property) {
+      object[key] = ''
+    }
+  })
 }

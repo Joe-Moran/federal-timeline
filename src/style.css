@@ -1,17 +1,38 @@
 html,
 body {
-  height: 100v;
+  max-width: 100vw;
+  height: 100vh;
+
 }
 
 body {
+  max-height:100vh;
+  font-family: sans-serif;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 78px;
+  padding-top: 20px;
+  background: white;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+}
+
+main {
   display: flex;
   flex-direction: column;
   gap: 20px;
   justify-content: center;
-  width: 100%;
-  height: 100vh;
-  overflow: hidden;
-  font-family: sans-serif;
+  height: 100%;
 }
 
 #app {
@@ -30,6 +51,7 @@ body {
 #app .vis-item.vis-cluster {
   max-width: 300px;
   text-align: left;
+  cursor: pointer;
 }
 
 #app .vis-item.vis-cluster ul {
@@ -71,14 +93,4 @@ body {
 #app .vis-dot {
   border-color: black;
 }
-
-.filters {
-  display: flex;
-  gap: 16px;
-}
-
-label {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
 }

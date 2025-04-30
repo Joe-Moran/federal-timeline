@@ -32,7 +32,7 @@ const timeline = (entries) => {
     },
   })
 
-  document.body.prepend(filterToolbar)
+  document.getElementsByTagName('main')[0].prepend(filterToolbar)
 
   let options = {
     min: '2016-01-01',

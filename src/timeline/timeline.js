@@ -59,7 +59,7 @@ const timeline = (entries) => {
             title: item.content.title,
             date: item.start,
             sourceHref: item.content.properties.link,
-            details: item.content.properties.details,
+            details: item.content.text,
             tags: item.content.tags,
             filter: filter,
             onFilterChange: (options) => {

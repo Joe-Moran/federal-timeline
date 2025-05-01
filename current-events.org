@@ -25,12 +25,17 @@
 
 *** 2020-11-17 Tuesday
 
-**** Christopher Krebs, who led the federal government's election cybersecurity efforts, has been fired by President Donald Trump via Twitter :CISA:ChristopherKrebs:cybersecurity:hacking:nationalSecurity:2020Election:elections:politicalRetaliation:retaliation:politicization:
+**** Christopher Krebs is fired by President Donald Trump via Twitter :CISA:ChristopherKrebs:cybersecurity:hacking:nationalSecurity:2020Election:elections:politicalRetaliation:retaliation:politicization:
 :PROPERTIES:
 :Link: https://www.nbcnews.com/tech/security/trump-fires-head-u-s-election-cybersecurity-after-he-debunked-n1248063
 :Subject: Election Disinformation
 :Branch: Executive
+:ID:       CD771BFA-EA46-40FE-94C5-6DE2760E7904
 :END:
+:BACKLINKS:
+[2025-04-30 Wed 23:06] <- [[id:484C3E60-481E-46AC-91E3-50026CA6E8BD][Trump signs EO targeting Christopher Krebs for denying election interference; Also targeting Miles Taylor]]
+:END:
+ Christopher Krebs led the federal government's election cybersecurity efforts,
 
 * 2023
 
@@ -38,7 +43,7 @@
 
 *** 2023-09-20 Wednesday
 
-**** Biden administration announces it will grant temporary legal status to hundres of thousands of Venezuelans who are already in the country :Biden:Venezuela:Venezuelans:immigration:DHS:
+**** Biden admin announces it will grant temporary legal status to hundreds of thousands of Venezuelans already in the country :Biden:Venezuelans:immigration:DHS:
 :PROPERTIES:
 :Link:     https://apnews.com/article/biden-immigration-border-migrant-venezuela-b914be14aaeef14eb01bd10ee23067f4
 :Branch:   Executive
@@ -54,7 +59,7 @@ A potential resolution to the growing numbers of people fleeing Venezuela and el
 
 *** 2023-10-05 Thursday
 
-**** Biden administration announce they will resume deportation flights for Venezuelan migrants :Biden:Venezuela:Venezuelans:deportation:immigration:
+**** Biden admin announce they will resume deportation flights for Venezuelan migrants :Biden:Venezuelans:deportation:immigration:
 :PROPERTIES:
 :Link:     https://apnews.com/article/mexico-united-states-fentanyl-migration-3ea8f589019506d271906d83be432cdf
 :Branch:   Executive
@@ -172,6 +177,15 @@ Her brother said he wasn't hurt and he didn't have any visible injuries. The wom
 
 ** 2025-02 February
 
+*** 2025-02-01 Saturday
+
+**** Trump declares a national emergency and imposes tariffs on China, Canada, and Mexico :tariffs:nationalEmergency:allies:enemies:
+:PROPERTIES:
+:Link: todo
+:Branch: Executive
+:Subject: Executive Power
+:END:
+
 *** 2025-02-04 Tuesday
 
 **** Family with 10-year-old daughter with brain cancer deported on their way to an emergency medical checkup :immigration:deportation:family:
@@ -187,7 +201,7 @@ Her brother said he wasn't hurt and he didn't have any visible injuries. The wom
 :PROPERTIES:
 :Link:     https://web.archive.org/web/20250402102107/https://www.npr.org/2025/02/06/nx-s1-5289331/epa-environmental-justice-office
 :Branch:   Executive
-:Subject:  Mass Federal Worker Layoffs
+:Subject:  Mass Federal Layoffs
 :ID:       3DEF0D98-C34E-4DC2-AC96-E2F2E31607B7
 :END:
 :BACKLINKS:
@@ -219,10 +233,10 @@ The EPA's Office of Environmental Justice and External Civil Rights focused prim
 
 *** 2025-02-27 Thursday
 
-**** judge temporarily blocked the Trump administration from ordering the U.S. Department of Defense and other federal agencies to carry out mass firings :federalWorkers:staffingCuts:staffing:layoffs:DOD:OPM:DOGE:NOAA:IRS:
+**** judge temporarily blocked the Trump administration from ordering the DOD and other federal agencies to carry out mass firings :federalWorkers:staffingCuts:staffing:layoffs:DOD:OPM:DOGE:NOAA:IRS:
 :PROPERTIES:
 :Link: https://www.reuters.com/world/us/us-judge-halts-trump-administrations-calls-mass-firings-by-agencies-2025-02-27/
-:Subject: Mass Firings
+:Subject: Mass Federal Layoffs
 :Branch: Judicial
 :END:
 
@@ -268,7 +282,7 @@ The EPA's Office of Environmental Justice and External Civil Rights focused prim
 [[id:A8795AF3-FB65-4E11-8485-5453A83705A2][Judge orders Garcia be returned from CECOT by Monday April 7 at 11:59 PM]]
 :END:
 
-**** Pete Hegseth shares detailed information about forthcoming strikes in Yemen in a private Signal group chat that included his wife, brother (pentagon advisor), and personal lawyer (pentagon advisor) :Signalgate:Signal:PeteHegseth:Pentagon:classifiedInformation:malpractice:Yemen:
+**** Pete Hegseth shares details of Yemen strikes in a private Signal group chat that included his wife, brother, and personal lawyer :Signalgate:Signal:PeteHegseth:Pentagon:classifiedInformation:malpractice:Yemen:
 :PROPERTIES:
 :Link:     https://www.nytimes.com/2025/04/20/us/politics/hegseth-yemen-attack-second-signal-chat.html?unlocked_article_code=1.BE8.Iakc.SUEQhzcc2uj0&smid=nytcore-ios-share&referringSource=articleShare
 :Branch:   Executive
@@ -276,6 +290,7 @@ The EPA's Office of Environmental Justice and External Civil Rights focused prim
 :END:
 This chat was setup before he was sworn in to discuss non-confidential information, but then was used to share this confidential info.
 He used his personal phone for this chat, supposedly.
+His brother and personal lawyers are both Pentagon advisors.
 
 *** 2025-03-17 Monday
 
@@ -296,7 +311,7 @@ He used his personal phone for this chat, supposedly.
 
 *** 2025-04-01 Tuesday
 
-**** Cuts to two-thirds of NIOSH staff and MSHA office leases threaten coal miners and firefighters :MineSafetyAndHealthAdministration:NationalInstituteForOccupationalSafetyAndHealth:MSHA:NIOSH:DOGE:coalMining:coal:miners:workers:jobs:jobCuts:staffing:staffingCuts:federalAgency:federalFunding:healthAndSafety:firefighters:
+**** Cuts to two-thirds of NIOSH staff and MSHA office leases threaten coal miners and firefighters :MSHA:NIOSH:DOGE:coalMining:coal:miners:workers:jobs:jobCuts:staffingCuts:federalAgency:federalFunding:healthAndSafety:firefighters:
 :PROPERTIES:
 :Link:     https://www.reuters.com/business/world-at-work/trump-eyes-coal-revival-his-job-cuts-hobble-black-lung-protections-miners-2025-04-21
 :Branch:   Executive
@@ -340,7 +355,7 @@ They had the wrong guy, which means they apprehended him based on the color of h
 [2025-04-24 Thu 16:16] <- [[id:A94F9309-BB56-43CC-BE91-6116D0073C35][300+ Venezualens sent to CECOT in El Salvador]]
 :END:
 
-**** USDA withholds federal funding from Maine Department of Education's Child Nutrition Program, citing defiance of Title IX over transgender athletes playing on girls and women's teams
+**** USDA withholds federal funding from Maine ED's Child Nutrition Program, citing defiance of Title IX over transgender athletes playing on girls and women's teams
 :PROPERTIES:
 :Branch:   Executive
 :Subject:  Trans Rights
@@ -362,11 +377,15 @@ A judge dismissed the case on April 17.
 
 *** 2025-04-09 Wednesday
 
-**** Trump signs EO targeting Christopher Krebs, former head of CISA for denying election interference; Also targeting Miles Taylor :elections:revenge:authoritarian:
+**** Trump signs EO targeting Christopher Krebs for denying election interference; Also targeting Miles Taylor :elections:retaliation:authoritarian:
 :PROPERTIES:
 :Branch:   Executive
 :Subject:  2020 Election
 :Link:     https://web.archive.org/web/20250411215218/https://www.whitehouse.gov/presidential-actions/2025/04/addressing-risks-from-chris-krebs-and-government-censorship/
+:ID:       484C3E60-481E-46AC-91E3-50026CA6E8BD
+:END:
+:RELATED:
+[[id:CD771BFA-EA46-40FE-94C5-6DE2760E7904][Christopher Krebs is fired by President Donald Trump via Twitter]]
 :END:
 
 *** 2025-04-10 Thursday
@@ -419,7 +438,7 @@ https://aaronparnas.substack.com/p/breaking-house-passes-save-act-requiring?r=mw
 :Link:     https://www.axios.com/2025/04/11/trump-doj-maryland-man-el-salvador-prison
 :END:
 
-**** Court enjoins USDA in TRO ordering them to restore funding to Maine Department of Education's Child Nutrition Program until judicial review of possible non-compliance with the Administrative Procedure Act :trans:rights:federal:funding:APA:
+**** Court enjoins USDA in TRO ordering them to restore funding to Maine ED's Child Nutrition Program until judicial review of possible non-compliance with the Administrative Procedure Act :transRights:federal:funding:APA:
 :PROPERTIES:
 :Branch:   Judicial
 :Subject:  Trans Rights
@@ -512,7 +531,7 @@ Trump pulled us from the Iran Nuclear agreement during his first administration,
 
   https://www.washingtonpost.com/national-security/2025/04/13/tufts-student-rumeysa-ozturk-rubio-trump/
 
-**** 20,000 people attend the Fight Oligarchy rally in Salt Lake City Utah :theOpposition:
+**** 20,000 people attend the Fight Oligarchy rally in Salt Lake City Utah :theOpposition:rally:BernieSanders:AOC:
 :PROPERTIES:
 :Branch:
 :Subject:  Fight Oligarchy
@@ -622,14 +641,14 @@ Mohsen was trying to attend an interview as part of his application for US citiz
 :Link:     https://www.medpagetoday.com/special-reports/exclusives/115180
 :END:
 
-**** CBP states tariff revenue is $250 million per day, far under Trump's stated $2 billion per day :CPB:usCustomsAndBorderProtection:tariffs:lies:Trump:
+**** CBP states tariff revenue is $250 million per day, far under Trump's stated $2 billion per day :CPB:tariffs:lies:Trump:
 :PROPERTIES:
 :Link:     https://www.cnbc.com/2025/04/16/us-customs-tariffs-revenue-generated-since-april-5.html
 :Branch:   Executive
 :Subject:  tariffs
 :END:
 
-**** HHS launces "whistleblower" form to snitch on gender affirming care providers regardless if the care is legal or not :transRights:genderAffirmingCare:HHS:DepartmentOfHealthAndHumanServices:
+**** HHS launces "whistleblower" form to snitch on gender affirming care providers regardless if the care is legal or not :transRights:genderAffirmingCare:HHS:
 :PROPERTIES:
 :Link:     https://web.archive.org/web/20250422234610/https://www.erininthemorning.com/p/hhs-launches-snitch-form-to-report
 :Branch:   Executive
@@ -664,7 +683,7 @@ Mohsen was trying to attend an interview as part of his application for US citiz
 
 Via TRO
 
-**** Judge orders deposition and discovery over two weeks to learn what the Trump administration has (or has not) done to "facilitate" Garcia's return :CECOT:contempt:jurisdiction:DOJ:ElSalvador:
+**** Judge orders deposition and discovery over two weeks to learn what the Trump administration has (or has not) done to "facilitate" Garcia's return :CECOT:contemptOfCourt:jurisdiction:DOJ:ElSalvador:
 :PROPERTIES:
 :Link:     https://www.reuters.com/legal/judge-consider-trumps-compliance-with-order-over-wrongly-deported-man-2025-04-15/
 :Branch:   Judicial
@@ -673,7 +692,7 @@ Via TRO
 
 Made a point of creating a space where the judge should play "referee" to deposition and cross-examination by lawyers.
 
-**** Anonymous leaks 10TB of data on corrupt Russians, Kremlin assets, and Donald Trump :anonymous:dataLeak:Russia:Kremlin:DonaldTrump:
+**** Anonymous leaks 10TB of data on corrupt Russians, Kremlin assets, and Donald Trump :anonymous:dataLeak:Russia:Kremlin:Trump:
 :PROPERTIES:
 :Link:     https://bsky.app/profile/youranoncentral.bsky.social/post/3lmvbpc66qc2j
 :Branch:
@@ -687,7 +706,7 @@ Made a point of creating a space where the judge should play "referee" to deposi
 :Subject:  Information Security
 :END:
 
-**** Man who has been citizen for 10 years — and his wife — are detainedfor about five hours while returning by car to Vermont from Canada :immigration:usCustomsAndBorderProtection:CBP:detainment:
+**** Man who has been citizen for 10 years — and his wife — are detainedfor about five hours while returning by car to Vermont from Canada :immigration:CBP:detainment:
 :PROPERTIES:
 :Link:     https://web.archive.org/web/20250416015802/https://www.nbcboston.com/news/politics/treated-like-a-criminal-us-citizen-says-he-was-detained-returning-from-canada/3686188/
 :Branch:   Executive
@@ -728,7 +747,7 @@ Funding was originally awarded by the National Clean Investment Fund (NCIF)
 
 Involves sharing vaccine resources, promises to assign vaccine manufacturers at 20% of their workload during pandemics, and provide a framework for sharing vaccines and encouraging vaccine development in poorer countries.
 
-**** DOJ files lawsuit against Maine claiming the state violated Title IX by "by failing to protect women in women's sports" :trans:transRights:DOJ:PamBondi:Maine:transAthletes:civilRights:
+**** DOJ files lawsuit against Maine claiming the state violated Title IX by "by failing to protect women in women's sports" :transRights:DOJ:PamBondi:Maine:transAthletes:civilRights:
 :PROPERTIES:
 :Link:     https://web.archive.org/web/20250416144903/https://www.cbsnews.com/news/maine-title-ix-transgender-athletes-trump-executive-order/
 :Branch:   Executive
@@ -737,7 +756,7 @@ Involves sharing vaccine resources, promises to assign vaccine manufacturers at 
 
 Considering retroactively pulling all funding they have received while "not complying" to Title IX, according to Pam Bondi
 
-**** Judge Boasberg in J.G.G. v Trump case find probable cause of contempt of court regarding the planes taking Venezualans to CECOT :contempt:ElSalvador:CECOT:AEA:
+**** Judge Boasberg in J.G.G. v Trump case find probable cause of contempt of court regarding the planes taking Venezualans to CECOT :contemptOfCourt:ElSalvador:CECOT:AEA:
 :PROPERTIES:
 :Link:     https://web.archive.org/web/20250416144903/https://www.cbsnews.com/news/maine-title-ix-transgender-athletes-trump-executive-order/
 :Branch:   Judicial
@@ -753,7 +772,7 @@ Trump admin can purge the contempt by bringing all Venezualans back
 :Subject:  tariffs
 :END:
 
-**** DOJ appeals both orders from Judge Boasberg and Judge Xinis :CECOT:AEA:contempt:
+**** DOJ appeals both orders from Judge Boasberg and Judge Xinis :CECOT:AEA:contemptOfCourt:
 :PROPERTIES:
 :Link:     https://bsky.app/profile/chrisgeidner.bsky.social/post/3lmxqb4dd722f
 :Branch:   Judicial
@@ -797,7 +816,7 @@ Judge Boasberg's order [[https://bsky.app/profile/stevevladeck.bsky.social/post/
 :Subject:  Kilmar Abrego Garcia
 :END:
 
-**** NIH stops grant and contracts payments to Harvard,Brown, Northwestern, and Cornell universities due to false claims they don't do enough to combat antisemitism :college:antisemitism:NIH:DepartmentOfHealthAndHumanServices:
+**** NIH stops grant and contracts payments to Harvard,Brown, Northwestern, and Cornell universities due to false claims they don't do enough to combat antisemitism :college:antisemitism:NIH:HHS:
 :PROPERTIES:
 :Link:     https://web.archive.org/web/20250420215608/https://www.science.org/content/article/nih-freezes-funds-harvard-and-four-other-universities-can-t-tell-them
 :Branch:   Executive
@@ -814,7 +833,7 @@ This will impact payment for researchers and workers.
 :END:
 DHS ordered the university to submit records on what she says is "illegal and violent activites" from international students by April 30 or else Harvard would lose their Student of Exchange Visitor Program certification.
 
-**** RFK Jr. refers to autism as an epidemic and does not support the idea that better diagnoses account for the increase in autism prevalence :autism:misinformation:disinformation:pseudoscience:RFKJr:HHS:DepartmentOfHealthAndHumanServices:
+**** RFK Jr. refers to autism as an epidemic and does not support the idea that better diagnoses account for the increase in autism prevalence :autism:misinformation:disinformation:pseudoscience:RFKJr:HHS:
 :PROPERTIES:
 :Link:     https://abcnews.go.com/Health/rfk-jr-lays-new-studies-autism-shuts-diagnoses/story?id=120882735
 :Branch:   Executive
@@ -854,7 +873,7 @@ CFPB was created after the Great Recession in 2008 with the goal of protecting A
 :Subject:  ICE
 :END:
 
-**** FDA suspends a quality control program for its food testing labs as a result of staff cuts at Department of Health and Human Services :HHS:FDA:DepartmentOfHealthAndHumanServices:federalFunding:federalAgency:Trump:
+**** FDA suspends a quality control program for its food testing labs as a result of staff cuts at Department of Health and Human Services :HHS:FDA:federalFunding:federalAgency:Trump:
 :PROPERTIES:
 :Link:     https://www.reuters.com/world/us/us-fda-suspends-food-safety-quality-checks-after-staff-cuts-2025-04-17/?taid=68015a42e972bd0001dd8fc0&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
 :Branch:   Executive
@@ -879,7 +898,7 @@ Program is suspended through at least Sept. 30
 :Link:     https://penncapital-star.com/briefs/mack-trucks-announces-layoffs-at-lehigh-valley-plant-blames-tariffs/
 :END:
 
-**** CPJ issues safety advisory for journalists traveling to the United States :Journalism:Journalists:Safety:usCustomsAndBorderProtection:
+**** CPJ issues safety advisory for journalists traveling to the United States :Journalism:Journalists:Safety:CBP:
 :PROPERTIES:
 :Branch:
 :Subject:  Journalism
@@ -931,7 +950,7 @@ Some removed topics:
 :PROPERTIES:
 :Link:     https://www.reuters.com/legal/government/trump-administration-ordered-retract-sham-rationale-firing-workers-2025-04-21/?taid=68067bf466e4b3000122e8f1&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
 :Branch:   Legislative
-:Subject:  Mass Federal Worker Layoffs
+:Subject:  Mass Federal Layoffs
 :END:
 Important for these employees to find other jobs, as the official reasoning is now not related to "performance issues"
 
@@ -965,7 +984,7 @@ The Venezuelans in this case were given under 24 hours notice of deportation onl
 :Subject:  Kilmar Abrego Garcia
 :END:
 
-**** Attorneys in Abrego Garcia case allege the Trump administration as filed "nothing of substance" during expedited discovery :CECOT:ElSalvador:DOJ:contempt:deporation:detainment:dueProcess:immigration:ignoringCourtOrders:
+**** Attorneys in Abrego Garcia case allege the Trump administration as filed "nothing of substance" during expedited discovery :CECOT:ElSalvador:DOJ:contemptOfCourt:deporation:detainment:dueProcess:immigration:ignoringCourtOrders:
 :PROPERTIES:
 :Link:     https://bsky.app/profile/joshuajfriedman.com/post/3lnfovqakns2l
 :Branch:   Executive
@@ -992,7 +1011,7 @@ The DOJ even states that it wasn't ordered to facilitate release from custody, d
 :Subject:  Signalgate
 :END:
 
-**** Trump admin scolded for being evasive and in bad faith when complying with Garcia expedited discovery :DOJ:contempt:
+**** Trump admin scolded for being evasive and in bad faith when complying with Garcia expedited discovery :DOJ:contemptOfCourt:
 :PROPERTIES:
 :Link:     https://bsky.app/profile/kyledcheney.bsky.social/post/3lngp345rzm25
 :Branch:   Legislative
@@ -1009,7 +1028,7 @@ The judge objected to the use of privilege without providing the receipts.
 :PROPERTIES:
 :Link:     https://www.reuters.com/business/world-at-work/epa-begins-layoffs-environmental-justice-staff-2025-04-22/?taid=6807a21666e4b3000122ee0e&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
 :Branch:   Executive
-:Subject:  Mass Federal Worker Layoffs
+:Subject:  Mass Federal Layoffs
 :ID:       25853F7D-FC9F-4D86-BCC8-3028782ADBF4
 :END:
 :RELATED:
@@ -1083,6 +1102,7 @@ Employees were originally placed on leave in February, then reinstated pending l
 :Link: https://www.cnbc.com/2025/04/25/trumps-memecoin-dinner-contest-earns-insiders-900000-in-two-days.html?utm_source=substack&utm_medium=email
 :Subject: Corruption
 :END:
+
 **** Parties agree to stay discovery for 7 days for reasons under seal :motionToStay:sealed:courtCase:immigration:CECOT:
 :PROPERTIES:
 :Link:     https://web.archive.org/web/20250430144851/https://www.courtlistener.com/docket/69777799/103/abrego-garcia-v-noem/
@@ -1094,6 +1114,7 @@ Employees were originally placed on leave in February, then reinstated pending l
 [[id:FBE134A8-6F43-48C4-BD4F-E741CC18E389][DOJ is denied another request for a stay on discovery in Garcia case]]
 :END:
 Due to being agreed upon and the details being under seal, I am hoping this means they are finally facilitating Garcia's return
+
 *** 2025-04-24 Thursday
 
 **** Preliminary Injunction bars the Trump administration from pulling federal funds from places it deems “sanctuary cities” :immigration:sanctuaryCities:federalFunding:executiveOrder:preliminaryInjunction:unconstitutional:retaliation:
@@ -1130,6 +1151,14 @@ Due to being agreed upon and the details being under seal, I am hoping this mean
 :Subject:
 :Link: https://www.nytimes.com/2025/04/24/us/politics/trump-actblue-democrats.html
 :END:
+
+**** Oklahoma family mistakenly raided by ICE and FBI :ICE:FBI:raid:immigration:
+:PROPERTIES:
+:Link:     https://kfor.com/news/local/were-citizens-oklahoma-city-family-traumatized-after-ice-raids-home-but-they-werent-suspects/
+:Branch:   Executive
+:Subject:  ICE
+:END:
+The mother says roughly 20 mens with guns broke into the house they just started renting. Her and her daughters were forced to stand outside in the rain without much clothing. Their phones, laptops, and cash savings were taken despite the mother pleading that's the only money they had.
 
 *** 2025-04-25 Friday
 
@@ -1200,7 +1229,7 @@ This club costs half a million dollars to join, has strict invite policies, and 
 **** DC circuit court blocks CFPB firings pending appellate review in district court injunction :CFPB:layoffs:federalWorkers:
 :PROPERTIES:
 :Branch: Judicial
-:Subject: Mass Firings
+:Subject: Mass Federal Layoffs
 :Link: https://bsky.app/profile/did:plc:36eqtmzysqf7wsslczw4uxcd/post/3lnvmo7gjnk2v
 :END:
 
@@ -1243,11 +1272,11 @@ to hide the discussions regarding this very assessment.
 **** Corporation for Public Broadcasting sues to block Trump from firing three board members :layoffs:lawsuit:
 :PROPERTIES:
 :Branch: Judicial
-:Subject: Mass Firings
+:Subject: Mass Federal Layoffs
 :Link: Corporation for Public Broadcasting sues to block Trump from firing 3 board members - https://www.reuters.com/world/us/corporation-public-broadcasting-sues-block-trump-firing-three-board-members-2025-04-29/
 :END:
-- Note taken on [2025-04-29 Tue 20:22] \\
-  CPB argues it's illegal and ignores Congressional power to handle such firings
+
+ CPB argues it's illegal and ignores Congressional power to handle such firings
 
 **** US states sue to block Trump from dismantling AmeriCorps :lawsuit:AmeriCorp:federalFunding:federalAgency:federalWorkers:layoffs:massFirings:DOGE:
 :PROPERTIES:
@@ -1264,7 +1293,8 @@ to hide the discussions regarding this very assessment.
 :Subject: Deportation
 :Link: https://bsky.app/profile/did:plc:36eqtmzysqf7wsslczw4uxcd/post/3lnymxbgems25
 :END:
-**** Trump states in an interview with ABC that he could order Garcia home but his lawyers don't want him to :Trump:contempt:unconstitutional:interview:immigration:deporation:CECOT:
+
+**** Trump states in an interview with ABC that he could order Garcia home but his lawyers don't want him to :Trump:contemptOfCourt:unconstitutional:interview:immigration:deporation:CECOT:
 :PROPERTIES:
 :Link:     https://web.archive.org/web/20250430144619/https://abcnews.go.com/US/full-transcript-trumps-exclusive-100-days-broadcast-interview/story?id=121291672
 :Branch:   Executive
@@ -1274,8 +1304,10 @@ to hide the discussions regarding this very assessment.
 :RELATED:
 [[id:A8795AF3-FB65-4E11-8485-5453A83705A2][Judge orders Garcia be returned from CECOT by Monday April 7 at 11:59 PM]]
 :END:
+
 *** 2025-04-30 Wednesday
-**** DOJ is denied another request for a stay on discovery in Garcia case :requestForStay:DOJ:contempt:
+
+**** DOJ is denied another request for a stay on discovery in Garcia case :requestForStay:DOJ:contemptOfCourt:
 :PROPERTIES:
 :Link:     https://www.courtlistener.com/docket/69777799/abrego-garcia-v-noem/?order_by=desc#entry-106
 :Branch:   Legislative
@@ -1286,8 +1318,10 @@ to hide the discussions regarding this very assessment.
 [2025-04-30 Wed 10:53] <- [[id:AE07B7AD-9FA6-40FD-972E-9DC40A4BFFEE][Parties agree to stay discovery for 7 days for reasons under seal]]
 :END:
 After sealed agreements between parties for a stay on April 23 (which I was hoping meant good news of Garcia's return) the government continues to attempt to avoid the court's orders.
+
 ***** Additional links
 - https://web.archive.org/web/20250430151151/https://www.courtlistener.com/docket/69777799/107/abrego-garcia-v-noem/
+
 * Undated
 
 ** List of foreign nationals detained by ICE    :ICE:immigration:humanRights:

@@ -306,12 +306,14 @@ His brother and personal lawyers are both Pentagon advisors.
 :END:
 
 *** 2025-03-27 Thursday
+
 **** Trump signs Executive Order accusing liberals of rewriting history and defining efforts to "restore" monuments and our history :executiveOrder:liberalism:DEI:racism:americanHistory:history:
 :PROPERTIES:
 :Link:     https://web.archive.org/web/20250430010828/https://www.whitehouse.gov/presidential-actions/2025/03/restoring-truth-and-sanity-to-american-history/
 :Branch:   Executive
 :Subject:  American History
 :END:
+
 *** 2025-03-31 Monday
 
 ** 2025-04 April
@@ -1330,8 +1332,17 @@ After sealed agreements between parties for a stay on April 23 (which I was hopi
 ***** Additional links
 - https://web.archive.org/web/20250430151151/https://www.courtlistener.com/docket/69777799/107/abrego-garcia-v-noem/
 
+**** Photo of Mike Waltz in Cabinet meeting shows him using Signal with multiple names of Trump admin :Signalgate:Signal:MikeWaltz:TheCabinet:CabinetMeeting:
+:PROPERTIES:
+:Branch: Executive
+:Subject: SignalGate
+:Link: https://abcnews.go.com/Politics/waltz-photographed-signal-trumps-cabinet-meeting-day-removal/story?id=121373232
+:END:
+
 ** 2025-05 May
+
 *** 2025-05-01 Thursday
+
 **** Court allows for certification of class for all Venezuelans in the Southern District of Texas who are targeted by the Alien Enemies Act :AEA:ACLU:Venezuelans:deportation:dueProcess:HabeasCorpus:classCertification:
 :PROPERTIES:
 :Link:     https://web.archive.org/web/20250501151722/https://www.courtlistener.com/docket/69862833/57/jav-v-trump/
@@ -1343,13 +1354,37 @@ After sealed agreements between parties for a stay on April 23 (which I was hopi
 [[id:D8ACAA9C-06D7-4BD0-A011-D9D9D97F9C4E][Supreme Court temporarily blocks Trump administration from deporting Venezuelans in district of Texas to El Salvador due to concerns that they were already preparing the detainees]]
 :END:
 The ACLU was requesting class certification for Habeas Corpus for all Venezuelans in the Southern District of Texas.
+
 **** Trump fires Mike Waltz as his National Security Advisor  :MikeWaltz:NSA:
 :PROPERTIES:
 :Link:     TODO
 :Branch:   Executive
 :Subject:  Cabinet of the United States
 :END:
-According to PBS Newshour, insiders were not aware of Waltz then being named Ambassador of the U.N. or for Rubio to become the temporary National Security Advisor
+According to PBS Newshour, insiders were not aware of Waltz then being named Ambassador of the U.N. or [[https://bsky.app/profile/atrupar.com/post/3lo4x27g6vs25?utm_source=substack&utm_medium=email][for Rubio to become the temporary National Security Advisor]]
+
+**** District judge orders TRO blocking the dissolution of the Institute of Museum and Library Services :TRO:DOGE:massFirings:
+:PROPERTIES:
+:Branch: Judicial
+:Subject: Gutting of Federal Agencies
+:Link: https://storage.courtlistener.com/recap/gov.uscourts.dcd.279257/gov.uscourts.dcd.279257.36.0_1.pdf
+:END:
+
+**** DOD designates second military zone along U.S. souther border :immigration:deportation:military:DOD:DHS:
+:PROPERTIES:
+:Branch: Executive
+:Subject: Border Security
+:Link: https://apnews.com/article/military-border-immigration-texas-mexico-d7d15f23bd755b95cd90cbb9a89df6faDefense Department designates a second military zone on US border, extending into Texas
+:END:
+
+By extending military zones surrounding military bases, people who cross the border illegally could also be charged with breaching a national defense area.
+
+This could be a potential move closer to military deployment for policing, which has been considered unconstitutional since the late 1800s
+
+Immigrants will be apprehended by military forces and surrender to DHS for further processing.
+
+*** 2025-05-02 Friday
+
 * Undated
 
 ** List of foreign nationals detained by ICE    :ICE:immigration:humanRights:

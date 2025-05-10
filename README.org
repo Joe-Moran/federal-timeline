@@ -19,8 +19,9 @@ For some stories that I research more in-depth, I add additional notes. These
 ** The Development
 The main goal is to stick to vanilla javascript as much as possible. This provides a greater challenge for me and gives me better practice at the underlying javascript API that all our favorite frameworks abstract over. I have primarily developed with Vue during my career.
 
-** Related Projects
+** Related Projects and Etcetera
   - [[https://www.project2025.observer][Project 2025 Tracker]]
   - [[https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/][Litigation Tracker: Legal Challenges to Trump Administration Actions]]
   - [[https://thewarhorse.org/trump-timeline-military-veterans/][Operation Timeline: The Human Impact of Policy Changes at the DOD and VA]]
   - [[https://sciop.net/][SciOp]]
+  - [[https://portal.datarescueproject.org/][Data Rescue Project]]

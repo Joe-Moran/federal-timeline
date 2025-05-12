@@ -11,7 +11,7 @@ export const buildTagButton = ({ text = '', selected = '', onClick = () => {} })
   button.setAttribute('type', 'button')
   button.setAttribute('aria-pressed', isSelected)
   button.classList = classList.join(' ')
-  button.innerText = text
+  button.innerHTML = text
   button.addEventListener('click', onClick)
   return button
 }

@@ -39,6 +39,18 @@
 
 * 2023
 
+** 2023-04 April
+
+*** 2023-04-18 Tuesday
+
+**** Fox and Dominion reach huge settlement over 2020 election claims :elections:theBigLie:lies:civilSuit:defamation:FoxNews:TuckerCarlson:SeanHannity:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250503143840/https://apnews.com/article/fox-news-dominion-lawsuit-trial-trump-2020-0ac71f75acfacc52ea80b3e747fb0afe
+:Branch:   nil
+:Subject:  2020 Election
+:END:
+$787 million settlement over Fox New's repeated lies about Dominion voting machines being hacked and votes being switched from Trump to Biden
+
 ** 2023-09 September
 
 *** 2023-09-20 Wednesday
@@ -102,6 +114,23 @@ Due to the growing border crossings from Venezuela and despite recent expansion 
 ****** https://edworkforce.house.gov/uploadedfiles/1.9.24_foxx_letter_to_pritzker_and_garber.pdf
 
 * 2024
+
+** 2024-02 February
+
+*** 2024-02-06 Tuesday
+
+**** Senate Republicans kill border bill championed by Mitch McConnell :MitchMcconnell:borderPolicy:Senate:Trump:
+:PROPERTIES:
+:Branch: Legislative
+:Subject: Border Control
+:Link: https://www.nbcnews.com/politics/congress/republicans-kill-border-bill-sign-trumps-strength-mcconnells-waning-in-rcna137477
+:END:
+
+Trump apparently convinced Republicans not to vote for the bill. Was this due to the upcoming election, its tie with Ukraine funding, or something else?
+
+***** TODO https://www.nbcnews.com/politics/congress/new-immigration-asylum-reform-bill-released-senate-text-rcna136602
+
+***** TODO https://www.nbcnews.com/politics/congress/new-immigration-asylum-reform-bill-released-senate-text-rcna136602
 
 ** 2024-05 May
 
@@ -253,6 +282,17 @@ The EPA's Office of Environmental Justice and External Civil Rights focused prim
 :Subject: ICE
 :END:
 
+*** 2025-03-05 Wednesday
+
+**** Michigan immigrant father arrested by ICE outside school after dropping off child :Michigan:immigration:ICE:detainment:arrest:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250407080508/https://eu.freep.com/story/news/local/michigan/wayne/2025/03/07/jose-jaimes-arrested-ice-immigration-customers-enforcement-trenton-middle-school/81852395007/
+:Branch:   Executive
+:Subject:  ICE
+:END:
+Guns drawn by officers.
+Father is from Mexico but has lived in the US for 30 years and has his own painting business. He is here legally, despite ICE saying he has removal orders.
+
 *** 2025-03-07 Friday
 
 **** Tribal communities lost roughly $1.6 billion in infrastructure grants from EPA after funding freeze :tribalCommunity:funding:EPA:climateChange:
@@ -314,6 +354,19 @@ His brother and personal lawyers are both Pentagon advisors.
 :Subject:  American History
 :END:
 
+**** ICE detains mother and three children in hometown of Border Czar Tom Homan :ICE:immigration:TomHoman:detainment:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250428221816/https://theintercept.com/2025/04/04/tom-homan-ice-immigrant-raid-new-york/
+:Branch:   Executive
+:Subject:  ICE
+:ID:       D2670232-01CD-42DC-8E87-D2DC6ED9DB1D
+:END:
+:BACKLINKS:
+[2025-05-06 Tue 22:14] <- [[id:C0E18473-51ED-4B5A-A7F6-DDE2700D53E2][Family from Tom Homan's hometown released from ICE custody]]
+:END:
+They were "swept up" through a tactic called collateral detention, in which a warrant targeting specific individuals is used as a pretext to sweep up any undocumented people the agents can find.
+They were not the initial targets of the raid.
+
 *** 2025-03-31 Monday
 
 ** 2025-04 April
@@ -372,6 +425,20 @@ They had the wrong guy, which means they apprehended him based on the color of h
 :END:
 
 Funding was also inaccessible for their National School Lunch Program Equipment Assistance Grant and the Farm to School State Formula Grant
+
+*** 2025-04-05 Saturday
+
+**** Family from Tom Homan's hometown released from ICE custody :ICE:TomHoman:immigration:protests:communityBacklash:detainment:family:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250409045441/https://www.nyic.org/2025/04/sackets-harbor-family-has-been-released-from-ice-detention/
+:Branch:   Executive
+:Subject:  ICE
+:ID:       C0E18473-51ED-4B5A-A7F6-DDE2700D53E2
+:END:
+:RELATED:
+[[id:D2670232-01CD-42DC-8E87-D2DC6ED9DB1D][ICE detains mother and three children in hometown of Border Czar Tom Homan]]
+:END:
+After ten days of protests and rallies from the community. School teachers and students missing the children became a huge issue for the community.
 
 *** 2025-04-08 Tuesday
 
@@ -536,6 +603,10 @@ Trump pulled us from the Iran Nuclear agreement during his first administration,
 :Subject+: deportation
 :Subject+: immigration
 :Link:     https://www.washingtonpost.com/national-security/2025/04/13/tufts-student-rumeysa-ozturk-rubio-trump/
+:ID:       ED1D54FC-21DD-4A53-87E9-2C9B678AA6A7
+:END:
+:BACKLINKS:
+[2025-05-09 Fri 15:37] <- [[id:92DAB6ED-EF8A-452F-BAE3-3136BBD070FB][Rumeysa Ozturk released from detention on bail]]
 :END:
 
   https://www.washingtonpost.com/national-security/2025/04/13/tufts-student-rumeysa-ozturk-rubio-trump/
@@ -554,6 +625,10 @@ Trump pulled us from the Iran Nuclear agreement during his first administration,
 :Subject:  Rumeysa Ozturk
 :Branch:   Judicial
 :Link:     TODO
+:ID:       CBC62D7D-D593-4756-8E77-24DCAB8C33E7
+:END:
+:BACKLINKS:
+[2025-05-09 Fri 15:37] <- [[id:92DAB6ED-EF8A-452F-BAE3-3136BBD070FB][Rumeysa Ozturk released from detention on bail]]
 :END:
 
 Judge seems to be siding with UCLA to keep habeas corpus jurisdiction in Vermont instead of Lousiana. A hearing regarding release will occur in May.
@@ -1339,6 +1414,21 @@ After sealed agreements between parties for a stay on April 23 (which I was hopi
 :Link: https://abcnews.go.com/Politics/waltz-photographed-signal-trumps-cabinet-meeting-day-removal/story?id=121373232
 :END:
 
+**** Freight Technologies announces they have secured up to $20 Million for $TRUMP token in hopes to influence tariff policy :bribery:cryptocurrency:Trump:tariffs:logistics:
+:PROPERTIES:
+:Branch:
+:Subject: Corruption
+:Link: https://fr8technologies.com/press-release/freight-technologies-secures-up-to-usd-20-million-to-create-an-official-trump-token-trump-treasury/?fbclid=IwY2xjawKDE0tleHRuA2FlbQIxMQBicmlkETFuREZ3WEdsMGJyOFZWZ0ZCAR7FajadaQB83Jz7K5kY87EiSl_zHh03E7mk4H5ragRhIdxz12wbQEYdLnu-7Q_aem_hBJryb7LDReAyHFXPI5aXg
+:END:
+
+**** U.S. and Ukraine sign minerals deal :Ukraine:rareEarthMinerals:diplomacy:
+:PROPERTIES:
+:Link:     https://www.axios.com/2025/04/30/ukraine-minerals-deal-signing
+:Branch:   Executive
+:Subject:  Ukraine Minerals Deal
+:END:
+The deal is forward-looking, meaning it is an investment in the future and our partnership as nations. It is NOT a way of paying the U.S. back for defense funding in the war with Russia.
+
 ** 2025-05 May
 
 *** 2025-05-01 Thursday
@@ -1383,8 +1473,133 @@ This could be a potential move closer to military deployment for policing, which
 
 Immigrants will be apprehended by military forces and surrender to DHS for further processing.
 
+**** U.S. press freedom hits a record low as published by Reporters Without Borders annual World Press Freedom Index :pressFreedom:journalism:ReportersWithoutBorders:threats:economy:authoritarian:
+:PROPERTIES:
+:Link:     https://www.axios.com/2025/05/02/usa-press-freedom
+:Branch:   nil
+:Subject:  Press Freedom
+:END:
+Due to economic strain while the government undermines independent and critical outlets financially.
+
 *** 2025-05-02 Friday
 
+**** White House releases 2026 budget proposal with significant cuts to non-defense spending :federalFunding:budgetProposal:WhiteHouse:Trump:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/2/https://www.whitehouse.gov/wp-content/uploads/2025/05/Fiscal-Year-2026-Discretionary-Budget-Request.pdf
+:Branch:   Executive
+:Subject:  Federal Funding
+:END:
+The FBI proposed budget is to cut $545 million. The FBI did not have their own budget proposal for a senate appropriations subcommittee meeting on May 8 2025
+Increases the Infrastructure for Rebuilding America Program (INFRA) budget by $770 million.
+
+***** Additional links
+ - https://web.archive.org/web/20250506050414/https://apnews.com/article/trump-budget-taxes-spending-vought-4549eb165410186da001c8cdce462492
+ -
+
+**** TODO Deminimis exemption stopped for trade from China :tariffs:China:tradeWar:
+**** Judge permanently enjoins Trump admin from implementing EO targeting Perkins Coie law firm :PerkinsCoie:Trump:retaliation:unconstitutional:executiveOrder:lawFirms:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250510001828/https://apnews.com/article/trump-perkins-coie-law-firm-executive-order-206052ec8157380fb2e23010a6f88815
+:Branch:   Judicial
+:Subject:  Perkins Coie
+:END:
+The judge notes in her order:
+
+#+BEGIN_QUOTE
+...that Executive Order...is unlawful because it violates the First, Fifth, and Sixth Amendments to the U.S. Constitution
+#+END_QUOTE
+
+Trump's own words online and on camera were used against him to determine his rhetoric suggested his actions in the EO were retaliatory.
+
+***** Additional Links
+- [[https://www.courtlistener.com/docket/69725919/184/perkins-coie-llp-v-us-department-of-justice/][Judge's Order]]
+- [[https://storage.courtlistener.com/recap/gov.uscourts.dcd.278290/gov.uscourts.dcd.278290.185.0_1.pdf][Judge's 102 page opinion]]
+- [[https://www.whitehouse.gov/presidential-actions/2025/03/addressing-risks-from-perkins-coie-llp/][Perkins Coie Executive Order]]
+- [[https://bsky.app/profile/rparloff.bsky.social/post/3loccz3j4o22q][Analysis by Roger Parloff | Bluesky]]
+- [[ https://www.lawdork.com/p/judge-howell-trump-perkins-coie-final-order][Analysis | Lawdork]]
+
+*** 2025-05-06 Tuesday
+
+**** todo                                                              :TODO:
+:PROPERTIES:
+:Link:     https://open.substack.com/pub/heathercoxrichardson/p/may-4-2025?r=5g3xj&utm_campaign=post&utm_medium=email
+:Branch:   nil
+:Subject:  TODO
+:END:
+
+**** Supreme Court overrides TROs that stopped Trump's anti-trans military ban from going into effect :transRights:military:SupremeCourt:TRO:
+:PROPERTIES:
+:Link:     https://web.archive.org/web/20250507024206/https://www.lawdork.com/p/supreme-court-trump-anti-trans-military-ban
+:Branch:   Judicial
+:Subject:  Trans Rights
+:END:
+The ban on trans service members is allowed to go into effect despite two lower courts finding it most likely unconstitutional. The stay will remain throughout litigation in appeals from the DOJ in lower courts, which could mean well over a year of anti-trans actions in the military.
+
+*** 2025-05-08 Thursday
+
+**** Trump selects Jeanine Pirro as interim attorney for Washington DC :Trump:FoxNews:nominations:appointment:
+:PROPERTIES:
+:Branch: Executive
+:Subject: Nominations
+:Link: https://bsky.app/profile/did:plc:t4x2ruk2qmob2b2cx55h4v7r/post/3looxvff4y22l
+:END:
+
+*** 2025-05-09 Friday
+**** Rumeysa Ozturk released from detention on bail :immigration:unconstitutional:HabeasCorpus:ICE:firstAmendmentViolation:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/annabower.bsky.social/post/3loqnq26d7c2a
+:Branch:   Judicial
+:Subject:  Rumeysa Ozturk
+:ID:       92DAB6ED-EF8A-452F-BAE3-3136BBD070FB
+:END:
+:RELATED:
+[[id:CBC62D7D-D593-4756-8E77-24DCAB8C33E7][Court hearing to release Ozturk while removal proceedings continue]]
+[[id:ED1D54FC-21DD-4A53-87E9-2C9B678AA6A7][Rumeysa Ozturk, the Tuft's student detained by ICE for false claims of antisemitism due to an op-ed she wrote criticizing Israel, was ruled to not have exhibited any antisemitism PRIOR to detainment]]
+:END:
+Due to her asthma being triggered by stress and smells in ICE detention, as well as the government not having any evidence of their claims.
+The judge made it clear that this seemed like an unconstitutional detention for exhibiting free speech via the school newspaper op-ed.
+Attorneys requested any immediate request for stay by the government be denied since they have used stays to prolong detainment in the past.
+
+*** 2025-05-10 Saturday
+
+**** Trump fires director of U.S. Copyright Office after release 3 of report questioning AI training with copyrighted material :AI:politicalRetaliation:retaliation:politicization:
+:PROPERTIES:
+:Branch: Executive
+:Subject: Politicization
+:Link: https://www.cbsnews.com/news/trump-fires-director-of-u-s-copyright-office-shira-perlmutter-sources/
+:END:
+
+*** 2025-05-12 Monday
+
+**** Trump announces he will cut drug prices by 59%
+:PROPERTIES:
+:Branch: Executive
+:Subject: U.S. Economy
+:Link: https://www.reuters.com/business/healthcare-pharmaceuticals/trump-says-he-will-cut-drug-prices-by-59-2025-05-12/
+:END:
+No proof shows he would do this, but states more will be announced later today.
+
+**** U.S. and China agree to slash tariffs for 90 days :tariffs:China:economics:
+:PROPERTIES:
+:Branch: Executive
+:Subject: Tariffs
+:Link: https://www.cnbc.com/2025/05/12/us-and-china-agree-to-slash-tariffs-for-90-days.html
+:END:
+**** Trump says 11 "massive car factories" have been committed to being built in the U.S. :tariffs:MadeInTheUSA:Trump:economy:automotiveIndustry:corporations:
+:PROPERTIES:
+:Link:     https://bsky.app/profile/atrupar.com/post/3loy7mhp4go2w
+:Branch:   Executive
+:Subject:  U.S. Economy
+:END:
+
+**** Deputy attorney general Todd Blanche is appointed acting Librarian of Congress
+:PROPERTIES:
+:Branch: Executive
+:Subject: Trump Loyalism
+:Link: https://www.pbs.org/newshour/politics/deputy-attorney-general-todd-blanche-who-defended-trump-in-hush-money-trial-named-acting-librarian-of-congress
+:END:
+
+Todd Blanche was a key defense lawyer for Trump's federal indictments, including the Stormy Daniels hush money scandal.
 * Undated
 
 ** List of foreign nationals detained by ICE    :ICE:immigration:humanRights:
@@ -1407,4 +1622,410 @@ Trade wars are hurting farming outlooks as farmers struggle with weather pattern
 :Link: https://web.archive.org/web/20250418193538/https://cepr.net/publications/trump-derails-manufacturing-boom/
 :Subject: Manufacturing
 :END:
- d
+
+* TODOS
+
+** DONE https://bsky.app/profile/rparloff.bsky.social/post/3loccz3j4o22q
+CLOSED: [2025-05-09 Fri 20:07] SCHEDULED: <2025-05-03 Sat 21:01>
+
+** TODO https://bsky.app/profile/ruthmensch.bsky.social/post/3loeb3za3es23
+SCHEDULED: <2025-05-04 Sun 18:29>
+
+** TODO NYPD shared a Palestinian protester's info with ICE. Now it's evidence in her deportation case | AP News
+
+[[https://apnews.com/article/nypd-ice-leqaa-kordia-trump-palestinian-protests-90c6f446f431e8cec23a93172e1eb0b8?utm_source=newsshowcase&utm_medium=discover&utm_campaign=CCwQrZSRhPWkxovOARjqs7aC5bbhnokBKikIMBDfjZ30reDF79MBGN-u0ZvxuJ6SpgEqDwgAKgcICjCE7s4BMOH0KA&utm_content=bullets][NYPD shared a Palestinian protester's info with ICE. Now it's evidence in her deportation case | AP News]]
+
+** TODO US scientist who touted hydroxychloroquine to treat Covid named to pandemic prevention role | Trump administration | The Guardian
+
+[[https://www.theguardian.com/us-news/2025/may/05/covid-hydroxychloroquine-steve-hatfill][US scientist who touted hydroxychloroquine to treat Covid named to pandemic prevention role | Trump administration | The Guardian]]
+
+** TODO https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lojm2dbv6s2g
+
+** TODO https://bsky.app/profile/charlesornstein.bsky.social/post/3loirfbilos26
+
+** TODO https://bsky.app/profile/erininthemorning.com/post/3lojj5mt7uk2e
+
+** TODO https://bsky.app/profile/chrisgeidner.bsky.social/post/3lojhz3wip22g
+
+** TODO Report: HHS gave immigrant children to human traffickers
+
+[[https://thehill.com/blogs/blog-briefing-room/267490-report-hhs-gave-immigrant-children-to-human-traffickers/amp/][Report: HHS gave immigrant children to human traffickers]]
+
+** TODO HHS Whistleblower, Retired Border Patrol Agent, Counter-Trafficking Expert Testify on Biden-Harris Refusal to Protect Unaccompanied Alien Children – Committee on Homeland Security
+
+[[https://homeland.house.gov/2024/11/21/hhs-whistleblower-retired-border-patrol-agent-counter-trafficking-expert-testify-on-biden-harris-refusal-to-protect-unaccompanied-alien-children/][HHS Whistleblower, Retired Border Patrol Agent, Counter-Trafficking Expert Testify on Biden-Harris Refusal to Protect Unaccompanied Alien Children – Committee on Homeland Security]]
+
+** TODO Venezuelan gangs are trying to recruit children from migrant families. Here's what the NYPD is doing to stop them. - CBS New York
+
+[[https://www.cbsnews.com/amp/newyork/news/venezuelan-gangs-tren-de-aragua-new-york-city-migrants-asylum-seekers/][Venezuelan gangs are trying to recruit children from migrant families. Here's what the NYPD is doing to stop them. - CBS New York]]
+** TODO https://griid.org/2025/04/29/before-trump-arrives-in-macomb-michigan-today-he-received-a-letter-from-senators-gary-peters-and-elissa-slotkin-saying-they-want-to-work-with-him/
+** TODO https://bsky.app/profile/atrupar.com/post/3lo2bwjqc5d2f
+** TODO https://www.cnbc.com/2025/04/30/trump-gdp-tariffs-biden-overhang.html
+** TODO https://www.bloomberg.com/news/newsletters/2025-04-30/trump-s-first-economic-scorecard-gets-marked-with-gdp-contraction
+** TODO https://bsky.app/profile/marcelias.bsky.social/post/3lnxz4z7s6c2q
+** TODO https://www.courtlistener.com/docket/69741724/jgg-v-trump/?order_by=desc
+** TODO https://github.com/Joe-Moran/federal-timeline/blob/main/src/timeline/tag-button.js
+** TODO https://bsky.app/profile/bencollins.bsky.social/post/3lo2ilthnz22z
+** TODO https://bsky.app/profile/kyledcheney.bsky.social/post/3lo2i7a66ik2k
+** TODO https://bsky.app/profile/krhawkins.bsky.social/post/3lo2iupi6zc2i
+** TODO https://bsky.app/profile/leahgreenberg.bsky.social/post/3lo27hut5qs2e
+** TODO https://bsky.app/profile/chrisgeidner.bsky.social/post/3lo2czymn7c2z
+** TODO https://www.cnn.com/2025/04/30/politics/abrego-garcia-us-el-salvador-discussions/index.html
+** TODO https://newrepublic.com/post/194632/marco-rubio-brags-ignoring-courts-kilmar-abrego-garcia
+** TODO https://www.reuters.com/legal/government/us-supreme-court-says-federal-workers-military-leave-owed-full-salary-2025-04-30/
+** TODO https://www.reuters.com/world/us/trump-says-he-could-seek-el-salvadoran-mans-return-with-phone-call-2025-04-30/
+** TODO https://www.reuters.com/world/americas/sos-migrants-held-texas-fear-notorious-el-salvador-prison-2025-04-30/
+** TODO https://www.democracydocket.com/news-alerts/eac-tells-states-drop-dei-policies-election-security-funds/
+** TODO https://www.pbs.org/newshour/politics/judge-releases-palestinian-student-at-columbia-who-was-arrested-at-citizenship-interview
+** TODO https://www.nbcnews.com/health/health-news/kennedy-vaccine-safety-datalink-conspiracy-theory-rcna203411
+** TODO https://thehill.com/opinion/judiciary/5258941-trump-law-firms-deals/
+** TODO https://www.reuters.com/legal/government/us-supreme-court-sides-with-hhs-dispute-over-reimbursement-needy-patients-2025-04-29/
+** TODO https://www.washingtonpost.com/immigration/2025/04/29/trump-border-militar-zone-migrants-charges/
+** TODO https://www.axios.com/2025/04/11/trump-doj-maryland-man-el-salvador-prison
+** TODO https://en.wikipedia.org/wiki/Tiradentes
+** TODO https://www.publicnotice.co/p/lisa-murkowski-trump-afraid
+** TODO https://bsky.app/profile/kyledcheney.bsky.social/post/3lnmiqkf2hm2w
+** TODO https://www.theatlantic.com/newsletters/archive/2025/04/january-6-pardon-prison-trump/682485/?link_source=ta_bluesky_link&taid=6800ed49e972bd0001dd8dfe&utm_campaign=the-atlantic&utm_content=edit-promo&utm_medium=social&utm_source=bluesky
+** TODO https://www.opensecrets.org/news/2025/04/fraud-alert-thieves-just-stole-big-money-from-a-dozen-politicians-and-political-committees
+** TODO https://www.theatlantic.com/health/archive/2025/04/usaid-doge-children-starvation/682484/?link_source=ta_bluesky_link&taid=6800e9bde972bd0001dd8dea&utm_campaign=the-atlantic&utm_content=edit-promo&utm_medium=social&utm_source=bluesky
+** TODO https://www.404media.co/leaked-palantirs-plan-to-help-ice-deport-people/
+** TODO https://bsky.app/profile/adriancarrasquillo.bsky.social/post/3ln3xm6e5gc2n
+** TODO https://www.axios.com/2025/04/23/musk-bessent-trump-white-house-irs
+** TODO https://www.brennancenter.org/our-work/analysis-opinion/obscure-supreme-court-case-could-prevent-recession
+** TODO https://www.theguardian.com/us-news/2025/apr/22/trump-china-tariffs?utm_source=dlvr.it&utm_medium=bluesky&CMP=bsky_gu
+** TODO https://www.reuters.com/world/china/bessent-says-china-tariffs-are-not-sustainable-us-signals-willingness-de-2025-04-23/?taid=6809272766e4b3000122f5eb&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+** TODO https://www.aclu.org/news/racial-justice/educators-speak-out-on-harms-of-unlawful-education-department-directive?initms_aff=nat&initms_chan=soc&utm_medium=soc&initms=awr-na-bsky-na-nat-na-racialjustice-education-dei&utm_source=bsky&utm_campaign=dei&utm_content=awr-na-bsky-na-nat-na-racialjustice-education-dei&ms_aff=nat&ms_chan=soc&ms=awr-na-bsky-na-nat-na-racialjustice-education-dei
+** TODO https://www.mystateline.com/news/local-news/illinois-deportation-el-salvador/
+** TODO https://www.politico.com/news/2025/04/23/elon-musk-doge-trump-00306673
+** TODO https://www.pbs.org/newshour/politics/keep-these-4-things-on-your-radar-when-congress-returns
+** TODO https://www.reuters.com/business/autos-transportation/trump-exempt-carmakers-some-us-tariffs-ft-says-2025-04-23/?taid=6809560766e4b3000122f72d&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+** TODO https://www.axios.com/2025/04/23/state-attorneys-general-lawsuit-trump-tariffs
+** TODO https://www.reuters.com/world/us/us-justice-department-cancels-hundreds-grants-police-crime-victims-2025-04-23/
+** TODO https://bsky.app/profile/altnps.bsky.social/post/3lnj4osmmms23
+** TODO https://www.courtlistener.com/docket/69777799/abrego-garcia-v-noem/?order_by=desc
+** TODO https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lnj5eiyax22s
+** TODO https://gothamist.com/news/4-year-old-migrant-girl-other-kids-go-to-court-in-nyc-with-no-lawyer-the-cruelty-is-apparent
+** TODO https://bsky.app/profile/aclu.org/post/3lnirlorrdk2c
+** TODO https://www.reuters.com/markets/commodities/coffee-tariff-exemption-request-well-received-by-us-government-national-coffee-2025-04-23/?taid=68092e3166e4b3000122f61e&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+** TODO https://www.propublica.org/article/how-trump-budget-cuts-harm-kids-child-care-education-abuse
+** TODO https://www.politico.com/news/2025/04/23/jan-schakowsky-retirement-announcement-00306181
+** TODO https://journals.sagepub.com/doi/10.1177/23315024241296839
+** TODO https://eugeneweekly.com/2025/04/20/keep-your-hands-off-april-19-edition/
+** TODO https://www.reddit.com/r/politics/comments/1k63qk5/hi_im_david_graham_a_staff_writer_at_the_atlantic/
+** TODO https://www.theatlantic.com/podcasts/archive/2025/04/david-frum-show-the-crises-of-due-process/682553/?link_source=ta_bluesky_link&taid=680923a466e4b3000122f5d6&utm_campaign=the-atlantic&utm_content=edit-promo&utm_medium=social&utm_source=bluesky
+** TODO https://bsky.app/profile/atrupar.com/post/3lnil2hp4os2t
+** TODO https://bsky.app/profile/bencollins.bsky.social/post/3lniibl2gps2n
+** TODO https://www.scotusblog.com/
+** TODO https://www.thebulwark.com/p/trump-zeal-to-ruin-immigrant-lives-could-backfire-proposition-187-california-democrats
+** TODO https://www.washingtonpost.com/business/2025/04/15/doge-ssa-immigration-trump-housing/
+** TODO https://www.independent.co.uk/news/world/americas/us-politics/kilmar-abrego-garcia-wife-safe-house-b2738214.html
+** TODO https://newrepublic.com/post/194312/trump-deportation-rwanda
+** TODO https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/?utm_source=dlvr.it&utm_medium=bluesky
+** TODO https://www.cato.org/blog/why-trump-so-intent-sending-illegal-immigrant-noncriminals-prison-camps-el-salvador
+** TODO https://bsky.app/profile/reichlinmelnick.bsky.social/post/3ln3x3txayk2n
+** TODO https://www.advocate.com/law/mississippi-transgender-teen-name-change
+** TODO https://www.404media.co/the-fbi-cant-find-missing-records-of-its-hacking-tools/
+** TODO https://www.reuters.com/world/us/trump-us-supreme-court-challenges-judges-federal-worker-rehiring-order-2025-03-24/
+** TODO https://www.reuters.com/legal/trump-administration-reinstating-24500-fired-workers-after-court-order-2025-03-18/
+** TODO https://www.reuters.com/world/us/us-judge-extend-block-trump-administration-ordering-mass-firings-2025-03-13/
+** TODO https://www.reuters.com/world/us/us-appeals-court-sides-with-trump-clears-way-fire-thousands-federal-workers-2025-04-09/
+** TODO https://www.reuters.com/legal/us-supreme-court-halts-reinstatement-fired-federal-employees-2025-04-08/
+** TODO https://www.reuters.com/legal/trump-seek-overturn-ny-hush-money-conviction-after-immunity-ruling-nyt-2024-07-02/
+** TODO https://prospect.org/article/torturous-passage/
+** TODO https://www.emptywheel.net/2025/04/21/self-reportation-pete-hegseths-witch-hunt-ensnared-himself/
+** TODO https://www.wired.com/story/doge-access-immigration-data-department-of-labor/
+** TODO https://revealnews.org/podcast/trump-tariffs-economy-recession-stock-market/
+** TODO https://www.theatlantic.com/newsletters/archive/2025/04/ed-martin-russian-tv-trump/682488/
+** TODO https://www.reuters.com/world/us/trump-passport-policy-discriminates-against-transgender-people-judge-rules-2025-04-18/
+** TODO https://www.reuters.com/world/us/defense-chief-hegseth-shared-war-plans-second-signal-chat-nyt-reports-2025-04-20/
+** TODO https://bsky.app/profile/nkalamb.bsky.social/post/3lncz4oenj22z
+** TODO https://cezarypiatek.github.io/post/mocking-outgoing-http-requests-p1/
+** TODO https://bsky.app/profile/profgalloway.com/post/3lnbnhlhjjs2v
+** TODO https://www.pbs.org/newshour/show/nobel-peace-prize-winner-maria-ressa-discusses-state-of-u-s-democracy
+** TODO https://www.npr.org/2025/04/21/nx-s1-5361048/syria-white-helmets
+** TODO https://www.nbcnews.com/politics/national-security/info-pete-hegseth-shared-wife-brother-came-top-generals-secure-message-rcna198838?link_source=ta_bluesky_link&taid=68078c1766e4b3000122ed90&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky
+** TODO https://www.supremecourt.gov/opinions/24pdf/23-929_h3ci.pdf
+** TODO https://www.nytimes.com/2025/04/22/us/venezuela-immigrant-disappear-deport-ice.html
+** TODO https://news.bloomberglaw.com/banking-law/fdic-aims-to-cut-1-200-jobs-as-trump-workforce-purge-continues
+** TODO https://nypost.com/2025/04/21/us-news/judge-temporarily-blocks-nyc-mayor-adams-from-reopening-ice-office-on-rikers-island/
+** TODO https://bsky.app/
+** TODO https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-suspends-milk-quality-tests-amid-workforce-cuts-2025-04-21/?taid=6806ca7866e4b3000122ea8e&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+** TODO https://finance.yahoo.com/news/cleveland-cliffs-lays-off-more-114200251.html
+** TODO https://www.npr.org/sections/shots-health-news/2025/04/21/nx-s1-5371519/cdc-hhs-injury-prevention-federal-layoffs
+** TODO https://www.inquirer.com/move-bombing/
+** TODO https://theworld.org/stories/2025/04/18/migrants-deported-by-the-us-to-panama-are-still-looking-for-a-country-to-call-home
+** TODO https://theworld.org/stories/2025/04/16/in-mexican-border-cities-the-migrants-are-gone
+** TODO https://revealnews.org/
+** TODO https://www.nytimes.com/2025/04/15/us/aclu-sues-defense-department-schools-over-book-bans.html?smtyp=cur&smid=bsky-nytimes
+** TODO https://www.propublica.org/article/trump-doge-rubio-usaid-musk-death-toll-malaria-polio-tuberculosis
+** TODO https://www.pbs.org/newshour/politics/trumps-businesses-inaugural-committee-settle-d-c-lawsuit-for-750000
+** TODO https://www.pbs.org/newshour/health/court-rejects-trump-era-epa-finding-that-roundup-weed-killer-is-safe
+** TODO https://www.npr.org/2022/06/21/1106472863/georgia-officials-fact-check-infamous-trump-phone-call-in-real-time
+** TODO https://apnews.com/article/china-us-sanctions-hong-kong-89a7c78f16cadbc8ab43717a6f316b76
+** TODO https://www.washingtonpost.com/opinions/2025/04/21/trump-tariff-recession/?utm_campaign=wp_opinions&utm_medium=social&utm_source=bluesky
+** TODO https://www.reuters.com/world/us/imf-chief-economist-asked-about-trump-attacks-powell-says-central-banks-must-2025-04-22/?taid=6807c09166e4b3000122eebc&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+** TODO https://www.reuters.com/legal/government/trump-administration-pushes-appeals-court-enforce-militarys-transgender-ban-2025-04-22/?taid=6807c09066e4b3000122eebb&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter
+** TODO https://www.cnbc.com/2025/04/22/busiest-us-ports-see-big-drop-in-chinese-freight-vessel-traffic.html
+** TODO https://www.reuters.com/world/us/three-prosecutors-corruption-case-against-nyc-mayor-eric-adams-resign-according-2025-04-22/?taid=6807bf6666e4b3000122eeb6&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+** TODO https://www.politico.com/news/magazine/2025/04/22/trump-white-house-briefing-correspondents-natalie-winters-00290063
+** TODO https://www.brennancenter.org/our-work/analysis-opinion/second-gilded-age
+** TODO https://www.levernews.com/the-governments-chemical-disaster-tracking-tool-just-went-dark/
+** TODO https://www.reuters.com/business/aerospace-defense/lawmakers-urge-faa-address-safety-issues-washington-airport-after-incidents-2025-04-22/?taid=6807be3666e4b3000122eeb0&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+** TODO https://www.nature.com/articles/d41586-022-02998-w
+** TODO https://bsky.app/profile/piattodelgatto.bsky.social/post/3lng2lhau2c2j
+** TODO https://bsky.app/profile/mollyjongfast.bsky.social/post/3lne7kfzbik2j
+** TODO https://bsky.app/profile/altnps.bsky.social/post/3lng3hu2jdc22
+** TODO https://bsky.app/
+** TODO https://bsky.app/profile/altnps.bsky.social/post/3lngagr2fhk22
+** TODO https://www.reuters.com/legal/trump-administration-respond-court-harvards-funding-freeze-challenge-white-house-2025-04-22/?taid=6807d97e66e4b3000122ef51&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+** TODO https://www.reuters.com/world/us/democrat-phillips-resigns-us-energy-regulatory-panel-2025-04-22/?taid=6807da5766e4b3000122ef54&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+** TODO https://www.reuters.com/world/us/trump-administration-reorganizing-state-department-rubio-says-2025-04-22/
+** TODO https://www.axios.com/2025/04/22/60-minutes-bill-owens-producer-trump
+** TODO https://www.reuters.com/markets/asia/us-japan-move-closer-outline-trade-deal-source-says-2025-04-22/?taid=6807e03d66e4b3000122ef6a&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+** TODO https://gothamist.com/news/4-year-old-migrant-girl-other-kids-go-to-court-in-nyc-with-no-lawyer-the-cruelty-is-apparent
+** TODO https://www.reuters.com/world/us/us-invokes-rico-law-charging-more-alleged-venezuelan-gang-members-2025-04-22/
+** TODO https://bsky.app/profile/gregsargent.bsky.social/post/3lngbl63arc2q
+** TODO https://www.pbs.org/newshour/show/how-the-trump-administration-is-dismantling-climate-protections
+** TODO https://www.propublica.org/article/trump-cuts-firefighter-deaths
+** TODO https://www.cnn.com/2025/04/06/health/cdc-niosh-cuts-safety/index.html
+** TODO https://www.npr.org/2025/04/22/nx-s1-5340753/trump-democracy-authoritarianism-competive-survey-political-scientist
+** TODO https://www.ft.com/content/5d848403-4a15-4592-888b-eb7b754ecb3a?sharetype=blocked
+** TODO https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lngcpmeyo22k
+** TODO https://bsky.app/profile/chrisgeidner.bsky.social/post/3lngdexfjts2k
+** TODO https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lngd74cktk2k
+** TODO https://www.reuters.com/sustainability/climate-energy/environmental-lawyers-get-ready-pounce-trumps-energy-deregulation-moves-2025-04-22/
+** TODO https://www.project2025.observer/visualize/timeline
+** TODO https://www.dhs.gov/
+** TODO https://www.welcomestack.org/p/calibrated-to-reality
+** TODO https://www.newyorker.com/news/q-and-a/the-biden-official-who-doesnt-oppose-trumps-student-deportations
+** TODO https://www.courtlistener.com/docket/69673016/aids-vaccine-advocacy-coalition-v-dos/?order_by=desc
+** TODO https://www.courtlistener.com/docket/69624423/national-treasury-employees-union-v-vought/?order_by=desc
+** TODO https://signalcleveland.org/university-of-toledo-axing-nine-majors-response-ohio-sb1/
+** TODO https://bsky.app/profile/joshtpm.bsky.social/post/3lngdu34tqc2z
+** TODO https://bsky.app/
+** TODO https://www.politico.com/news/2025/04/22/voice-of-america-donald-trump-00303983
+** TODO https://bsky.app/profile/kyledcheney.bsky.social/post/3ln4lfdngx22f
+** TODO https://www.huffpost.com/entry/democrats-law-firms-caved-trump_n_6806aecee4b06d0beefcfb3f?38j
+** TODO https://www.reuters.com/business/us-court-keeps-trump-tariffs-force-against-group-small-businesses-2025-04-22/?taid=6808255666e4b3000122f100&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+** TODO https://migrantinsider.com/p/house-democrats-return-empty-handed
+** TODO https://www.thehandbasket.co/p/us-rwanda-relocates-iraqi-refugee-omar-ameen
+** TODO https://www.axios.com/2025/04/22/trump-russia-ukraine-peace-plan-crimea-donbas
+
+** TODO https://bsky.app/profile/did:plc:oehb7x42vip2dwy5mhwpir27/post/3loyg3h2ngs22
+** TODO https://www.realtimefascism.com/
+** TODO https://www.thehandbasket.co/p/us-rwanda-relocates-iraqi-refugee-omar-ameen
+** TODO https://www.democracydocket.com/cases/north-carolina-supreme-court-2024-election-protests-rejection-challenges-ii/
+** TODO https://www.nytimes.com/2025/04/02/climate/trump-layoffs-energy-assistance-liheap.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=p&pvid=D4B25C72-C135-412B-B2FD-95161C0FF554
+** TODO https://bsky.app/profile/out5p0ken.bsky.social/post/3lngopo6wc227
+** TODO https://www.project2025.observer/?agencies=Dept.+of+the+Treasury
+** TODO https://web.archive.org/web/20250423000153/https://www.thebulwark.com/p/trump-zeal-to-ruin-immigrant-lives-could-backfire-proposition-187-california-democrats
+** TODO https://bsky.app/
+** TODO https://bsky.app/profile/chrisgeidner.bsky.social/post/3lnguuni2qk2y
+** TODO https://www.levernews.com/thanks-for-signing-up/
+** TODO https://www.tribalbusinessnews.com/sections/energy/15095-federal-judge-blocks-epa-from-terminating-14b-in-clean-energy-funding
+** TODO https://storage.courtlistener.com/recap/gov.uscourts.dcd.278196/gov.uscourts.dcd.278196.80.0.pdf
+** TODO https://storage.courtlistener.com/recap/gov.uscourts.dcd.278436/gov.uscourts.dcd.278436.44.11_5.pdf
+** TODO https://bsky.app/
+** TODO https://www.reuters.com/legal/trump-says-he-is-suing-perkins-coie-law-firm-2025-04-23/
+** TODO https://www.axios.com/2025/04/23/trump-immigration-crackdown-us-citizens
+** TODO https://bsky.app/profile/chrisgeidner.bsky.social
+** TODO https://theintercept.com/2025/04/23/trump-eeoc-barnard-columbia-texts-jewish/
+** TODO https://www.dcnewsnow.com/news/local-news/maryland/prince-georges-county/hyattsville-police-department-details-2019-encounter-with-kilmar-abrego-garcia/
+** TODO https://www.opb.org/article/2025/04/22/lewis-clark-reed-willamette-university-presidents-trump-public-letter-constructive-engagement/
+** TODO https://dailyprogress.com/news/local/crime-courts/article_9ce921d6-5f61-4546-b0c9-ea2287d8bf16.html
+** TODO https://popular.info/p/us-citizen-wrongly-detained-by-border?utm_campaign=post&utm_medium=web
+** TODO https://www.mlive.com/news/ann-arbor/2025/04/3-arrested-released-in-fbi-raid-on-ypsilanti-home.html
+** TODO https://www.mlive.com/news/ann-arbor/2025/04/nessels-office-mum-on-reason-for-fbi-raids-in-ypsilanti-canton-ann-arbor.html
+** TODO https://www.motherjones.com/politics/2025/04/national-suicide-hotline-lgbtq-youth-cuts-rfk-jr-hhs/
+** TODO https://prospect.org/health/2025-04-23-trump-administration-objectively-pro-cancer/
+** TODO https://talkingpointsmemo.com/news/inside-the-fight-to-return-the-other-men-trump-sent-to-cecot
+** TODO https://apnews.com/article/trump-hegseth-infighting-e68a1ceab677f6bb490bdee0a463f214?utm_source=firefox-newtab-en-us
+** TODO https://www.wired.com/story/aclu-lawsuit-government-doge-access-sensitive-data/
+** TODO https://www.niemanlab.org/2025/04/national-science-foundation-cancels-research-grants-related-to-misinformation-and-disinformation/
+** TODO https://zeteo.com/p/ice-ambushed-mohsen-mahdawi-in-a
+** TODO https://www.axios.com/2025/05/09/habeas-corpus-white-house
+** TODO https://bsky.app/profile/linktothefiling.bsky.social
+** TODO https://www.reuters.com/legal/us-justice-department-directs-investigations-over-gender-affirming-care-2025-04-23/
+** TODO https://www.axios.com/2025/04/23/trump-powell-fed-interest-rates
+** TODO https://storage.courtlistener.com/recap/gov.uscourts.txsd.1990027/gov.uscourts.txsd.1990027.39.0.pdf
+** TODO https://aaronparnas.substack.com/p/the-trump-administration-doxxed-kilmar?r=mwv7z&utm_campaign=post&utm_medium=web&triedRedirect=true
+** TODO https://www.google.com/search?client=firefox-b-1-d&q=why+are+countries+issuing+travel+warnings+to+us
+** TODO https://www.nytimes.com/2025/04/24/us/politics/hegseth-signal-pentagon.html?smtyp=cur&smid=bsky-nytimes
+** TODO https://www.axios.com/2025/04/24/china-trump-tariffs
+** TODO https://www.nbcnews.com/news/amp/rcna199861
+** TODO https://www.therebuild.pub/p/trumps-attacks-on-the-fed-are-a-cost
+** TODO https://migrantinsider.com/p/washingtons-deportation-jackpot
+** TODO https://www.reuters.com/business/trump-trade-war-is-wrecking-hope-2025-us-trucking-rebound-2025-04-24/?link_source=ta_bluesky_link&taid=680a39600a54ef00013e8f2d&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky
+** TODO https://www.migrationpolicy.org/article/trump-2-immigration-first-100-days
+** TODO https://electionlawblog.org/?p=149610
+** TODO https://www.propublica.org/article/ed-martin-trump-interim-dc-us-attorney-secret-judge-attacks
+** TODO https://www.reuters.com/world/us/us-judge-orders-return-second-migrant-deported-el-salvador-2025-04-24/?taid=680a6bc80a54ef00013e9060&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter
+** TODO https://www.politico.com/news/2025/04/24/home-sales-tariffs-economy-mortgages-00307591
+** TODO https://bsky.app/profile/joshuajfriedman.com/post/3lnlfkuwrb22r
+** TODO https://www.thecity.nyc/2025/04/21/judge-blocks-ice-rikers-island-adams-migrants-mastro/
+** TODO https://data4democracy.substack.com/p/when-judges-become-targets-judicial?r=10322&utm_campaign=post&utm_medium=web&triedRedirect=true
+** TODO https://newrepublic.com/post/194421/donald-trump-claim-200-trade-deals
+** TODO https://www.axios.com/2025/04/25/hannah-dugan-fbi-charges-ice
+** TODO https://www.reuters.com/world/us/fbi-director-says-arrested-judge-obstructing-immigration-operation-2025-04-25/
+** TODO https://spectrumlocalnews.com/us/national/politics/2023/09/21/under-pressure-over-border--biden-admin-grants-protection-to-hundreds-of-thousands-of-venezuelans
+** TODO https://www.npr.org/2023/12/20/1220615028/biden-venezuela-fat-leonard
+** TODO https://www.americanimmigrationcouncil.org/research/biden-administrations-humanitarian-parole-program-cubans-haitians-nicaraguans-and
+** TODO https://www.cbsnews.com/news/venezuelans-legal-status-chnv-program/
+** TODO https://www.migrationpolicy.org/article/venezuelan-expulsions-policy-biden
+** TODO https://www.cfr.org/blog/more-hostages-no-more-sanctions-failure-biden-administration-venezuela-policy-0
+** TODO https://www.theatlantic.com/politics/archive/2025/04/kilmar-abrego-garcia-plan-reversal/682594/
+** TODO https://www.theatlantic.com/magazine/archive/2025/06/trump-economy-tariffs-stagflation/682572/
+** TODO https://www.theatlantic.com/politics/archive/2025/04/national-security-council-fiasco/682595/
+** TODO https://www.theatlantic.com/newsletters/archive/2025/04/project-2025-goals-trump-presidency/682597/
+** TODO https://www.npr.org/sections/shots-health-news/2025/04/24/nx-s1-5376473/hhs-restores-funding-for-womens-health-initiative
+** TODO https://www.propublica.org/article/who-is-ed-martin-career-dc-us-attorney
+** TODO https://www.nytimes.com/2025/04/28/us/politics/food-banks-trump-cuts-aid.html
+** TODO https://www.erininthemorning.com/p/white-house-teases-fake-anti-trans
+** TODO https://www.politico.com/news/2025/04/28/tom-homan-trump-deportations-immigrants-00312327
+** TODO https://www.bbc.com/future/article/20250422-usa-scientists-race-to-save-climate-data-before-its-deleted-by-the-trump-administration
+** TODO https://thebulletin.org/2025/03/were-losing-our-environmental-history-the-future-of-government-information-under-trump/
+** TODO https://screening-tools.com/
+** TODO https://www.nesdis.noaa.gov/about/documents-reports/notice-of-changes
+** TODO https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-eliminates-information-silos-to-stop-waste-fraud-and-abuse-60f3/
+** TODO https://www.whitehouse.gov/live/
+** TODO https://blogs.lse.ac.uk/usappblog/2025/02/11/donald-trump-is-plunging-government-websites-into-darkness-with-profound-consequences-for-american-democracy/
+** DONE https://safeguar.de/
+CLOSED: [2025-05-09 Fri 21:22]
+** DONE https://eotarchive.org/
+CLOSED: [2025-05-09 Fri 21:47]
+** TODO https://docs.google.com/spreadsheets/d/1b_HIeIPMqYeIYzIuNiNsnFj56NVm9UPKVPhoKmplc2M/edit?gid=662084391#gid=662084391
+** TODO https://www.bbc.com/news/articles/cgkj8gx1vy6o
+** TODO https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media
+** TODO https://www.rollingstone.com/politics/politics-features/trump-rubio-deported-us-citizen-children-mothers-coerced-1235326214/
+** TODO https://www.democracynow.org/2025/4/28/martin_omalley_social_security
+** TODO https://www.icij.org/investigations/china-targets/china-transnational-repression-dissent-around-world/
+** TODO https://www.washingtonpost.com/world/2025/04/28/china-ngos-un-geneva/
+** TODO https://www.thehandbasket.co/p/queer-trans-intel-chat-leak-chris-rufo
+** TODO https://www.reuters.com/sustainability/boards-policy-regulation/antitrust-enforcement-is-not-regulation-doj-official-says-2025-04-28/?link_source=ta_bluesky_link&taid=680fb0970a54ef000103dabf&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky
+** TODO https://www.reuters.com/world/us/us-law-firm-jenner-asks-court-permanently-bar-trump-executive-order-2025-04-28/
+** TODO https://www.politico.com/news/magazine/2025/04/28/trump-economic-plans-reality-check-00309673
+** TODO https://bsky.app/profile/jordanonrecord.bsky.social/post/3lnv7g6pkhk2s
+** TODO https://bsky.app/profile/atrupar.com/post/3lnvdmfgu7s2q
+** TODO https://www.npr.org/2025/04/28/nx-s1-5378684/doge-energy-department-nuclear-secrets-access
+** TODO https://www.lawfaremedia.org/article/our-reporter-s-notes-on-the-april-23-wilmerhale-hearing
+** TODO https://www.theguardian.com/us-news/2025/apr/28/trump-doj-voting-rights
+** TODO https://www.npr.org/sections/shots-health-news/2025/04/28/nx-s1-5375917/as-a-diversity-grant-dies-young-scientists-fear-it-will-haunt-their-careers
+** TODO https://bsky.app/profile/atrupar.com/post/3lo34uvdm6u2l
+** TODO https://www.theguardian.com/us-news/2025/may/01/trump-mike-waltz-national-security
+** TODO https://newrepublic.com/article/194655/trump-recession-begun-shipping-tariffs?utm_source=newsletter&utm_medium=email&utm_campaign=tnr_daily
+** TODO https://www.reuters.com/world/us/white-house-dismisses-chamber-push-small-businesses-tariff-relief-2025-05-01/?link_source=ta_bluesky_link&taid=681394aa925fde00018f2f92&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky
+** TODO https://bsky.app/profile/juddlegum.bsky.social/post/3lo4ls2tnxk27
+** TODO https://bsky.app/profile/jbendery.bsky.social/post/3lnzylmajpc2s
+** TODO https://www.404media.co/recession-indicator-bookings-for-the-german-tour-bus-in-my-neighborhood-are-down-30/
+** TODO https://www.reuters.com/business/autos-transportation/us-house-votes-rescind-approval-california-heavy-duty-truck-rules-2025-04-30/?taid=68139bb9925fde00018f2fdb&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter
+** TODO https://www.democracydocket.com/opinion/one-hundred-days-of-republican-complicity/
+** TODO https://bsky.app/profile/thebulwark.com/post/3lo4orhbx222p
+** TODO https://bsky.app/profile/reichlinmelnick.bsky.social/post/3lo4ogwxfoc2s
+** TODO https://bsky.app/profile/kyledcheney.bsky.social/post/3lo4ntvy7lw2k
+** TODO https://www.change.org/p/protect-the-porkies-protect-lake-superior-stop-the-copperwood-mine/u/33483222?cs_tk=AwxspC84Ee8SUQXqHGgAAXicyyvNyQEABF8BvDk4NTUzYzg3MWYxNmMzODdhODA3OGIwMDk0ZjY0NjA1OGI4ZjI3ZGRhM2VkMmU3YTJmZmUxNzhmY2I2Yjc1ZGI%3D&utm_campaign=45c29ae546634f1ca86a33b0deb30728&utm_content=initial_v0_9_0&utm_medium=email&utm_source=petition_update&utm_term=cs
+** TODO https://www.wsj.com/politics/national-security/trump-to-oust-national-security-adviser-mike-waltz-766873b1
+** TODO https://www.technologyreview.com/2025/05/01/1115988/senior-state-department-official-sought-internal-communications-with-journalists-european-officials-and-trump-critics/
+** TODO https://www.politico.com/news/2020/03/07/trump-coronavirus-management-style-123465
+** TODO https://www.scribd.com/document/451600062/Read-Trump-letter-declaring-coronavirus-national-emergency-under-Stafford-Act#fullscreen&from_embed
+** TODO https://www.nytimes.com/2020/03/13/us/politics/trump-coronavirus-news-conference.html
+** TODO https://www.whitehouse.gov/presidential-actions/proclamation-declaring-national-emergency-concerning-novel-coronavirus-disease-covid-19-outbreak/
+** TODO https://bsky.app/profile/erininthemorning.com/post/3lo54n7h7s22z
+** TODO https://apnews.com/article/school-mental-health-grants-trump-biden-dei-00bec2d96371f023ac56fe3f32f3e92f
+** TODO https://apnews.com/article/biden-signs-gun-violence-bill-c21249287f976c2c164d8753205c2e6d
+** TODO https://apnews.com/article/congress-gun-violence-bill-live-updates-20f7c9738fee4eba1d7fed155301ee25
+** TODO https://apnews.com/article/abortion-supreme-court-decision-854f60302f21c2c35129e58cf8d8a7b0
+** TODO https://apnews.com/article/supreme-court-guns-decision-what-to-know-a068d964981b6d1242a5ab124224f77a
+** TODO https://apnews.com/article/teens-mental-health-girls-pandemic-schools-3de65c209dff58defb3794c6e2d0b6e0
+** TODO https://apnews.com/article/education-health-pandemics-teens-cd01cd672539d6a3dbada46bfa47203a
+** TODO https://www.apaservices.org/practice/business/technology/on-the-horizon/behavioral-health-initiatives
+** TODO https://www.congress.gov/bill/117th-congress/senate-bill/2938?q=%7B%22search%22%3A%22actionDate%3A%5C%22117%7C2022-06-25%5C%22+AND+%28billIsReserved%3A%5C%22N%5C%22+OR+type%3A%5C%22AMENDMENT%5C%22%29%22%7D&s=1&r=3
+** TODO https://www.cascadepbs.org/environment/2022/02/wa-wind-power-farms-may-conflict-habitat-preservation-projects
+** TODO https://www.reddit.com/r/highspeedrail/comments/1k4jurm/a_history_of_how_environmental_lawsuits_have/
+** TODO https://www.courtlistener.com/docket/69626101/pacito-v-trump/?order_by=desc
+** TODO https://www.reuters.com/business/energy/us-army-corps-targeting-fall-decision-enbridge-line-5-tunnel-2025-05-02/?link_source=ta_bluesky_link&taid=681535e1925fde00018f3a7c&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky
+** TODO https://bsky.app/profile/chrisgeidner.bsky.social/post/3lo7rhudk322s
+** TODO https://www.euronews.com/my-europe/2025/05/02/us-will-not-fly-around-the-world-to-mediate-ukraine-russia-meetings-washington-says
+** TODO https://bsky.app/profile/ufw.bsky.social/post/3lo7n7ypv5x2r
+** TODO https://bsky.app/profile/dylantus.bsky.social/post/3lo7qfqb6uk2w
+** TODO https://bsky.app/profile/plutokiller.com/post/3lo7m72m23s2z
+** TODO https://bsky.app/profile/joshuajfriedman.com/post/3lnfovqakns2l
+** TODO https://www.reuters.com/world/americas/sheinbaum-says-she-rejected-trumps-offer-send-troops-mexico-2025-05-03/
+** TODO https://www.reuters.com/world/americas/guatemalan-migrant-who-gave-birth-us-avoids-rapid-deportation-2025-05-03/
+** TODO https://www.reuters.com/world/us/us-designates-haitian-gang-alliance-viv-ansanm-transnational-terrorist-group-2025-05-02/
+** TODO https://www.reuters.com/business/media-telecom/trump-posts-ai-generated-photo-himself-pope-2025-05-03/
+** TODO https://www.reuters.com/business/world-at-work/us-worker-safety-agency-notifies-employees-firings-2025-05-03/
+** TODO https://www.reuters.com/world/us/trump-unveils-federal-budget-blueprint-2025-05-02/
+** DONE https://www.reuters.com/world/us/us-judge-strikes-down-trump-order-against-law-firm-perkins-coie-2025-05-02/
+CLOSED: [2025-05-09 Fri 20:59]
+** TODO https://www.reuters.com/legal/usda-agrees-not-freeze-maine-nutrition-funds-over-transgender-athletes-2025-05-02/
+** TODO https://www.whitehouse.gov/presidential-actions/2025/05/ending-taxpayer-subsidization-of-biased-media/
+** TODO https://www.cnn.com/2025/05/06/politics/us-to-stop-strikes-on-houthis-in-yemen
+** TODO https://www.reuters.com/world/us/trump-pick-washington-dc-prosecutor-wont-get-senate-vote-before-deadline-source-2025-05-06/
+** TODO https://www.reuters.com/business/world-at-work/us-secs-new-chief-says-15-staff-have-left-contract-cuts-come-sources-say-2025-05-06/?taid=681a7bda925fde00013da243&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter
+** TODO https://www.theatlantic.com/newsletters/archive/2025/05/congress-budget-bill-trump/682711/?link_source=ta_bluesky_link&taid=681a7bd7925fde00013da240&utm_campaign=the-atlantic&utm_content=edit-promo&utm_medium=social&utm_source=bluesky
+** TODO https://grcmc.org/grtv/learn/summercamp?utm_medium=paid&utm_source=fb&utm_id=120220033092460357&utm_content=120220033092470357&utm_term=120220033092450357&utm_campaign=120220033092460357
+** TODO https://www.icij.org/investigations/china-targets/about-china-targets-investigation/
+** TODO https://www.notus.org/energy/epa-energy-star-program-appliances-pushback
+** TODO https://www.propublica.org/article/drug-enforcement-administration-ends-body-camera-program-trump?utm_source=bluesky&utm_medium=social&utm_campaign=propublica-bsky&utm_content=5-6
+** TODO https://www.thebulwark.com/p/brian-kemp-dream-post-trump-gop-republican-party-senate-governor-georgia
+** TODO https://www.theatlantic.com/technology/archive/2025/05/reddit-ai-persuasion-experiment-ethics/682676/?link_source=ta_bluesky_link&taid=3c54dbc2-c63b-40a6-b9dc-1b2db525ff6d&utm_campaign=the-atlantic&utm_content=edit-promo&utm_medium=social&utm_source=bluesky
+** TODO https://www.mlive.com/politics/2025/05/tariffs-to-add-2k-15k-to-cost-of-making-vehicles-study-finds.html?lctg=680f70c3781640fc5e060055&utm_source=Sailthru&utm_medium=email&utm_campaign=Newsletter_morning_briefing%202025-05-07&utm_term=Newsletter_morning_briefing
+** TODO https://www.ahmedbaba.news/p/trump-corruptly-profits-from-the
+** TODO https://www.propublica.org/article/education-department-civil-rights-donald-trump-discrimination
+** TODO https://www.reuters.com/world/us/republican-concedes-north-carolina-court-race-ending-bid-throw-out-votes-2025-05-07/?taid=681ba6b1925fde000197311b&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter
+** TODO https://www.reuters.com/world/middle-east/us-israel-discuss-possible-us-led-administration-gaza-sources-say-2025-05-07/
+** TODO https://www.reuters.com/business/fed-likely-leave-rates-unchanged-it-hunts-clarity-economy-2025-05-07/?link_source=ta_bluesky_link&taid=681ba32f925fde00019730fe&utm_campaign=trueanthem&utm_medium=social&utm_source=bluesky
+** TODO https://abcnews.go.com/Politics/justice-department-investigating-2022-abrego-garcia-traffic-stop/story?id=121492776
+** TODO https://bsky.app/profile/chrisgeidner.bsky.social/post/3lolxi2bguk2n
+** TODO https://www.whitehouse.gov/wp-content/uploads/2025/05/Fiscal-Year-2026-Discretionary-Budget-Request.pdf
+** TODO https://web.archive.org/web/20250506050414/https://apnews.com/article/trump-budget-taxes-spending-vought-4549eb165410186da001c8cdce462492
+** TODO https://www.nbcnews.com/politics/congress/senate-republicans-block-border-security-bill-campaign-border-chaos-rcna153607
+** TODO https://www.theguardian.com/us-news/article/2024/may/23/senate-democrats-immigration-border-bill
+** TODO https://www.nbcnews.com/politics/congress/senate-republicans-knife-bipartisan-border-security-bill-declaring-dea-rcna137572
+** TODO https://chatgpt.com/c/681d4cf0-c8b4-8008-b8a2-56df4f2e9183
+** TODO https://michiganadvance.com/2025/05/08/michigan-department-of-state-says-subpoenas-for-election-training-materials-violate-the-law/?emci=bbf7d4cb-bc2c-f011-8b3d-6045bded8cca&emdi=959b55d7-bf2c-f011-8b3d-6045bded8cca&ceid=635138
+** TODO https://michiganadvance.com/2025/05/08/forum-highlights-cost-defunding-public-media-has-on-emergency-alerts-educational-programming/?emci=bbf7d4cb-bc2c-f011-8b3d-6045bded8cca&emdi=959b55d7-bf2c-f011-8b3d-6045bded8cca&ceid=635138
+** TODO https://www.freep.com/story/money/business/michigan/2025/05/08/michigan-unemployment-claims/83519919007/
+** TODO https://www.wired.com/story/cbp-rescinds-policies-on-care-of-pregnant-women-infants/
+
+** TODO https://bsky.app/profile/did:plc:efpytyxmwow5ffwi3dphhrlq/post/3loudjjwqm22h
+** TODO https://www.mainepublic.org/courts-and-crime/2025-05-08/lawyers-say-border-patrol-in-maine-is-arresting-people-who-are-in-lawful-immigration-processes
+
+
+** TODO https://bsky.app/profile/jilldlawrence.bsky.social/post/3ljzlnsghnc2t
+:PROPERTIES:
+:CREATED:  [2025-03-10 Mon 11:54]
+:END:
+
+** TODO https://bsky.app/profile/samwang.bsky.social/post/3lj4cpa5utc2s
+:PROPERTIES:
+:CREATED:  [2025-02-26 Wed 20:42]
+:END:
+
+** TODO https://bsky.app/profile/radiofreetom.bsky.social/post/3lj4gnjvd5v2j
+:PROPERTIES:
+:CREATED:  [2025-02-26 Wed 17:33]
+:END:
+
+** TODO https://bsky.app/profile/kaofelix.dev/post/3lijp42zre22u
+:PROPERTIES:
+:CREATED:  [2025-02-19 Wed 16:14]
+:END:
+
+** TODO Who Is Running the United States, Musk or Trump? - The Atlantic
+:PROPERTIES:
+:CREATED:  [2025-02-19 Wed 16:06]
+:END:
+
+[[https://www.theatlantic.com/ideas/archive/2025/02/trump-musk/681729/?utm_source=bluesky&utm_medium=social&utm_campaign=the-atlantic&utm_content=edit-promo][Who Is Running the United States, Musk or Trump? - The Atlantic]]
+
+** TODO https://bsky.app/profile/david.stanaway.net/post/3lifhyq4j4k22
+:PROPERTIES:
+:CREATED:  [2025-02-17 Mon 15:42]
+:END:
+
+** TODO https://bsky.app/profile/owasow.bsky.social/post/3liffq5kamk2w
+:PROPERTIES:
+:CREATED:  [2025-02-17 Mon 14:09]
+:END:
+

@@ -50,7 +50,7 @@ const timeline = (entries) => {
     align: 'auto',
     cluster: { showStipes: true, maxItems: 2 },
     zoomMin: (1000 * 60 * 60 * 24 * 30) / 9, // 1 month
-    zoomMax: 1000 * 60 * 60 * 24 * 30 * 12 * 3, // 3 year
+    zoomMax: 1000 * 60 * 60 * 24 * 30 * 12 * 5, // 5 years
     moveable: true,
     height: '100%',
     template: function (item, element) {

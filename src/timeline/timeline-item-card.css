@@ -4,6 +4,17 @@
   font-family: sans-serif;
 }
 
+.details-drawer ~ p {
+  padding: 12px;
+  margin-bottom: 0;
+  font-family: 'Times New Roman', serif;
+  font-size: 1rem;
+  line-height: 1.2;
+  background: #f9f0f0;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
 .timeline-tags-container {
   display: flex;
   flex-wrap: wrap;

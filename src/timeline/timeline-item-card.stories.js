@@ -12,7 +12,7 @@ export default {
       tags,
       filter,
       onFilterChange,
-    })
+    }).cardTemplate
   },
   argTypes: {
     title: { control: 'text' },

@@ -2,6 +2,7 @@ import { format } from 'date-fns'
 import { createLink } from './link'
 import { buildTagButton } from './tag-button'
 import './timeline-item-card.css'
+import { eventCoordinator, events } from '../event-coordinator.js'
 
 export const buildCardTemplate = ({
   title = '',
@@ -10,7 +11,6 @@ export const buildCardTemplate = ({
   details = '',
   tags = [],
   filter = { tag: '', subject: '' },
-  onFilterChange = () => {},
 }) => {
   const hasTags = !!tags.length
   let cardTemplate = document.createElement('div')
@@ -18,7 +18,8 @@ export const buildCardTemplate = ({
   let filterProxy = new Proxy(filter, {
     set(object, property, newValue) {
       object[property] = newValue
-      onFilterChange(object)
+      eventCoordinator.emit(events.FILTER_CHANGED, object)
+
       return true
     },
   })
@@ -41,14 +42,16 @@ export const buildCardTemplate = ({
       tags: tags,
       selected: filterProxy.tag,
       onClick: (e) => {
-        filterProxy.tag = e.target.innerText
+        filterProxy.tag = e.target.textContent
       },
     }),
   ]
   elements.forEach((element) => cardTemplate.appendChild(element))
   cardTemplate.classList = classes.join(' ')
 
-  return cardTemplate
+  return {
+    cardTemplate,
+  }
 }
 
 const buildCardTitle = ({ text = '', href = '' }) => {

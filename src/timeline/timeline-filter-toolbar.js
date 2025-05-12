@@ -1,51 +1,55 @@
 import './timeline-filter-toolbar.css'
+import { eventCoordinator, events } from '../event-coordinator.js'
 
-export function buildFilterToolbar({
-  subjectOptions = [],
-  tagOptions = [],
-  onFilterChange = () => {},
-}) {
+export function buildFilterToolbar({ subjectOptions = [], tagOptions = [] }) {
   let filterToolbar = document.createElement('div')
   filterToolbar.className = 'filters'
 
-  filterToolbar.appendChild(
-    createTagFilter({
-      onChange: (event) => (filter.tag = event.target.value),
-      tagOptions,
-    })
-  )
-  filterToolbar.appendChild(
-    createSubjectFilter({
-      onChange: (event) => (filter.subject = event.target.value),
-      subjectOptions,
-    })
-  )
+  const tagFilter = createTagFilter({
+    onChange: (event) => (filter.tag = event.target.value),
+    tagOptions,
+  })
+
+  const subjectFilter = createSubjectFilter({
+    onChange: (event) => (filter.subject = event.target.value),
+    subjectOptions,
+  })
+
+  filterToolbar.appendChild(tagFilter)
+  filterToolbar.appendChild(subjectFilter)
 
   let filter = new Proxy(
     { tag: '', subject: '' },
     {
       set(object, property, newValue) {
         object[property] = newValue
-        resetOtherProperties(object, property)
-        onFilterChange(object)
+        eventCoordinator.emit(events.FILTER_CHANGED, object)
+
         selectTagOption(object.tag)
         selectSubjectOption(object.subject)
+
         return true
       },
     }
   )
 
+  eventCoordinator.on(events.FILTER_CHANGED, (newFilter) => {
+    updateFilter(newFilter)
+  })
+
   function updateFilter(updatedFilter) {
-    // filter
-    onFilterChange(updatedFilter)
+    selectTagOption(updatedFilter.tag)
+    selectSubjectOption(updatedFilter.subject)
   }
 
-  return { filterToolbar, updateFilter }
+  return { filterToolbar }
 }
 
 const selectTagOption = (tag) => {
   let selectElement = document.getElementById('filter-tag')
   selectElement.value = tag
+  const selectedTag = selectElement.querySelector(`option[value="${tag}"]`)
+  selectedTag.selected = tag
 }
 
 const selectSubjectOption = (subject) => {
@@ -54,7 +58,7 @@ const selectSubjectOption = (subject) => {
 }
 
 function createSubjectFilter({ subjectOptions = [], onChange = () => {} }) {
-  let filterInput = createFilterSelect({
+  let filterInput = createSelectInput({
     id: 'filter-subject',
     label: 'Subject',
     optionsElements: createFilterOptions({ values: subjectOptions }),
@@ -65,7 +69,7 @@ function createSubjectFilter({ subjectOptions = [], onChange = () => {} }) {
 }
 
 function createTagFilter({ tagOptions = [], onChange = () => {} }) {
-  let filterInput = createFilterSelect({
+  let filterInput = createSelectInput({
     id: 'filter-tag',
     label: 'Tag',
     optionsElements: createFilterOptions({ values: tagOptions }),
@@ -84,7 +88,7 @@ function createFilterOptions({ values = [] }) {
   })
 }
 
-function createFilterSelect({ id = '', label = '', optionsElements = [], onChange = () => {} }) {
+function createSelectInput({ id = '', label = '', optionsElements = [], onChange = () => {} }) {
   let filterSelect = document.createElement('select')
   filterSelect.id = id
   filterSelect.className = 'timeline-filter-select'
@@ -96,15 +100,7 @@ function createFilterSelect({ id = '', label = '', optionsElements = [], onChang
     filterSelect.appendChild(option)
   })
 
-  filterSelect.addEventListener('change', onChange)
+  filterSelect.addEventListener('input', onChange)
 
   return filterLabel
-}
-
-function resetOtherProperties(object, property) {
-  Object.entries(object).forEach(([key]) => {
-    if (key !== property) {
-      object[key] = ''
-    }
-  })
 }
